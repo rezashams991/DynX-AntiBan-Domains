@@ -1,0 +1,24 @@
+name: Update DynX List and Restart Container
+
+on:
+  push:
+    paths:
+      - 'DynX-AntiBan-list.lst'
+
+jobs:
+  update-and-restart:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Execute SSH commands
+        uses: appleboy/ssh-action@v1.0.0
+        with:
+          host: ${{ secrets.SERVER_IP }}
+          username: ${{ secrets.SSH_USERNAME }}
+          password: ${{ secrets.SSH_PASSWORD }}
+          script: |
+            rm -f DynX-AntiBan-list.lst
+            wget https://github.com/MrDevAnony/DynX-AntiBan-Domains/raw/refs/heads/main/DynX-AntiBan-list.lst
+            docker compose restart
