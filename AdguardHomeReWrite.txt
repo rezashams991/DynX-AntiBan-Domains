@@ -1346,3 +1346,5 @@
 ||hackthebox.com^$dnsrewrite=212.23.214.119
 ||tryhackme.com^$dnsrewrite=212.23.214.119
 ||googleusercontent.com^$dnsrewrite=212.23.214.119
+||clashofclans.com^$dnsrewrite=212.23.214.119
+||supercell.com^$dnsrewrite=212.23.214.119
