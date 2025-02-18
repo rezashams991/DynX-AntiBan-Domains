@@ -41,9 +41,11 @@ jobs:
           cat AdguardHomeReWrite.txt
 
       - name: Commit and Push Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add AdguardHomeReWrite.txt
           git commit -m "Update AdguardHomeReWrite.txt with latest domains"
-          git push
+          git push https://${{ secrets.TOKEN }}@github.com/${{ github.repository }}.git
