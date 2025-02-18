@@ -26,3 +26,24 @@ jobs:
             wget -q https://github.com/MrDevAnony/DynX-AntiBan-Domains/raw/refs/heads/main/DynX-AntiBan-list.lst
             docker compose restart
             exit
+
+      - name: Process DynX List and Create AdguardHomeReWrite.txt
+        run: |
+          # Download the DynX-AntiBan-list.lst file
+          wget -q https://github.com/MrDevAnony/DynX-AntiBan-Domains/raw/refs/heads/main/DynX-AntiBan-list.lst
+
+          # Process the file and convert domains to the desired format
+          while IFS= read -r domain; do
+            echo "||$domain^$dnsrewrite=212.23.214.119" >> AdguardHomeReWrite.txt
+          done < DynX-AntiBan-list.lst
+
+          # Optional: Print the contents of the new file for debugging
+          cat AdguardHomeReWrite.txt
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add AdguardHomeReWrite.txt
+          git commit -m "Update AdguardHomeReWrite.txt with latest domains"
+          git push
