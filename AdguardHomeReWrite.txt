@@ -1,3 +1,4 @@
+||radware.com^$dnsrewrite=212.23.214.119
 ||konami.com^$dnsrewrite=212.23.214.119
 ||accounts.google.com^$dnsrewrite=212.23.214.119
 ||ads.google.com^$dnsrewrite=212.23.214.119
