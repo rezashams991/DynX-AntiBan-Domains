@@ -895,7 +895,7 @@
 ||userstats.xboxlive.com^$dnsrewrite=212.23.214.119
 ||usertitles.xboxlive.com^$dnsrewrite=212.23.214.119
 ||utas.prd.s5.prd.futc-ext.gcp.ea.com^$dnsrewrite=212.23.214.119
-||www.msftconnecttest.com^$dnsrewrite=212.23.214.119
+||msftconnecttest.com^$dnsrewrite=212.23.214.119
 ||www.msftncsi.com^$dnsrewrite=212.23.214.119
 ||www.xboxab.com^$dnsrewrite=212.23.214.119
 ||www.xboxlive.com^$dnsrewrite=212.23.214.119
