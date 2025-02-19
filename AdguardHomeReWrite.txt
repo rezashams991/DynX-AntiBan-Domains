@@ -1530,3 +1530,4 @@
 ||gstatic.com^$dnsrewrite=212.23.214.119
 ||vscode-unpkg.net^$dnsrewrite=212.23.214.119
 ||grok.com^$dnsrewrite=212.23.214.119
+||x.ai^$dnsrewrite=212.23.214.119
