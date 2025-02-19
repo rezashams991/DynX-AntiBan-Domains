@@ -1526,3 +1526,4 @@
 ||amazontrust.com^$dnsrewrite=212.23.214.119
 ||gamesplanet.com^$dnsrewrite=212.23.214.119
 ||ifconfig.me^$dnsrewrite=212.23.214.119
+||steamstatic.com^$dnsrewrite=212.23.214.119
