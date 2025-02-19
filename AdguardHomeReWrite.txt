@@ -1521,5 +1521,10 @@
 ||ubereats.com^$dnsrewrite=212.23.214.119
 ||auth.uber.com^$dnsrewrite=212.23.214.119
 ||registry.redhat.io^$dnsrewrite=212.23.214.119
-||stackshare.io^$dnsrewrite=212.23.214.119
 ||aistudio.google.com^$dnsrewrite=212.23.214.119
+||dnsv1.com^$dnsrewrite=212.23.214.119
+||edgesuite.net^$dnsrewrite=212.23.214.119
+||gpubgm.com^$dnsrewrite=212.23.214.119
+||amsoveasea.com^$dnsrewrite=212.23.214.119
+||pubgmobile.com^$dnsrewrite=212.23.214.119
+||pubgmobile.com^$dnsrewrite=212.23.214.119
