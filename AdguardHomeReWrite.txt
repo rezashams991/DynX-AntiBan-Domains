@@ -1528,3 +1528,4 @@
 ||ifconfig.me^$dnsrewrite=212.23.214.119
 ||steamstatic.com^$dnsrewrite=212.23.214.119
 ||gstatic.com^$dnsrewrite=212.23.214.119
+||vscode-unpkg.net^$dnsrewrite=212.23.214.119
