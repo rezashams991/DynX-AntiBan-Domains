@@ -1521,3 +1521,4 @@
 ||msn.com^$dnsrewrite=212.23.214.119
 ||msftncsi.com^$dnsrewrite=212.23.214.119
 ||dockerstatic.com^$dnsrewrite=212.23.214.119
+||windowsupdate.com^$dnsrewrite=212.23.214.119
