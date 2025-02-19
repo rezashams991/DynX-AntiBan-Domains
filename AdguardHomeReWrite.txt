@@ -1522,3 +1522,4 @@
 ||auth.uber.com^$dnsrewrite=212.23.214.119
 ||registry.redhat.io^$dnsrewrite=212.23.214.119
 ||stackshare.io^$dnsrewrite=212.23.214.119
+||aistudio.google.com^$dnsrewrite=212.23.214.119
