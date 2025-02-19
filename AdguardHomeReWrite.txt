@@ -1,3 +1,6 @@
+||akamaized.net^$dnsrewrite=212.23.214.119
+||ettdnsv.com^$dnsrewrite=212.23.214.119
+||gbcass.com^$dnsrewrite=212.23.214.119
 ||radware.com^$dnsrewrite=212.23.214.119
 ||konami.com^$dnsrewrite=212.23.214.119
 ||accounts.google.com^$dnsrewrite=212.23.214.119
