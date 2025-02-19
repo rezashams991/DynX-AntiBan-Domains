@@ -1516,3 +1516,7 @@
 ||amsoveasea.com^$dnsrewrite=212.23.214.119
 ||pubgmobile.com^$dnsrewrite=212.23.214.119
 ||ip.sb^$dnsrewrite=212.23.214.119
+||xboxservices.com^$dnsrewrite=212.23.214.119
+||vscode-cdn.net^$dnsrewrite=212.23.214.119
+||msn.com^$dnsrewrite=212.23.214.119
+||msftncsi.com^$dnsrewrite=212.23.214.119
