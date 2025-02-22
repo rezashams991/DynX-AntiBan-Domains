@@ -842,7 +842,6 @@ firebaseextensions.clients6.google.com
 repo.mysql.com
 packages.cloud.google.com
 apt.kubernetes.io
-chat.claude.ai
 dgivdslhqe3qo.cloudfront.net
 d36jcksde1wxzq.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
@@ -1536,3 +1535,4 @@ gstatic.com
 vscode-unpkg.net
 grok.com
 x.ai
+anthropic.com
