@@ -16,7 +16,7 @@ jobs:
 
       - name: Process DynX List and Update Adguard File
         run: |
-          awk -F'\\^' '{print "||"$1"^$dnsrewrite=212.23.214.119"}' DynX-AntiBan-list.lst > AdguardHomeReWrite.txt
+          awk -F'\\^' '{print "||"$1"^$dnsrewrite=188.212.99.160"}' DynX-AntiBan-list.lst > AdguardHomeReWrite.txt
           
           if git diff --quiet AdguardHomeReWrite.txt; then
             echo "No changes in AdguardHomeReWrite.txt"
