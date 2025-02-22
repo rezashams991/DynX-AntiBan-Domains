@@ -621,7 +621,6 @@
 ||myip.com^$dnsrewrite=188.212.99.160
 ||nodesource.com^$dnsrewrite=188.212.99.160
 ||nestjs.com^$dnsrewrite=188.212.99.160
-||check-host.net^$dnsrewrite=188.212.99.160
 ||sheerid.com^$dnsrewrite=188.212.99.160
 ||jenkins-ci.org^$dnsrewrite=188.212.99.160
 ||codecov.io^$dnsrewrite=188.212.99.160
@@ -1342,7 +1341,6 @@
 ||clashofclans.com^$dnsrewrite=188.212.99.160
 ||fortnite.com^$dnsrewrite=188.212.99.160
 ||supercell.com^$dnsrewrite=188.212.99.160
-||dnsleaktest.com^$dnsrewrite=188.212.99.160
 ||notion.com^$dnsrewrite=188.212.99.160
 ||java.com^$dnsrewrite=188.212.99.160
 ||paymentwall.com^$dnsrewrite=188.212.99.160
