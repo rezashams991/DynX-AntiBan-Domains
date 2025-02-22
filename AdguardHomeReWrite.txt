@@ -1531,7 +1531,6 @@
 ||gamesplanet.com^$dnsrewrite=188.212.99.160
 ||ifconfig.me^$dnsrewrite=188.212.99.160
 ||steamstatic.com^$dnsrewrite=188.212.99.160
-||gstatic.com^$dnsrewrite=188.212.99.160
 ||vscode-unpkg.net^$dnsrewrite=188.212.99.160
 ||grok.com^$dnsrewrite=188.212.99.160
 ||x.ai^$dnsrewrite=188.212.99.160
