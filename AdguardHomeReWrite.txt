@@ -1533,3 +1533,4 @@
 ||grok.com^$dnsrewrite=188.212.99.160
 ||x.ai^$dnsrewrite=188.212.99.160
 ||anthropic.com^$dnsrewrite=188.212.99.160
+||zamimg.com^$dnsrewrite=188.212.99.160
