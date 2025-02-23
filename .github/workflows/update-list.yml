@@ -14,20 +14,34 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Process DynX List and Update Adguard File
+      - name: Process DynX List and Update Adguard File for Primary tunnel server
         run: |
-          awk -F'\\^' '{print "||"$1"^$dnsrewrite=5.198.178.208"}' DynX-AntiBan-list.lst > AdguardHomeReWrite.txt
+          awk -F'\\^' '{print "||"$1"^$dnsrewrite=5.198.178.208"}' DynX-AntiBan-list.lst > AdguardHomeReWrite-Primary.txt
           
-          if git diff --quiet AdguardHomeReWrite.txt; then
-            echo "No changes in AdguardHomeReWrite.txt"
+          if git diff --quiet AdguardHomeReWrite-Primary.txt; then
+            echo "No changes in AdguardHomeReWrite-Primary.txt"
           else
             git config --global user.name "github-actions[bot]"
             git config --global user.email "github-actions[bot]@users.noreply.github.com"
-            git add AdguardHomeReWrite.txt
-            git commit -m "Update AdguardHomeReWrite.txt with latest domains"
+            git add AdguardHomeReWrite-Primary.txt
+            git commit -m "Update AdguardHomeReWrite-Primary.txt with latest domains"
             git push
           fi
 
+      - name: Process DynX List and Update Adguard File for Secondary tunnel server
+        run: |
+          awk -F'\\^' '{print "||"$1"^$dnsrewrite=188.212.99.160"}' DynX-AntiBan-list.lst > c
+          
+          if git diff --quiet AdguardHomeReWrite-Secondary.txt; then
+            echo "No changes in AdguardHomeReWrite-Secondary.txt"
+          else
+            git config --global user.name "github-actions[bot]"
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            git add AdguardHomeReWrite-Secondary.txt
+            git commit -m "Update AdguardHomeReWrite-Secondary.txt with latest domains"
+            git push
+          fi
+          
       - name: SSH & Execute Commands
         uses: appleboy/ssh-action@v1.0.0
         with:
