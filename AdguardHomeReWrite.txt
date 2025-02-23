@@ -817,7 +817,6 @@
 ||jenkins.org^$dnsrewrite=188.212.99.160
 ||myip.nl^$dnsrewrite=188.212.99.160
 ||withgoogle.com^$dnsrewrite=188.212.99.160
-||githubusercontent.com^$dnsrewrite=188.212.99.160
 ||gitlab.io^$dnsrewrite=188.212.99.160
 ||cloudfunctions.net^$dnsrewrite=188.212.99.160
 ||firebaseio.com^$dnsrewrite=188.212.99.160
@@ -1087,7 +1086,6 @@
 ||novininsta.com^$dnsrewrite=188.212.99.160
 ||oauth2.googleapis.com^$dnsrewrite=188.212.99.160
 ||objectcache.pro^$dnsrewrite=188.212.99.160
-||objects.githubusercontent.com^$dnsrewrite=188.212.99.160
 ||ocsp.comodoca.com^$dnsrewrite=188.212.99.160
 ||onesignal.com^$dnsrewrite=188.212.99.160
 ||onlinesim.ru^$dnsrewrite=188.212.99.160
@@ -1114,7 +1112,6 @@
 ||quadlayers.com^$dnsrewrite=188.212.99.160
 ||r.cpanel.fleetssl.com^$dnsrewrite=188.212.99.160
 ||r.mariadb.com^$dnsrewrite=188.212.99.160
-||raw.githubusercontent.com^$dnsrewrite=188.212.99.160
 ||really-simple-ssl.com^$dnsrewrite=188.212.99.160
 ||redux.io^$dnsrewrite=188.212.99.160
 ||reduxframework.com^$dnsrewrite=188.212.99.160
