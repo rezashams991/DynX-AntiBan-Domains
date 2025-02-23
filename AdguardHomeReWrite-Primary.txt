@@ -1,3 +1,4 @@
+||check-host.net^$dnsrewrite=5.198.178.208
 ||akamaized.net^$dnsrewrite=5.198.178.208
 ||ettdnsv.com^$dnsrewrite=5.198.178.208
 ||gbcass.com^$dnsrewrite=5.198.178.208
