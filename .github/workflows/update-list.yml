@@ -30,7 +30,7 @@ jobs:
 
       - name: Process DynX List and Update Adguard File for Secondary tunnel server
         run: |
-          awk -F'\\^' '{print "||"$1"^$dnsrewrite=188.212.99.160"}' DynX-AntiBan-list.lst > c
+          awk -F'\\^' '{print "||"$1"^$dnsrewrite=188.212.99.160"}' DynX-AntiBan-list.lst > AdguardHomeReWrite-Secondary.txt
           
           if git diff --quiet AdguardHomeReWrite-Secondary.txt; then
             echo "No changes in AdguardHomeReWrite-Secondary.txt"
