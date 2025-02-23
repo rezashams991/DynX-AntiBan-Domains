@@ -932,7 +932,6 @@
 ||api.fontawesome.com^$dnsrewrite=188.212.99.160
 ||api.freemius.com^$dnsrewrite=188.212.99.160
 ||api.getbeamer.com^$dnsrewrite=188.212.99.160
-||api.github.com^$dnsrewrite=188.212.99.160
 ||api.google.com^$dnsrewrite=188.212.99.160
 ||api.ipify.org^$dnsrewrite=188.212.99.160
 ||api.mailgun.net^$dnsrewrite=188.212.99.160
