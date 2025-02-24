@@ -1999,3 +1999,4 @@
 ||deepinfra.com^$dnsrewrite=188.212.99.160
 ||sora.com^$dnsrewrite=188.212.99.160
 ||dockerstatic.com^$dnsrewrite=188.212.99.160
+||ollama.com^$dnsrewrite=188.212.99.160
