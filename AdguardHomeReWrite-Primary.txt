@@ -1599,11 +1599,9 @@
 ||githubapp.com^$dnsrewrite=5.198.178.208
 ||freedesktop.org^$dnsrewrite=5.198.178.208
 ||mybridge.co^$dnsrewrite=5.198.178.208
-||githubusercontent.com^$dnsrewrite=5.198.178.208
 ||sentry-cdn.com^$dnsrewrite=5.198.178.208
 ||softonic.com^$dnsrewrite=5.198.178.208
 ||pscdn.co^$dnsrewrite=5.198.178.208
-||gstatic.com^$dnsrewrite=5.198.178.208
 ||en25.com^$dnsrewrite=5.198.178.208
 ||myfonts.net^$dnsrewrite=5.198.178.208
 ||jetbrains.com^$dnsrewrite=5.198.178.208
