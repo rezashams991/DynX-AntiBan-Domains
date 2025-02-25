@@ -1994,7 +1994,6 @@
 ||mistral.ai^$dnsrewrite=188.212.99.160
 ||deepinfra.com^$dnsrewrite=188.212.99.160
 ||sora.com^$dnsrewrite=188.212.99.160
-||dockerstatic.com^$dnsrewrite=188.212.99.160
 ||ollama.com^$dnsrewrite=188.212.99.160
 ||clashroyaleapp.com^$dnsrewrite=188.212.99.160
 ||igamecj.com^$dnsrewrite=188.212.99.160
