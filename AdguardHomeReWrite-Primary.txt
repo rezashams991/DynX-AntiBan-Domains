@@ -261,7 +261,6 @@
 ||freelancer.com^$dnsrewrite=5.198.178.208
 ||rapid7.com^$dnsrewrite=5.198.178.208
 ||sentry.io^$dnsrewrite=5.198.178.208
-||forum.sentry.io^$dnsrewrite=5.198.178.208
 ||overleaf.com^$dnsrewrite=5.198.178.208
 ||compiles.overleaf.com^$dnsrewrite=5.198.178.208
 ||wikia.com^$dnsrewrite=5.198.178.208
@@ -1451,7 +1450,6 @@
 ||bombsquadgame.com^$dnsrewrite=5.198.178.208
 ||wowza.com^$dnsrewrite=5.198.178.208
 ||activestate.com^$dnsrewrite=5.198.178.208
-||docs.sentry.io^$dnsrewrite=5.198.178.208
 ||relativewave.com^$dnsrewrite=5.198.178.208
 ||gcppodcast.com^$dnsrewrite=5.198.178.208
 ||dl.trimble.com^$dnsrewrite=5.198.178.208
@@ -1998,3 +1996,13 @@
 ||sora.com^$dnsrewrite=5.198.178.208
 ||dockerstatic.com^$dnsrewrite=5.198.178.208
 ||ollama.com^$dnsrewrite=5.198.178.208
+||clashroyaleapp.com^$dnsrewrite=5.198.178.208
+||igamecj.com^$dnsrewrite=5.198.178.208
+||tdatamaster.com^$dnsrewrite=5.198.178.208
+||wetest.net^$dnsrewrite=5.198.178.208
+||gjacky.com^$dnsrewrite=5.198.178.208
+||proximabeta.com^$dnsrewrite=5.198.178.208
+||onezapp.com^$dnsrewrite=5.198.178.208
+||listdl.com^$dnsrewrite=5.198.178.208
+||gcloudcs.com^$dnsrewrite=5.198.178.208
+||anticheatexpert.com^$dnsrewrite=5.198.178.208
