@@ -2006,3 +2006,4 @@
 ||gcloudcs.com^$dnsrewrite=5.198.178.208
 ||anticheatexpert.com^$dnsrewrite=5.198.178.208
 ||flux.ai^$dnsrewrite=5.198.178.208
+||zapier.com^$dnsrewrite=5.198.178.208
