@@ -14,79 +14,63 @@ jobs:
         steps:
             - name: Checkout code
               uses: actions/checkout@v4
-              with:
-                  fetch-depth: 0
 
-            - name: Remove filtered domains in Iran (Optimized)
+            - name: Remove filtered domains in Iran
               run: |
-                  set -euo pipefail
-
                   dns_server="5.198.178.208"
                   file="DynX-AntiBan-list.lst"
-                  banned_ips=(
-                    "10.10.34.34"
-                    "2001:4188:2:600:10:10:34:34"
-                    "10.10.34.35"
-                    "10.10.34.36"
-                    "2001:4188:2:600:10:10:34:35"
-                    "2001:4188:2:600:10:10:34:36"
-                  )
-                  tmpfile=$(mktemp)
+                  banned_ips=("10.10.34.34" "2001:4188:2:600:10:10:34:34" "10.10.34.35" "10.10.34.36" "2001:4188:2:600:10:10:34:35" "2001:4188:2:600:10:10:34:36")
+                  filtered_domains=()
 
-                  # Create regex pattern for banned IPs
-                  pattern=$(IFS="|"; echo "${banned_ips[*]/#/^}" | sed 's/\./\\./g; s/:/:/g')
-
-                  while IFS= read -r domain || [[ -n "$domain" ]]; do
-                    domain=$(echo "$domain" | awk -F'^' '{print $1}' | xargs | tr '[:upper:]' '[:lower:]')
-                    if [[ -z "$domain" || "$domain" =~ ^# ]]; then
-                      echo "Skipping invalid line: ${domain:-<empty>}"
+                  while IFS= read -r domain || [ -n "$domain" ]; do
+                    if [[ -z "$domain" ]]; then
                       continue
                     fi
-
-                    echo "Checking $domain..."
-                    
-                    resolved=$(dig @$dns_server +time=2 +tries=2 +short "$domain" A "$domain" AAAA 2>&1 | grep -vE "^(;;|$)")
-
-                    if [[ -n "$resolved" ]] && grep -qE "($pattern)" <<< "$resolved"; then
-                      echo "❌ Removed: $domain (Banned IP detected)"
-                    else
-                      echo "✅ Approved: $domain"
-                      echo "$domain" >> "$tmpfile"
+                    echo "Processing $domain"
+                    resolved=$(dig @$dns_server "$domain" +short)
+                    remove=false
+                    for ip in $resolved; do
+                      if [[ " ${banned_ips[@]} " == *" $ip "* ]]; then
+                        remove=true
+                        echo "Domain $domain removed due to banned IP resolution: $ip"
+                        break
+                      fi
+                    done
+                    if [ "$remove" = false ]; then
+                      filtered_domains+=("$domain")
                     fi
                   done < "$file"
 
-                  if ! diff -q "$tmpfile" "$file" >/dev/null; then
-                    mv -f "$tmpfile" "$file"
-                    git config --global user.name "github-actions[bot]"
-                    git config --global user.email "github-actions[bot]@users.noreply.github.com"
-                    git add "$file"
-                    git commit -m "Automated update: Remove banned domains" || echo "No changes to commit"
-                  else
-                    echo "ℹ️ No changes detected - Skipping commit"
-                    rm -f "$tmpfile"
-                  fi
+                  # Write filtered domains back to file
+                  echo "${filtered_domains[@]}" > "$file"
 
-            - name: Generate Adguard Files
-              run: |
-                  set -eo pipefail
-
-                  # Pull latest changes if any
-                  git pull origin main || true
-
-                  # Generate Tunnel File
-                  awk -F'^' '{print "||"$1"^$dnsrewrite=5.198.178.208"}' DynX-AntiBan-list.lst > AdguardHomeReWrite-Tunnel.txt
-
-                  # Generate Main File
-                  awk -F'^' '{print "||"$1"^$dnsrewrite=104.237.250.13"}' DynX-AntiBan-list.lst > AdguardHomeReWrite.txt
-
-                  # Commit changes
                   git config --global user.name "github-actions[bot]"
                   git config --global user.email "github-actions[bot]@users.noreply.github.com"
-                  git add AdguardHomeReWrite*
-                  git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update Adguard rules"
+                  git add DynX-AntiBan-list.lst
+                  git commit -m "Update DynX-AntiBan-list.lst with latest domains"
                   git push
 
-            - name: Restart Docker Container
+            - name: Process DynX List and Update Adguard File for tunnel antiban server
+              run: |
+                  awk -F'\\^' '{print "||"$1"^$dnsrewrite=5.198.178.208"}' DynX-AntiBan-list.lst > AdguardHomeReWrite-Tunnel.txt
+
+                  git config --global user.name "github-actions[bot]"
+                  git config --global user.email "github-actions[bot]@users.noreply.github.com"
+                  git add AdguardHomeReWrite-Tunnel.txt
+                  git commit -m "Update AdguardHomeReWrite-Tunnel.txt with latest domains"
+                  git push
+
+            - name: Process DynX List and Update Adguard File for antiban server
+              run: |
+                  awk -F'\\^' '{print "||"$1"^$dnsrewrite=104.237.250.13"}' DynX-AntiBan-list.lst > AdguardHomeReWrite.txt
+
+                  git config --global user.name "github-actions[bot]"
+                  git config --global user.email "github-actions[bot]@users.noreply.github.com"
+                  git add AdguardHomeReWrite.txt
+                  git commit -m "Update AdguardHomeReWrite.txt with latest domains"
+                  git push
+
+            - name: Restart Antiban Docker file
               uses: appleboy/ssh-action@v1.0.0
               with:
                   host: "${{ secrets.SERVER_IP }}"
