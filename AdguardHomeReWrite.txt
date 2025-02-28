@@ -113,7 +113,6 @@
 ||mysql.com^$dnsrewrite=104.237.250.13
 ||nvidia.com^$dnsrewrite=104.237.250.13
 ||notion.so^$dnsrewrite=104.237.250.13
-||pastebin.com^$dnsrewrite=104.237.250.13
 ||solarwinds.com^$dnsrewrite=104.237.250.13
 ||spiceworks.com^$dnsrewrite=104.237.250.13
 ||splunk.com^$dnsrewrite=104.237.250.13
@@ -835,7 +834,6 @@
 ||download-ssc.cisco.com^$dnsrewrite=104.237.250.13
 ||api.cisco.com^$dnsrewrite=104.237.250.13
 ||software.cisco.com^$dnsrewrite=104.237.250.13
-||i.ytimg.com^$dnsrewrite=104.237.250.13
 ||firebaseextensions.clients6.google.com^$dnsrewrite=104.237.250.13
 ||repo.mysql.com^$dnsrewrite=104.237.250.13
 ||packages.cloud.google.com^$dnsrewrite=104.237.250.13
@@ -944,7 +942,6 @@
 ||api.unlimited-elements.com^$dnsrewrite=104.237.250.13
 ||api.us.mailgun.net^$dnsrewrite=104.237.250.13
 ||api.virtualizor.com^$dnsrewrite=104.237.250.13
-||api.wordpress.com^$dnsrewrite=104.237.250.13
 ||api.wordpress.org^$dnsrewrite=104.237.250.13
 ||api.wpfastestcache.net^$dnsrewrite=104.237.250.13
 ||api.wpmet.com^$dnsrewrite=104.237.250.13
@@ -952,7 +949,6 @@
 ||app.imagify.io^$dnsrewrite=104.237.250.13
 ||archive.mariadb.org^$dnsrewrite=104.237.250.13
 ||arpriceplugin.com^$dnsrewrite=104.237.250.13
-||assets.gumroad.com^$dnsrewrite=104.237.250.13
 ||auth.docker.io^$dnsrewrite=104.237.250.13
 ||auth.wincher.com^$dnsrewrite=104.237.250.13
 ||authenticate.scriptsbundle.com^$dnsrewrite=104.237.250.13
@@ -975,7 +971,6 @@
 ||console.firebase.google.com^$dnsrewrite=104.237.250.13
 ||creativemail.com^$dnsrewrite=104.237.250.13
 ||csp.withgoogle.com^$dnsrewrite=104.237.250.13
-||curd.io^$dnsrewrite=104.237.250.13
 ||da.vsicloud.com^$dnsrewrite=104.237.250.13
 ||das.domreg.lt^$dnsrewrite=104.237.250.13
 ||data.gingersoftware.com^$dnsrewrite=104.237.250.13
@@ -997,7 +992,6 @@
 ||download.wordpress.org^$dnsrewrite=104.237.250.13
 ||downloads.joomla.org^$dnsrewrite=104.237.250.13
 ||downloads.mariadb.com^$dnsrewrite=104.237.250.13
-||downloads.wordpress.com^$dnsrewrite=104.237.250.13
 ||downloads.wordpress.org^$dnsrewrite=104.237.250.13
 ||elementor.api.kustomerapp.com^$dnsrewrite=104.237.250.13
 ||epel.mirror.wearetriple.com^$dnsrewrite=104.237.250.13
@@ -1022,19 +1016,14 @@
 ||gravityapi.com^$dnsrewrite=104.237.250.13
 ||help.us-themes.com^$dnsrewrite=104.237.250.13
 ||httpupdate.cpanel.net^$dnsrewrite=104.237.250.13
-||igdb.com^$dnsrewrite=104.237.250.13
 ||iid.googleapis.com^$dnsrewrite=104.237.250.13
 ||indexing.googleapis.com^$dnsrewrite=104.237.250.13
 ||intellywp.com^$dnsrewrite=104.237.250.13
 ||ipecho.net^$dnsrewrite=104.237.250.13
 ||ir.archive.ubuntu.com^$dnsrewrite=104.237.250.13
 ||iran-locations-api.vercel.app^$dnsrewrite=104.237.250.13
-||is.gd^$dnsrewrite=104.237.250.13
 ||ithemes.com^$dnsrewrite=104.237.250.13
-||ivi.ru^$dnsrewrite=104.237.250.13
-||ivi.tv^$dnsrewrite=104.237.250.13
 ||izhakwood.com^$dnsrewrite=104.237.250.13
-||jetpack.wordpress.com^$dnsrewrite=104.237.250.13
 ||justpaste.it^$dnsrewrite=104.237.250.13
 ||kero.yachay.pe^$dnsrewrite=104.237.250.13
 ||licence.yithemes.com^$dnsrewrite=104.237.250.13
@@ -1106,7 +1095,6 @@
 ||ppa.launchpad.net^$dnsrewrite=104.237.250.13
 ||preview.codecanyon.net^$dnsrewrite=104.237.250.13
 ||pub.hostdns.top^$dnsrewrite=104.237.250.13
-||public-api.wordpress.com^$dnsrewrite=104.237.250.13
 ||pypi.python.org^$dnsrewrite=104.237.250.13
 ||quadlayers.com^$dnsrewrite=104.237.250.13
 ||r.cpanel.fleetssl.com^$dnsrewrite=104.237.250.13
@@ -1157,7 +1145,6 @@
 ||support.brainstormforce.com^$dnsrewrite=104.237.250.13
 ||sw-themes.com^$dnsrewrite=104.237.250.13
 ||teconce.com^$dnsrewrite=104.237.250.13
-||terrytao.wordpress.com^$dnsrewrite=104.237.250.13
 ||test.beshkon.ir^$dnsrewrite=104.237.250.13
 ||the7.io^$dnsrewrite=104.237.250.13
 ||themeisle.com^$dnsrewrite=104.237.250.13
@@ -1166,7 +1153,6 @@
 ||tnedi.me^$dnsrewrite=104.237.250.13
 ||tp.tax.gov.ir^$dnsrewrite=104.237.250.13
 ||tp.wpml.org^$dnsrewrite=104.237.250.13
-||translate.wordpress.com^$dnsrewrite=104.237.250.13
 ||translate.wordpress.org^$dnsrewrite=104.237.250.13
 ||type.googleapis.com^$dnsrewrite=104.237.250.13
 ||ubuntu.bigbluebutton.org^$dnsrewrite=104.237.250.13
@@ -1188,7 +1174,6 @@
 ||whmcs.deploymentcode.com^$dnsrewrite=104.237.250.13
 ||wincher.com^$dnsrewrite=104.237.250.13
 ||woodmart.xtemos.com^$dnsrewrite=104.237.250.13
-||wordpress.com^$dnsrewrite=104.237.250.13
 ||wordpress.org^$dnsrewrite=104.237.250.13
 ||wp-statistics.com^$dnsrewrite=104.237.250.13
 ||wp-toolkit.plesk.com^$dnsrewrite=104.237.250.13
