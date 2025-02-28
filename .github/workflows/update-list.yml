@@ -27,7 +27,11 @@ jobs:
                       continue
                     fi
                     echo "Processing $domain"
-                    resolved=$(dig @$dns_server "$domain" +short)
+                    resolved=$(host "$domain" "$dns_server" | awk '/has address/ {print $4}' | tr '\n' ' ')
+                    if [[ -z "$resolved" ]]; then
+                      echo "Error: Could not resolve $domain"
+                      continue
+                    fi
                     remove=false
                     for ip in $resolved; do
                       if [[ " ${banned_ips[@]} " == *" $ip "* ]]; then
