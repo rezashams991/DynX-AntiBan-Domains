@@ -113,7 +113,6 @@
 ||mysql.com^$dnsrewrite=5.198.178.208
 ||nvidia.com^$dnsrewrite=5.198.178.208
 ||notion.so^$dnsrewrite=5.198.178.208
-||pastebin.com^$dnsrewrite=5.198.178.208
 ||solarwinds.com^$dnsrewrite=5.198.178.208
 ||spiceworks.com^$dnsrewrite=5.198.178.208
 ||splunk.com^$dnsrewrite=5.198.178.208
@@ -835,7 +834,6 @@
 ||download-ssc.cisco.com^$dnsrewrite=5.198.178.208
 ||api.cisco.com^$dnsrewrite=5.198.178.208
 ||software.cisco.com^$dnsrewrite=5.198.178.208
-||i.ytimg.com^$dnsrewrite=5.198.178.208
 ||firebaseextensions.clients6.google.com^$dnsrewrite=5.198.178.208
 ||repo.mysql.com^$dnsrewrite=5.198.178.208
 ||packages.cloud.google.com^$dnsrewrite=5.198.178.208
@@ -944,7 +942,6 @@
 ||api.unlimited-elements.com^$dnsrewrite=5.198.178.208
 ||api.us.mailgun.net^$dnsrewrite=5.198.178.208
 ||api.virtualizor.com^$dnsrewrite=5.198.178.208
-||api.wordpress.com^$dnsrewrite=5.198.178.208
 ||api.wordpress.org^$dnsrewrite=5.198.178.208
 ||api.wpfastestcache.net^$dnsrewrite=5.198.178.208
 ||api.wpmet.com^$dnsrewrite=5.198.178.208
@@ -952,7 +949,6 @@
 ||app.imagify.io^$dnsrewrite=5.198.178.208
 ||archive.mariadb.org^$dnsrewrite=5.198.178.208
 ||arpriceplugin.com^$dnsrewrite=5.198.178.208
-||assets.gumroad.com^$dnsrewrite=5.198.178.208
 ||auth.docker.io^$dnsrewrite=5.198.178.208
 ||auth.wincher.com^$dnsrewrite=5.198.178.208
 ||authenticate.scriptsbundle.com^$dnsrewrite=5.198.178.208
@@ -975,7 +971,6 @@
 ||console.firebase.google.com^$dnsrewrite=5.198.178.208
 ||creativemail.com^$dnsrewrite=5.198.178.208
 ||csp.withgoogle.com^$dnsrewrite=5.198.178.208
-||curd.io^$dnsrewrite=5.198.178.208
 ||da.vsicloud.com^$dnsrewrite=5.198.178.208
 ||das.domreg.lt^$dnsrewrite=5.198.178.208
 ||data.gingersoftware.com^$dnsrewrite=5.198.178.208
@@ -997,7 +992,6 @@
 ||download.wordpress.org^$dnsrewrite=5.198.178.208
 ||downloads.joomla.org^$dnsrewrite=5.198.178.208
 ||downloads.mariadb.com^$dnsrewrite=5.198.178.208
-||downloads.wordpress.com^$dnsrewrite=5.198.178.208
 ||downloads.wordpress.org^$dnsrewrite=5.198.178.208
 ||elementor.api.kustomerapp.com^$dnsrewrite=5.198.178.208
 ||epel.mirror.wearetriple.com^$dnsrewrite=5.198.178.208
@@ -1022,19 +1016,14 @@
 ||gravityapi.com^$dnsrewrite=5.198.178.208
 ||help.us-themes.com^$dnsrewrite=5.198.178.208
 ||httpupdate.cpanel.net^$dnsrewrite=5.198.178.208
-||igdb.com^$dnsrewrite=5.198.178.208
 ||iid.googleapis.com^$dnsrewrite=5.198.178.208
 ||indexing.googleapis.com^$dnsrewrite=5.198.178.208
 ||intellywp.com^$dnsrewrite=5.198.178.208
 ||ipecho.net^$dnsrewrite=5.198.178.208
 ||ir.archive.ubuntu.com^$dnsrewrite=5.198.178.208
 ||iran-locations-api.vercel.app^$dnsrewrite=5.198.178.208
-||is.gd^$dnsrewrite=5.198.178.208
 ||ithemes.com^$dnsrewrite=5.198.178.208
-||ivi.ru^$dnsrewrite=5.198.178.208
-||ivi.tv^$dnsrewrite=5.198.178.208
 ||izhakwood.com^$dnsrewrite=5.198.178.208
-||jetpack.wordpress.com^$dnsrewrite=5.198.178.208
 ||justpaste.it^$dnsrewrite=5.198.178.208
 ||kero.yachay.pe^$dnsrewrite=5.198.178.208
 ||licence.yithemes.com^$dnsrewrite=5.198.178.208
@@ -1106,7 +1095,6 @@
 ||ppa.launchpad.net^$dnsrewrite=5.198.178.208
 ||preview.codecanyon.net^$dnsrewrite=5.198.178.208
 ||pub.hostdns.top^$dnsrewrite=5.198.178.208
-||public-api.wordpress.com^$dnsrewrite=5.198.178.208
 ||pypi.python.org^$dnsrewrite=5.198.178.208
 ||quadlayers.com^$dnsrewrite=5.198.178.208
 ||r.cpanel.fleetssl.com^$dnsrewrite=5.198.178.208
@@ -1157,7 +1145,6 @@
 ||support.brainstormforce.com^$dnsrewrite=5.198.178.208
 ||sw-themes.com^$dnsrewrite=5.198.178.208
 ||teconce.com^$dnsrewrite=5.198.178.208
-||terrytao.wordpress.com^$dnsrewrite=5.198.178.208
 ||test.beshkon.ir^$dnsrewrite=5.198.178.208
 ||the7.io^$dnsrewrite=5.198.178.208
 ||themeisle.com^$dnsrewrite=5.198.178.208
@@ -1166,7 +1153,6 @@
 ||tnedi.me^$dnsrewrite=5.198.178.208
 ||tp.tax.gov.ir^$dnsrewrite=5.198.178.208
 ||tp.wpml.org^$dnsrewrite=5.198.178.208
-||translate.wordpress.com^$dnsrewrite=5.198.178.208
 ||translate.wordpress.org^$dnsrewrite=5.198.178.208
 ||type.googleapis.com^$dnsrewrite=5.198.178.208
 ||ubuntu.bigbluebutton.org^$dnsrewrite=5.198.178.208
@@ -1188,7 +1174,6 @@
 ||whmcs.deploymentcode.com^$dnsrewrite=5.198.178.208
 ||wincher.com^$dnsrewrite=5.198.178.208
 ||woodmart.xtemos.com^$dnsrewrite=5.198.178.208
-||wordpress.com^$dnsrewrite=5.198.178.208
 ||wordpress.org^$dnsrewrite=5.198.178.208
 ||wp-statistics.com^$dnsrewrite=5.198.178.208
 ||wp-toolkit.plesk.com^$dnsrewrite=5.198.178.208
