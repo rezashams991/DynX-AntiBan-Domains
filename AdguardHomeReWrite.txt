@@ -57,7 +57,6 @@
 ||mozilla.org^$dnsrewrite=104.237.250.13
 ||paypal.com^$dnsrewrite=104.237.250.13
 ||google-analytics.com^$dnsrewrite=104.237.250.13
-||googleapis.com^$dnsrewrite=104.237.250.13
 ||skype.com^$dnsrewrite=104.237.250.13
 ||imgur.com^$dnsrewrite=104.237.250.13
 ||i.stack.imgur.com^$dnsrewrite=104.237.250.13
