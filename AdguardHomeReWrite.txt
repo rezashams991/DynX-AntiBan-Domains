@@ -1992,3 +1992,4 @@
 ||zapier.com^$dnsrewrite=104.237.250.13
 ||mtalk.google.com^$dnsrewrite=104.237.250.13
 ||alt8-mtalk.google.com^$dnsrewrite=104.237.250.13
+||recaptcha.net^$dnsrewrite=104.237.250.13
