@@ -1316,7 +1316,6 @@
 ||wowhead.com^$dnsrewrite=104.237.250.13
 ||kmplayer.com^$dnsrewrite=104.237.250.13
 ||ldplayer.net^$dnsrewrite=104.237.250.13
-||clashofclans.com^$dnsrewrite=104.237.250.13
 ||fortnite.com^$dnsrewrite=104.237.250.13
 ||supercell.com^$dnsrewrite=104.237.250.13
 ||notion.com^$dnsrewrite=104.237.250.13
