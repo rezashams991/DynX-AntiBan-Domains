@@ -1085,7 +1085,6 @@
 ||pecl.php.net^$dnsrewrite=104.237.250.13
 ||perfectmoney.com^$dnsrewrite=104.237.250.13
 ||perfmatters.io^$dnsrewrite=104.237.250.13
-||pgp.mongodb.com^$dnsrewrite=104.237.250.13
 ||pimwick.com^$dnsrewrite=104.237.250.13
 ||plugin-downloads.elementor.com^$dnsrewrite=104.237.250.13
 ||plugins.svn.wordpress.org^$dnsrewrite=104.237.250.13
