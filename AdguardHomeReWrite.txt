@@ -1532,7 +1532,6 @@
 ||awsstatic.com^$dnsrewrite=104.237.250.13
 ||hetzner.company^$dnsrewrite=104.237.250.13
 ||hetzner.de^$dnsrewrite=104.237.250.13
-||cloudflare.com^$dnsrewrite=104.237.250.13
 ||mintegral.com^$dnsrewrite=104.237.250.13
 ||dlang.org^$dnsrewrite=104.237.250.13
 ||yandex.com^$dnsrewrite=104.237.250.13
