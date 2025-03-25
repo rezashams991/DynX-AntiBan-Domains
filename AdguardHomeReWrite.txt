@@ -145,7 +145,6 @@
 ||grammarly.com^$dnsrewrite=104.237.250.13
 ||steampowered.com^$dnsrewrite=104.237.250.13
 ||store.steampowered.com^$dnsrewrite=104.237.250.13
-||playstation.com^$dnsrewrite=104.237.250.13
 ||cpanel.net^$dnsrewrite=104.237.250.13
 ||forums.cpanel.net^$dnsrewrite=104.237.250.13
 ||unity3d.com^$dnsrewrite=104.237.250.13
@@ -949,7 +948,6 @@
 ||avada.ir^$dnsrewrite=104.237.250.13
 ||bdthemes.com^$dnsrewrite=104.237.250.13
 ||bit.ly^$dnsrewrite=104.237.250.13
-||c.speedtest.net^$dnsrewrite=104.237.250.13
 ||cai.rankmath.com^$dnsrewrite=104.237.250.13
 ||casper.yithemes.com^$dnsrewrite=104.237.250.13
 ||cdn-download.rocket.chat^$dnsrewrite=104.237.250.13
@@ -1128,7 +1126,6 @@
 ||smushpro.wpmudev.org^$dnsrewrite=104.237.250.13
 ||softaculous.com^$dnsrewrite=104.237.250.13
 ||spamassassin.apache.org^$dnsrewrite=104.237.250.13
-||speedtest.net^$dnsrewrite=104.237.250.13
 ||stats.wp.com^$dnsrewrite=104.237.250.13
 ||storage..com^$dnsrewrite=104.237.250.13
 ||store.cpanel.net^$dnsrewrite=104.237.250.13
@@ -1205,7 +1202,6 @@
 ||www.s7.softaculous.com^$dnsrewrite=104.237.250.13
 ||www.server.softaculous.com^$dnsrewrite=104.237.250.13
 ||www.softaculous.com^$dnsrewrite=104.237.250.13
-||www.speedtest.net^$dnsrewrite=104.237.250.13
 ||www.sunnytoo.com^$dnsrewrite=104.237.250.13
 ||www.themeforest.net^$dnsrewrite=104.237.250.13
 ||www.virtualizor.com^$dnsrewrite=104.237.250.13
@@ -1978,4 +1974,9 @@
 ||zapier.com^$dnsrewrite=104.237.250.13
 ||mtalk.google.com^$dnsrewrite=104.237.250.13
 ||alt8-mtalk.google.com^$dnsrewrite=104.237.250.13
+||api.github.com^$dnsrewrite=104.237.250.13
+||education.github.com^$dnsrewrite=104.237.250.13
+||googleapis.com^$dnsrewrite=104.237.250.13
+||run.app^$dnsrewrite=104.237.250.13
+||online-fix.me^$dnsrewrite=104.237.250.13
 ||playstation.com^$dnsrewrite=104.237.250.13
