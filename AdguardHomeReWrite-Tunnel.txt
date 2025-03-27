@@ -1980,5 +1980,4 @@
 ||run.app^$dnsrewrite=5.198.178.208
 ||online-fix.me^$dnsrewrite=5.198.178.208
 ||playstation.com^$dnsrewrite=5.198.178.208
-||clashofclans.com^$dnsrewrite=5.198.178.208
-||clashroyaleapp.com^$dnsrewrite=5.198.178.208
+||gameaclashofclans.com^$dnsrewrite=5.198.178.208
