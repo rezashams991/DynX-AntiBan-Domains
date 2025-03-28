@@ -1,10 +1,11 @@
 name: Update DynX List and Reload nginx
-'on':
+on:
   push:
     branches:
       - main
     paths:
       - DynX-AntiBan-list.lst
+
 jobs:
   update-and-restart:
     if: github.event_name == 'push' || (github.event.pull_request.merged == true)
@@ -12,46 +13,38 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+
       - name: Generate DynX List and Update Adguard File for tunnel antiban server
-        run: >
-          awk -F'\\^' '{print "||"$1"^$dnsrewrite=5.198.178.208"}'
-          DynX-AntiBan-list.lst > AdguardHomeReWrite-Tunnel.txt
+        run: |
+          awk -F'\\^' '{print "||"$1"^$dnsrewrite=5.198.178.208"}' DynX-AntiBan-list.lst > AdguardHomeReWrite-Tunnel.txt
           git config --global user.name "github-actions[bot]"
-          git config --global user.email
-          "github-actions[bot]@users.noreply.github.com"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add AdguardHomeReWrite-Tunnel.txt
-          git commit -m "Update AdguardHomeReWrite-Tunnel.txt with latest
-          domains"
+          git commit -m "Update AdguardHomeReWrite-Tunnel.txt with latest domains" || echo "No changes to commit"
           git push
 
       - name: Generate DynX List and Update Adguard File for antiban server
-        run: >
-          awk -F'\\^' '{print "||"$1"^$dnsrewrite=104.237.250.13"}'
-          DynX-AntiBan-list.lst > AdguardHomeReWrite.txt
+        run: |
+          awk -F'\\^' '{print "||"$1"^$dnsrewrite=104.237.250.13"}' DynX-AntiBan-list.lst > AdguardHomeReWrite.txt
           git config --global user.name "github-actions[bot]"
-          git config --global user.email
-          "github-actions[bot]@users.noreply.github.com"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add AdguardHomeReWrite.txt
-          git commit -m "Update AdguardHomeReWrite.txt with latest domains"
+          git commit -m "Update AdguardHomeReWrite.txt with latest domains" || echo "No changes to commit"
           git push
 
       - name: Generate allowed_domains.conf from DynX-AntiBan-list.lst For NginX
-        run: >
-          echo "map \$ssl_preread_server_name \$allowed_domain {" >
-          allowed_domains.conf
+        run: |
+          echo "map \$ssl_preread_server_name \$allowed_domain {" > allowed_domains.conf
           echo "    default 0.0.0.0:0;" >> allowed_domains.conf
-          while IFS= read -r domain
-          do
+          while IFS= read -r domain; do
             [[ $domain = \#* ]] || [[ -z $domain ]] && continue
             echo "    $domain \$ssl_preread_server_name:443;" >> allowed_domains.conf
           done < DynX-AntiBan-list.lst
           echo "}" >> allowed_domains.conf
           git config --global user.name "github-actions[bot]"
-          git config --global user.email
-          "github-actions[bot]@users.noreply.github.com"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add allowed_domains.conf
-          git commit -m "Update allowed_domains.conf with latest domains" ||
-          echo "No changes to commit"
+          git commit -m "Update allowed_domains.conf with latest domains" || echo "No changes to commit"
           git push
 
       - name: Update allowed_domains.conf on server and Reload Nginx
@@ -61,9 +54,7 @@ jobs:
           username: '${{ secrets.SSH_USERNAME }}'
           password: '${{ secrets.SSH_PASSWORD }}'
           port: '${{ secrets.SSH_PORT || 22 }}'
-          script: >
-            wget -q
-            https://github.com/MrDevAnony/DynX-AntiBan-Domains/raw/refs/heads/main/allowed_domains.conf
-            -O /etc/nginx/allowed_domains.conf
+          script: |
+            wget -q https://github.com/MrDevAnony/DynX-AntiBan-Domains/raw/refs/heads/main/allowed_domains.conf -O /etc/nginx/allowed_domains.conf
             nginx -t && systemctl reload nginx
             exit
