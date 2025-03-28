@@ -1960,7 +1960,7 @@
 ||deepinfra.com^$dnsrewrite=5.198.178.208
 ||sora.com^$dnsrewrite=5.198.178.208
 ||ollama.com^$dnsrewrite=5.198.178.208
-||clashroyaleapp.com^$dnsrewrite=5.198.178.208
+||game.clashroyaleapp.com^$dnsrewrite=5.198.178.208
 ||igamecj.com^$dnsrewrite=5.198.178.208
 ||tdatamaster.com^$dnsrewrite=5.198.178.208
 ||wetest.net^$dnsrewrite=5.198.178.208
