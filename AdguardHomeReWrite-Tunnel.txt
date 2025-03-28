@@ -1960,7 +1960,6 @@
 ||deepinfra.com^$dnsrewrite=5.198.178.208
 ||sora.com^$dnsrewrite=5.198.178.208
 ||ollama.com^$dnsrewrite=5.198.178.208
-||game.clashroyaleapp.com^$dnsrewrite=5.198.178.208
 ||igamecj.com^$dnsrewrite=5.198.178.208
 ||tdatamaster.com^$dnsrewrite=5.198.178.208
 ||wetest.net^$dnsrewrite=5.198.178.208
@@ -1979,5 +1978,4 @@
 ||googleapis.com^$dnsrewrite=5.198.178.208
 ||run.app^$dnsrewrite=5.198.178.208
 ||online-fix.me^$dnsrewrite=5.198.178.208
-||gamea.clashofclans.com^$dnsrewrite=5.198.178.208
 ||playstation.com^$dnsrewrite=5.198.178.208
