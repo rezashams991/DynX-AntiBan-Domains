@@ -1980,3 +1980,4 @@
 ||run.app^$dnsrewrite=104.237.250.13
 ||online-fix.me^$dnsrewrite=104.237.250.13
 ||playstation.com^$dnsrewrite=104.237.250.13
+||gameaclashofclans.com^$dnsrewrite=104.237.250.13
