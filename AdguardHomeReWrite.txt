@@ -1978,5 +1978,5 @@
 ||education.github.com^$dnsrewrite=104.237.250.13
 ||googleapis.com^$dnsrewrite=104.237.250.13
 ||run.app^$dnsrewrite=104.237.250.13
-||online-fix.me^$dnsrewrite=104.237.250.13
 ||playstation.com^$dnsrewrite=104.237.250.13
+||online-fix.me^$dnsrewrite=104.237.250.13
