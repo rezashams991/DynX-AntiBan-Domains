@@ -1,3 +1,4 @@
+||gamea.clashofclans.com^$dnsrewrite=104.237.250.13
 ||check-host.net^$dnsrewrite=104.237.250.13
 ||akamaized.net^$dnsrewrite=104.237.250.13
 ||ettdnsv.com^$dnsrewrite=104.237.250.13
