@@ -1984,3 +1984,12 @@
 ||myteamspeak.com^$dnsrewrite=5.198.178.208
 ||teamspeak.com^$dnsrewrite=5.198.178.208
 ||battleye.com^$dnsrewrite=5.198.178.208
+||riotgames.com^$dnsrewrite=5.198.178.208
+||riotcdn.net^$dnsrewrite=5.198.178.208
+||pvp.net^$dnsrewrite=5.198.178.208
+||rgpub.io^$dnsrewrite=5.198.178.208
+||riotcdn.com^$dnsrewrite=5.198.178.208
+||riotgames.es^$dnsrewrite=5.198.178.208
+||playvalorant.com^$dnsrewrite=5.198.178.208
+||callofduty.com^$dnsrewrite=5.198.178.208
+||demonware.net^$dnsrewrite=5.198.178.208
