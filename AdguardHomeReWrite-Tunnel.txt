@@ -1736,7 +1736,6 @@
 ||clients4.google.com^$dnsrewrite=5.198.178.208
 ||clients1.google.com^$dnsrewrite=5.198.178.208
 ||clients3.google.com^$dnsrewrite=5.198.178.208
-||colab.research.google.com^$dnsrewrite=5.198.178.208
 ||googlecode.com^$dnsrewrite=5.198.178.208
 ||secure.gravatar.com^$dnsrewrite=5.198.178.208
 ||gravityview.com^$dnsrewrite=5.198.178.208
