@@ -849,7 +849,6 @@
 ||visa.de^$dnsrewrite=104.237.250.13
 ||att.com^$dnsrewrite=104.237.250.13
 ||accounts.xboxlive.com^$dnsrewrite=104.237.250.13
-||activity.windows.com^$dnsrewrite=104.237.250.13
 ||adept-server-prod-uodmhebufa-ue.a.run.app^$dnsrewrite=104.237.250.13
 ||arc.msn.com^$dnsrewrite=104.237.250.13
 ||assets.xboxservices.com^$dnsrewrite=104.237.250.13
@@ -1515,7 +1514,6 @@
 ||msecnd.net^$dnsrewrite=104.237.250.13
 ||uxcam.com^$dnsrewrite=104.237.250.13
 ||gamepass.com^$dnsrewrite=104.237.250.13
-||windows.com^$dnsrewrite=104.237.250.13
 ||xboxab.com^$dnsrewrite=104.237.250.13
 ||xboxab.net^$dnsrewrite=104.237.250.13
 ||myget.org^$dnsrewrite=104.237.250.13
