@@ -13,8 +13,6 @@ You can send a pull request to add domains to the list.
 
 - Primary UDP & TCP IPv4: `5.198.178.208`
 - Primary UDP & TCP IPv6: `2a13:5ac0:42::4700`
-- Secondary  UDP & TCP IPv4: `188.212.99.160`
-- Secondary  UDP & TCP IPv6: `2a05:9080:0:409::c41f:c148`
 - DoT: `anti-ban.dynx.pro`
 - DoQ: `anti-ban.dynx.pro`
 - DoH: Not yet!
