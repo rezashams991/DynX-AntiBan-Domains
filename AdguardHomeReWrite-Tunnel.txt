@@ -3971,3 +3971,5 @@
 ||acam.org^$dnsrewrite=5.198.178.208
 ||autorenwelt.de^$dnsrewrite=5.198.178.208
 ||realclearenergy.org^$dnsrewrite=5.198.178.208
+||noon.com^$dnsrewrite=5.198.178.208
+||namshi.com^$dnsrewrite=5.198.178.208
