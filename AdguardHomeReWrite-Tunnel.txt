@@ -184,7 +184,6 @@
 ||bitbucket.org^$dnsrewrite=5.198.178.208
 ||api.bitbucket.org^$dnsrewrite=5.198.178.208
 ||remove.bg^$dnsrewrite=5.198.178.208
-||ubisoft.com^$dnsrewrite=5.198.178.208
 ||akismet.com^$dnsrewrite=5.198.178.208
 ||techtarget.com^$dnsrewrite=5.198.178.208
 ||disney.com^$dnsrewrite=5.198.178.208
@@ -242,7 +241,6 @@
 ||googleadservices.com^$dnsrewrite=5.198.178.208
 ||xero.com^$dnsrewrite=5.198.178.208
 ||statuspage.io^$dnsrewrite=5.198.178.208
-||ubi.com^$dnsrewrite=5.198.178.208
 ||amplitude.com^$dnsrewrite=5.198.178.208
 ||kaggle.com^$dnsrewrite=5.198.178.208
 ||auth0.com^$dnsrewrite=5.198.178.208
