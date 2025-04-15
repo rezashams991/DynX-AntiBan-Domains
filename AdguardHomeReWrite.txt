@@ -1952,13 +1952,7 @@
 ||deepinfra.com^$dnsrewrite=104.237.250.13
 ||sora.com^$dnsrewrite=104.237.250.13
 ||ollama.com^$dnsrewrite=104.237.250.13
-||igamecj.com^$dnsrewrite=104.237.250.13
-||tdatamaster.com^$dnsrewrite=104.237.250.13
 ||wetest.net^$dnsrewrite=104.237.250.13
-||gjacky.com^$dnsrewrite=104.237.250.13
-||proximabeta.com^$dnsrewrite=104.237.250.13
-||onezapp.com^$dnsrewrite=104.237.250.13
-||listdl.com^$dnsrewrite=104.237.250.13
 ||gcloudcs.com^$dnsrewrite=104.237.250.13
 ||anticheatexpert.com^$dnsrewrite=104.237.250.13
 ||flux.ai^$dnsrewrite=104.237.250.13
