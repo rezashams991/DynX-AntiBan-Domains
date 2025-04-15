@@ -3966,3 +3966,4 @@
 ||realclearenergy.org^$dnsrewrite=104.237.250.13
 ||noon.com^$dnsrewrite=104.237.250.13
 ||namshi.com^$dnsrewrite=104.237.250.13
+||igamecj.com^$dnsrewrite=104.237.250.13
