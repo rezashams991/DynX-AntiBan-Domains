@@ -1,5 +1,4 @@
 ||gamea.clashofclans.com^$dnsrewrite=5.198.178.208
-||game.clashroyaleapp.com^$dnsrewrite=5.198.178.208
 ||check-host.net^$dnsrewrite=5.198.178.208
 ||akamaized.net^$dnsrewrite=5.198.178.208
 ||ettdnsv.com^$dnsrewrite=5.198.178.208
