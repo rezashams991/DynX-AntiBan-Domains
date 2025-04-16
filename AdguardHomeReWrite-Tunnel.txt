@@ -1953,9 +1953,6 @@
 ||deepinfra.com^$dnsrewrite=5.198.178.208
 ||sora.com^$dnsrewrite=5.198.178.208
 ||ollama.com^$dnsrewrite=5.198.178.208
-||wetest.net^$dnsrewrite=5.198.178.208
-||gcloudcs.com^$dnsrewrite=5.198.178.208
-||anticheatexpert.com^$dnsrewrite=5.198.178.208
 ||flux.ai^$dnsrewrite=5.198.178.208
 ||zapier.com^$dnsrewrite=5.198.178.208
 ||mtalk.google.com^$dnsrewrite=5.198.178.208
@@ -3967,4 +3964,4 @@
 ||realclearenergy.org^$dnsrewrite=5.198.178.208
 ||noon.com^$dnsrewrite=5.198.178.208
 ||namshi.com^$dnsrewrite=5.198.178.208
-||igamecj.com^$dnsrewrite=5.198.178.208
+||mgl.lobby.igamecj.com^$dnsrewrite=5.198.178.208
