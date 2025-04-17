@@ -1,3 +1,4 @@
+||exaloop.io^$dnsrewrite=5.198.178.208
 ||softether-download.com^$dnsrewrite=5.198.178.208
 ||gamea.clashofclans.com^$dnsrewrite=5.198.178.208
 ||check-host.net^$dnsrewrite=5.198.178.208
