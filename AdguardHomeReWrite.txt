@@ -1775,7 +1775,7 @@
 ||nr-data.net^$dnsrewrite=104.237.250.13
 ||nuget.org^$dnsrewrite=104.237.250.13
 ||nuxtjs.org^$dnsrewrite=104.237.250.13
-||static.nvidiagrid.net^$dnsrewrite=104.237.250.13
+||nvidiagrid.net^$dnsrewrite=104.237.250.13
 ||kb.objectrocket.com^$dnsrewrite=104.237.250.13
 ||ogslb.com^$dnsrewrite=104.237.250.13
 ||okd.io^$dnsrewrite=104.237.250.13
