@@ -1,3 +1,4 @@
+||sourcegraph.com^$dnsrewrite=104.237.250.13
 ||exaloop.io^$dnsrewrite=104.237.250.13
 ||softether-download.com^$dnsrewrite=104.237.250.13
 ||gamea.clashofclans.com^$dnsrewrite=104.237.250.13
