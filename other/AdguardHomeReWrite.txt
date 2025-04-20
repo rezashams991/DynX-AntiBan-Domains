@@ -3971,3 +3971,11 @@
 ||appsflyersdk.com^$dnsrewrite=104.237.250.13
 ||capcutapi.com^$dnsrewrite=104.237.250.13
 ||faceueditor.com^$dnsrewrite=104.237.250.13
+||useblackbox.io^$dnsrewrite=104.237.250.13
+||blackbox.ai^$dnsrewrite=104.237.250.13
+||perplexity.ai^$dnsrewrite=104.237.250.13
+||searchgpt.com^$dnsrewrite=104.237.250.13
+||a2z.com^$dnsrewrite=104.237.250.13
+||gemini.google^$dnsrewrite=104.237.250.13
+||netify.ai^$dnsrewrite=104.237.250.13
+||softether-download.com^$dnsrewrite=104.237.250.13
