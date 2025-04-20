@@ -1,4 +1,5 @@
 name: Generate DynX List For AdguardHome and NginX and Reload nginx
+
 on:
   push:
     branches:
@@ -11,6 +12,9 @@ jobs:
     if: github.event_name == 'push' || (github.event.pull_request.merged == true)
     runs-on: ubuntu-latest
     steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
       - name: Generate DynX List and Update Adguard File for tunnel antiban server
         run: |
@@ -26,7 +30,7 @@ jobs:
           awk -F'\\^' '{print "||"$1"^$dnsrewrite=104.237.250.13"}' DynX-AntiBan-list.lst > other/AdguardHomeReWrite.txt
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add /other/AdguardHomeReWrite.txt
+          git add other/AdguardHomeReWrite.txt
           git commit -m "Update AdguardHomeReWrite.txt with latest domains"
           git push
 
@@ -34,11 +38,11 @@ jobs:
         run: |
           echo "map \$ssl_preread_server_name \$allowed_domain {" > other/allowed_domains.conf
           echo "    default 0.0.0.0:0;" >> other/allowed_domains.conf
-          while IFS= read -r domain; do
-            [[ $domain = \#* ]] || [[ -z $domain ]] && continue
+          while IFS= read -r line; do
+            domain=$(echo "$line" | cut -d'^' -f1)
             echo "    ~^(.*\.)?$domain \$ssl_preread_server_name;" >> other/allowed_domains.conf
           done < DynX-AntiBan-list.lst
-          echo "}" >> allowed_domains.conf
+          echo "}" >> other/allowed_domains.conf
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add other/allowed_domains.conf
