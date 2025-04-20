@@ -3968,6 +3968,6 @@
 ||namshi.com^$dnsrewrite=104.237.250.13
 ||mgl.lobby.igamecj.com^$dnsrewrite=104.237.250.13
 ||capcut.com^$dnsrewrite=104.237.250.13
-||capcutapi.com^$dnsrewrite=104.237.250.13
 ||appsflyersdk.com^$dnsrewrite=104.237.250.13
+||capcutapi.com^$dnsrewrite=104.237.250.13
 ||faceueditor.com^$dnsrewrite=104.237.250.13
