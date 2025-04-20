@@ -3978,4 +3978,7 @@
 ||a2z.com^$dnsrewrite=104.237.250.13
 ||gemini.google^$dnsrewrite=104.237.250.13
 ||netify.ai^$dnsrewrite=104.237.250.13
+||pxf.io^$dnsrewrite=104.237.250.13
 ||softether-download.com^$dnsrewrite=104.237.250.13
+||bestofai.com^$dnsrewrite=104.237.250.13
+||framer.com^$dnsrewrite=104.237.250.13
