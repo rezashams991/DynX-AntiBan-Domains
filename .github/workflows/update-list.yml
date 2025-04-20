@@ -14,16 +14,16 @@ jobs:
 
       - name: Generate DynX List and Update Adguard File for tunnel antiban server
         run: |
-          awk -F'\\^' '{print "||"$1"^$dnsrewrite=5.198.178.208"}' DynX-AntiBan-list.lst > AdguardHomeReWrite-Tunnel.txt
+          awk -F'\\^' '{print "||"$1"^$dnsrewrite=5.198.178.208"}' DynX-AntiBan-list.lst > other/AdguardHomeReWrite-Tunnel.txt
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add /other/AdguardHomeReWrite-Tunnel.txt
+          git add other/AdguardHomeReWrite-Tunnel.txt
           git commit -m "Update AdguardHomeReWrite-Tunnel.txt with latest domains"
           git push
 
       - name: Generate DynX List and Update Adguard File for antiban server
         run: |
-          awk -F'\\^' '{print "||"$1"^$dnsrewrite=104.237.250.13"}' DynX-AntiBan-list.lst > AdguardHomeReWrite.txt
+          awk -F'\\^' '{print "||"$1"^$dnsrewrite=104.237.250.13"}' DynX-AntiBan-list.lst > other/AdguardHomeReWrite.txt
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add /other/AdguardHomeReWrite.txt
@@ -32,16 +32,16 @@ jobs:
 
       - name: Generate allowed_domains.conf from DynX-AntiBan-list.lst For NginX
         run: |
-          echo "map \$ssl_preread_server_name \$allowed_domain {" > allowed_domains.conf
-          echo "    default 0.0.0.0:0;" >> allowed_domains.conf
+          echo "map \$ssl_preread_server_name \$allowed_domain {" > other/allowed_domains.conf
+          echo "    default 0.0.0.0:0;" >> other/allowed_domains.conf
           while IFS= read -r domain; do
             [[ $domain = \#* ]] || [[ -z $domain ]] && continue
-            echo "    ~^(.*\.)?$domain \$ssl_preread_server_name;" >> allowed_domains.conf
+            echo "    ~^(.*\.)?$domain \$ssl_preread_server_name;" >> other/allowed_domains.conf
           done < DynX-AntiBan-list.lst
           echo "}" >> allowed_domains.conf
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add /other/allowed_domains.conf
+          git add other/allowed_domains.conf
           git commit -m "Update allowed_domains.conf with latest domains"
           git push
 
