@@ -3967,10 +3967,7 @@
 ||noon.com^$dnsrewrite=5.198.178.208
 ||namshi.com^$dnsrewrite=5.198.178.208
 ||mgl.lobby.igamecj.com^$dnsrewrite=5.198.178.208
-||<<<<<<< HEAD^$dnsrewrite=5.198.178.208
 ||capcut.com^$dnsrewrite=5.198.178.208
 ||capcutapi.com^$dnsrewrite=5.198.178.208
 ||appsflyersdk.com^$dnsrewrite=5.198.178.208
 ||faceueditor.com^$dnsrewrite=5.198.178.208
-||=======^$dnsrewrite=5.198.178.208
-||>>>>>>> 33bd0183b6b0a916afe75a5583a7a675520a225f^$dnsrewrite=5.198.178.208
