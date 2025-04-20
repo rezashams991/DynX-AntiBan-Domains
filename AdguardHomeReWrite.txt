@@ -3961,8 +3961,8 @@
 ||agbrief.com^$dnsrewrite=104.237.250.13
 ||maralex-paris.com^$dnsrewrite=104.237.250.13
 ||atgp.jp^$dnsrewrite=104.237.250.13
-||acam.org^$dnsrewrite=104.237.250.13
 ||autorenwelt.de^$dnsrewrite=104.237.250.13
+||acam.org^$dnsrewrite=104.237.250.13
 ||realclearenergy.org^$dnsrewrite=104.237.250.13
 ||noon.com^$dnsrewrite=104.237.250.13
 ||namshi.com^$dnsrewrite=104.237.250.13
