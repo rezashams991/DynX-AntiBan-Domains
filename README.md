@@ -11,7 +11,8 @@ You can send a pull request to add domains to the list.
 
 ## DynX anti-ban (IR Tunnel version):
 
-- Primary UDP & TCP IPv4: `10.70.95.162`, `10.70.95.162`
+- Primary UDP & TCP IPv4: `10.70.95.150`
+- Secondary UDP & TCP IPv4:  `10.70.95.162`
 - DoT: `anti-ban.dynx.pro`
 - DoQ: `anti-ban.dynx.pro`
 - DoH: Not yet!
