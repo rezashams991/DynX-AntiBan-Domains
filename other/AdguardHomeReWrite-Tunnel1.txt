@@ -17,7 +17,6 @@
 ||gbcass.com^$dnsrewrite=10.70.95.162
 ||radware.com^$dnsrewrite=10.70.95.162
 ||konami.com^$dnsrewrite=10.70.95.162
-||accounts.google.com^$dnsrewrite=10.70.95.162
 ||ads.google.com^$dnsrewrite=10.70.95.162
 ||adservice.google.com^$dnsrewrite=10.70.95.162
 ||ai.google.com^$dnsrewrite=10.70.95.162
@@ -39,9 +38,6 @@
 ||developers.google.com^$dnsrewrite=10.70.95.162
 ||dl-ssl.google.com^$dnsrewrite=10.70.95.162
 ||dl.google.com^$dnsrewrite=10.70.95.162
-||domains.google.com^$dnsrewrite=10.70.95.162
-||events.google.com^$dnsrewrite=10.70.95.162
-||fiber.google.com^$dnsrewrite=10.70.95.162
 ||firebase.google.com^$dnsrewrite=10.70.95.162
 ||issuetracker.google.com^$dnsrewrite=10.70.95.162
 ||lens.google.com^$dnsrewrite=10.70.95.162
