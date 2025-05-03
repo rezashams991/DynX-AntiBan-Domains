@@ -1,3 +1,5 @@
+||googlevideo.com^$dnsrewrite=104.237.250.13
+||ytimg.com^$dnsrewrite=104.237.250.13
 ||youtube.com^$dnsrewrite=104.237.250.13
 ||hostinger.com^$dnsrewrite=104.237.250.13
 ||githubusercontent.com^$dnsrewrite=104.237.250.13
