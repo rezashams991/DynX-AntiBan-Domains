@@ -1,6 +1,3 @@
-||googlevideo.com^$dnsrewrite=10.70.95.162
-||ytimg.com^$dnsrewrite=10.70.95.162
-||youtube.com^$dnsrewrite=10.70.95.162
 ||hostinger.com^$dnsrewrite=10.70.95.162
 ||githubusercontent.com^$dnsrewrite=10.70.95.162
 ||Beatport.com^$dnsrewrite=10.70.95.162
