@@ -69,3 +69,25 @@ jobs:
             wget -q https://github.com/MrDevAnony/DynX-AntiBan-Domains/raw/refs/heads/main/other/allowed_domains.conf -O /etc/nginx/allowed_domains.conf
             nginx -t && systemctl reload nginx
             exit
+
+      - name: Update list and clear cashe in AdguardHome 1
+        uses: appleboy/ssh-action@v1.0.0
+        with:
+          host: '${{ secrets.AGH1IP }}'
+          username: '${{ secrets.AGH1U }}'
+          password: '${{ secrets.AGH1P }}'
+          port: '${{ secrets.SSH_PORT }}'
+          script: |
+            ${{ secrets.AGHC1 }}
+            exit
+
+      - name: Update list and clear cashe in AdguardHome 2
+        uses: appleboy/ssh-action@v1.0.0
+        with:
+          host: '${{ secrets.AGH2IP }}'
+          username: '${{ secrets.AGH2U }}'
+          password: '${{ secrets.AGH2P }}'
+          port: '${{ secrets.SSH_PORT }}'
+          script: |
+            ${{ secrets.AGHC2 }}
+            exit
