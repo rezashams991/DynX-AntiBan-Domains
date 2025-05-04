@@ -3990,5 +3990,5 @@
 ||softether-download.com^$dnsrewrite=104.237.250.13
 ||framer.com^$dnsrewrite=104.237.250.13
 ||bestofai.com^$dnsrewrite=104.237.250.13
-||discord.com^$dnsrewrite=104.237.250.13
 ||discord.gg^$dnsrewrite=104.237.250.13
+||discord.com^$dnsrewrite=104.237.250.13
