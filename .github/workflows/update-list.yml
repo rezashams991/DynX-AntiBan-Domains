@@ -72,6 +72,5 @@ jobs:
 
       - name: Update list and clear cashe in AdguardHome
         run: |
-          sleep 10
-          ${{ secrets.AGHC1 }}
-          ${{ secrets.AGHC2 }}
+          sleep 5
+          ${{ secrets.CMD }}
