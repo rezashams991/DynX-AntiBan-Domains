@@ -71,23 +71,9 @@ jobs:
             exit
 
       - name: Update list and clear cashe in AdguardHome 1
-        uses: appleboy/ssh-action@v1.0.0
-        with:
-          host: '${{ secrets.AGH1IP }}'
-          username: '${{ secrets.AGH1U }}'
-          password: '${{ secrets.AGH1P }}'
-          port: '${{ secrets.SSH_PORT }}'
-          script: |
-            ${{ secrets.AGHC1 }}
-            exit
+        run:
+          ${{ secrets.AGHC1 }}
 
       - name: Update list and clear cashe in AdguardHome 2
-        uses: appleboy/ssh-action@v1.0.0
-        with:
-          host: '${{ secrets.AGH2IP }}'
-          username: '${{ secrets.AGH2U }}'
-          password: '${{ secrets.AGH2P }}'
-          port: '${{ secrets.SSH_PORT }}'
-          script: |
-            ${{ secrets.AGHC2 }}
-            exit
+        run:
+          ${{ secrets.AGHC2 }}
