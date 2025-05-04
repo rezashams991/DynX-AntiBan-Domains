@@ -1,3 +1,4 @@
+||test.amir.com^$dnsrewrite=104.237.250.13
 ||cmf.tech^$dnsrewrite=104.237.250.13
 ||nothing.tech^$dnsrewrite=104.237.250.13
 ||schrodinger.com^$dnsrewrite=104.237.250.13
