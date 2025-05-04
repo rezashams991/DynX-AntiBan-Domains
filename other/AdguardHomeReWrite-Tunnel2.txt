@@ -15,6 +15,7 @@
 ||gbcass.com^$dnsrewrite=10.70.95.150
 ||radware.com^$dnsrewrite=10.70.95.150
 ||konami.com^$dnsrewrite=10.70.95.150
+||accounts.google.com^$dnsrewrite=10.70.95.150
 ||ads.google.com^$dnsrewrite=10.70.95.150
 ||adservice.google.com^$dnsrewrite=10.70.95.150
 ||ai.google.com^$dnsrewrite=10.70.95.150
@@ -50,7 +51,7 @@
 ||play.google.com^$dnsrewrite=10.70.95.150
 ||research.google.com^$dnsrewrite=10.70.95.150
 ||services.google.com^$dnsrewrite=10.70.95.150
-||storage.cloud.google.com^$dnsrewrite=10.70.95.150
+||cloud.google.com^$dnsrewrite=10.70.95.150
 ||surveys.google.com^$dnsrewrite=10.70.95.150
 ||tagmanager.google.com^$dnsrewrite=10.70.95.150
 ||time.google.com^$dnsrewrite=10.70.95.150
