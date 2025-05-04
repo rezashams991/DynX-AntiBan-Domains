@@ -3992,3 +3992,4 @@
 ||bestofai.com^$dnsrewrite=104.237.250.13
 ||discord.com^$dnsrewrite=104.237.250.13
 ||discord.gg^$dnsrewrite=104.237.250.13
+||test.google.com^$dnsrewrite=104.237.250.13
