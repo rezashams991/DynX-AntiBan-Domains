@@ -1,3 +1,5 @@
+||schrodinger.com^$dnsrewrite=104.237.250.13
+||salesforce.com^$dnsrewrite=104.237.250.13
 ||microsoft.com^$dnsrewrite=104.237.250.13
 ||hostinger.com^$dnsrewrite=104.237.250.13
 ||githubusercontent.com^$dnsrewrite=104.237.250.13
