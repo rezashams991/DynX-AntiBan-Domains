@@ -3994,3 +3994,5 @@
 ||bestofai.com^$dnsrewrite=10.70.95.150
 ||discord.gg^$dnsrewrite=10.70.95.150
 ||discord.com^$dnsrewrite=10.70.95.150
+||spikes.studio^$dnsrewrite=10.70.95.150
+||ai-chat.bsg.brave.com^$dnsrewrite=10.70.95.150
