@@ -3997,3 +3997,4 @@
 ||spikes.studio^$dnsrewrite=10.70.95.150
 ||ai-chat.bsg.brave.com^$dnsrewrite=10.70.95.150
 ||trae.ai^$dnsrewrite=10.70.95.150
+||bnetdocs.org^$dnsrewrite=10.70.95.150
