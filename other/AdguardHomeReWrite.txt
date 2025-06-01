@@ -3998,3 +3998,4 @@
 ||ai-chat.bsg.brave.com^$dnsrewrite=104.237.250.13
 ||trae.ai^$dnsrewrite=104.237.250.13
 ||bnetdocs.org^$dnsrewrite=104.237.250.13
+||datastudios.org^$dnsrewrite=104.237.250.13
