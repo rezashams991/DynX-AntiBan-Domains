@@ -1,3 +1,4 @@
+||galxe.com^$dnsrewrite=104.237.250.13
 ||llama.com^$dnsrewrite=104.237.250.13
 ||checks.google.com^$dnsrewrite=104.237.250.13
 ||cmf.tech^$dnsrewrite=104.237.250.13
