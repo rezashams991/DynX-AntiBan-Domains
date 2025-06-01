@@ -1740,7 +1740,6 @@
 ||gitlag.com^$dnsrewrite=104.237.250.13
 ||gitter.im^$dnsrewrite=104.237.250.13
 ||clients5.google.com^$dnsrewrite=104.237.250.13
-||dns.google.com^$dnsrewrite=104.237.250.13
 ||clients4.google.com^$dnsrewrite=104.237.250.13
 ||clients1.google.com^$dnsrewrite=104.237.250.13
 ||clients3.google.com^$dnsrewrite=104.237.250.13
