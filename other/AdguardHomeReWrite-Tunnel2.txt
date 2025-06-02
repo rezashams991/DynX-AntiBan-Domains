@@ -3999,3 +3999,4 @@
 ||trae.ai^$dnsrewrite=10.70.95.150
 ||bnetdocs.org^$dnsrewrite=10.70.95.150
 ||datastudios.org^$dnsrewrite=10.70.95.150
+||gpuopen.com^$dnsrewrite=10.70.95.150
