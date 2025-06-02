@@ -1007,18 +1007,18 @@
 ||files.softaculous.com^$dnsrewrite=104.237.250.13
 ||files.virtualizor.com^$dnsrewrite=104.237.250.13
 ||flexibleshipping.com^$dnsrewrite=104.237.250.13
-||fonts..com^$dnsrewrite=104.237.250.13
+||fonts.com^$dnsrewrite=104.237.250.13
 ||ftp.nluug.nl^$dnsrewrite=104.237.250.13
 ||ftp.postgresql.org^$dnsrewrite=104.237.250.13
 ||get.docker.ir^$dnsrewrite=104.237.250.13
 ||getwooplugins.com^$dnsrewrite=104.237.250.13
 ||gmail-smtp-in.l.google.com^$dnsrewrite=104.237.250.13
-||gmail..com^$dnsrewrite=104.237.250.13
+||gmail.com^$dnsrewrite=104.237.250.13
 ||gravityapi.com^$dnsrewrite=104.237.250.13
 ||help.us-themes.com^$dnsrewrite=104.237.250.13
 ||httpupdate.cpanel.net^$dnsrewrite=104.237.250.13
-||iid..com^$dnsrewrite=104.237.250.13
-||indexing..com^$dnsrewrite=104.237.250.13
+||iid.com^$dnsrewrite=104.237.250.13
+||indexing.com^$dnsrewrite=104.237.250.13
 ||intellywp.com^$dnsrewrite=104.237.250.13
 ||ipecho.net^$dnsrewrite=104.237.250.13
 ||ir.archive.ubuntu.com^$dnsrewrite=104.237.250.13
@@ -1073,7 +1073,7 @@
 ||node-binaries.s3.amazonaws.com^$dnsrewrite=104.237.250.13
 ||node.aapanel.com^$dnsrewrite=104.237.250.13
 ||novininsta.com^$dnsrewrite=104.237.250.13
-||oauth2..com^$dnsrewrite=104.237.250.13
+||oauth2.com^$dnsrewrite=104.237.250.13
 ||objectcache.pro^$dnsrewrite=104.237.250.13
 ||ocsp.comodoca.com^$dnsrewrite=104.237.250.13
 ||onesignal.com^$dnsrewrite=104.237.250.13
@@ -1085,7 +1085,7 @@
 ||packages-eu.bigbluebutton.org^$dnsrewrite=104.237.250.13
 ||packages.gitlab.com^$dnsrewrite=104.237.250.13
 ||packages.translationspress.com^$dnsrewrite=104.237.250.13
-||pagespeedonline..com^$dnsrewrite=104.237.250.13
+||pagespeedonline.com^$dnsrewrite=104.237.250.13
 ||pecl.php.net^$dnsrewrite=104.237.250.13
 ||perfectmoney.com^$dnsrewrite=104.237.250.13
 ||perfmatters.io^$dnsrewrite=104.237.250.13
@@ -1125,7 +1125,7 @@
 ||s8.softaculous.com^$dnsrewrite=104.237.250.13
 ||sandbox-wbapi.thesslstore.com^$dnsrewrite=104.237.250.13
 ||scriptsbundle.com^$dnsrewrite=104.237.250.13
-||searchconsole..com^$dnsrewrite=104.237.250.13
+||searchconsole.com^$dnsrewrite=104.237.250.13
 ||searchwp.com^$dnsrewrite=104.237.250.13
 ||securedownloads.cpanel.net^$dnsrewrite=104.237.250.13
 ||security.ubuntu.com^$dnsrewrite=104.237.250.13
@@ -1136,7 +1136,7 @@
 ||softaculous.com^$dnsrewrite=104.237.250.13
 ||spamassassin.apache.org^$dnsrewrite=104.237.250.13
 ||stats.wp.com^$dnsrewrite=104.237.250.13
-||storage..com^$dnsrewrite=104.237.250.13
+||storage.com^$dnsrewrite=104.237.250.13
 ||store.cpanel.net^$dnsrewrite=104.237.250.13
 ||store.theplusaddons.com^$dnsrewrite=104.237.250.13
 ||sunnytoo.com^$dnsrewrite=104.237.250.13
@@ -1153,7 +1153,7 @@
 ||tp.tax.gov.ir^$dnsrewrite=104.237.250.13
 ||tp.wpml.org^$dnsrewrite=104.237.250.13
 ||translate.wordpress.org^$dnsrewrite=104.237.250.13
-||type..com^$dnsrewrite=104.237.250.13
+||type.com^$dnsrewrite=104.237.250.13
 ||ubuntu.bigbluebutton.org^$dnsrewrite=104.237.250.13
 ||upd.merkulov.design^$dnsrewrite=104.237.250.13
 ||update.yithemes.com^$dnsrewrite=104.237.250.13
@@ -1191,7 +1191,7 @@
 ||www.envato.com^$dnsrewrite=104.237.250.13
 ||www.exactmetrics.com^$dnsrewrite=104.237.250.13
 ||www.files.virtualizor.com^$dnsrewrite=104.237.250.13
-||www..com^$dnsrewrite=104.237.250.13
+||www.com^$dnsrewrite=104.237.250.13
 ||www.gt^$dnsrewrite=104.237.250.13
 ||www.ilghera.com^$dnsrewrite=104.237.250.13
 ||www.jetpack.com^$dnsrewrite=104.237.250.13
@@ -1226,7 +1226,7 @@
 ||zispa.co.zw^$dnsrewrite=104.237.250.13
 ||pes22-game.cs.konami.net^$dnsrewrite=104.237.250.13
 ||asus.com^$dnsrewrite=104.237.250.13
-||firebaseremoteconfig..com^$dnsrewrite=104.237.250.13
+||firebaseremoteconfig.com^$dnsrewrite=104.237.250.13
 ||pcsupport.lenovo.com^$dnsrewrite=104.237.250.13
 ||registry.docker.io^$dnsrewrite=104.237.250.13
 ||alexa.amazon.com^$dnsrewrite=104.237.250.13
