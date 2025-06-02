@@ -1007,18 +1007,18 @@
 ||files.softaculous.com^$dnsrewrite=10.70.95.162
 ||files.virtualizor.com^$dnsrewrite=10.70.95.162
 ||flexibleshipping.com^$dnsrewrite=10.70.95.162
-||fonts..com^$dnsrewrite=10.70.95.162
+||fonts.com^$dnsrewrite=10.70.95.162
 ||ftp.nluug.nl^$dnsrewrite=10.70.95.162
 ||ftp.postgresql.org^$dnsrewrite=10.70.95.162
 ||get.docker.ir^$dnsrewrite=10.70.95.162
 ||getwooplugins.com^$dnsrewrite=10.70.95.162
 ||gmail-smtp-in.l.google.com^$dnsrewrite=10.70.95.162
-||gmail..com^$dnsrewrite=10.70.95.162
+||gmail.com^$dnsrewrite=10.70.95.162
 ||gravityapi.com^$dnsrewrite=10.70.95.162
 ||help.us-themes.com^$dnsrewrite=10.70.95.162
 ||httpupdate.cpanel.net^$dnsrewrite=10.70.95.162
-||iid..com^$dnsrewrite=10.70.95.162
-||indexing..com^$dnsrewrite=10.70.95.162
+||iid.com^$dnsrewrite=10.70.95.162
+||indexing.com^$dnsrewrite=10.70.95.162
 ||intellywp.com^$dnsrewrite=10.70.95.162
 ||ipecho.net^$dnsrewrite=10.70.95.162
 ||ir.archive.ubuntu.com^$dnsrewrite=10.70.95.162
@@ -1073,7 +1073,7 @@
 ||node-binaries.s3.amazonaws.com^$dnsrewrite=10.70.95.162
 ||node.aapanel.com^$dnsrewrite=10.70.95.162
 ||novininsta.com^$dnsrewrite=10.70.95.162
-||oauth2..com^$dnsrewrite=10.70.95.162
+||oauth2.com^$dnsrewrite=10.70.95.162
 ||objectcache.pro^$dnsrewrite=10.70.95.162
 ||ocsp.comodoca.com^$dnsrewrite=10.70.95.162
 ||onesignal.com^$dnsrewrite=10.70.95.162
@@ -1085,7 +1085,7 @@
 ||packages-eu.bigbluebutton.org^$dnsrewrite=10.70.95.162
 ||packages.gitlab.com^$dnsrewrite=10.70.95.162
 ||packages.translationspress.com^$dnsrewrite=10.70.95.162
-||pagespeedonline..com^$dnsrewrite=10.70.95.162
+||pagespeedonline.com^$dnsrewrite=10.70.95.162
 ||pecl.php.net^$dnsrewrite=10.70.95.162
 ||perfectmoney.com^$dnsrewrite=10.70.95.162
 ||perfmatters.io^$dnsrewrite=10.70.95.162
@@ -1125,7 +1125,7 @@
 ||s8.softaculous.com^$dnsrewrite=10.70.95.162
 ||sandbox-wbapi.thesslstore.com^$dnsrewrite=10.70.95.162
 ||scriptsbundle.com^$dnsrewrite=10.70.95.162
-||searchconsole..com^$dnsrewrite=10.70.95.162
+||searchconsole.com^$dnsrewrite=10.70.95.162
 ||searchwp.com^$dnsrewrite=10.70.95.162
 ||securedownloads.cpanel.net^$dnsrewrite=10.70.95.162
 ||security.ubuntu.com^$dnsrewrite=10.70.95.162
@@ -1136,7 +1136,7 @@
 ||softaculous.com^$dnsrewrite=10.70.95.162
 ||spamassassin.apache.org^$dnsrewrite=10.70.95.162
 ||stats.wp.com^$dnsrewrite=10.70.95.162
-||storage..com^$dnsrewrite=10.70.95.162
+||storage.com^$dnsrewrite=10.70.95.162
 ||store.cpanel.net^$dnsrewrite=10.70.95.162
 ||store.theplusaddons.com^$dnsrewrite=10.70.95.162
 ||sunnytoo.com^$dnsrewrite=10.70.95.162
@@ -1153,7 +1153,7 @@
 ||tp.tax.gov.ir^$dnsrewrite=10.70.95.162
 ||tp.wpml.org^$dnsrewrite=10.70.95.162
 ||translate.wordpress.org^$dnsrewrite=10.70.95.162
-||type..com^$dnsrewrite=10.70.95.162
+||type.com^$dnsrewrite=10.70.95.162
 ||ubuntu.bigbluebutton.org^$dnsrewrite=10.70.95.162
 ||upd.merkulov.design^$dnsrewrite=10.70.95.162
 ||update.yithemes.com^$dnsrewrite=10.70.95.162
@@ -1191,7 +1191,7 @@
 ||www.envato.com^$dnsrewrite=10.70.95.162
 ||www.exactmetrics.com^$dnsrewrite=10.70.95.162
 ||www.files.virtualizor.com^$dnsrewrite=10.70.95.162
-||www..com^$dnsrewrite=10.70.95.162
+||www.com^$dnsrewrite=10.70.95.162
 ||www.gt^$dnsrewrite=10.70.95.162
 ||www.ilghera.com^$dnsrewrite=10.70.95.162
 ||www.jetpack.com^$dnsrewrite=10.70.95.162
@@ -1226,7 +1226,7 @@
 ||zispa.co.zw^$dnsrewrite=10.70.95.162
 ||pes22-game.cs.konami.net^$dnsrewrite=10.70.95.162
 ||asus.com^$dnsrewrite=10.70.95.162
-||firebaseremoteconfig..com^$dnsrewrite=10.70.95.162
+||firebaseremoteconfig.com^$dnsrewrite=10.70.95.162
 ||pcsupport.lenovo.com^$dnsrewrite=10.70.95.162
 ||registry.docker.io^$dnsrewrite=10.70.95.162
 ||alexa.amazon.com^$dnsrewrite=10.70.95.162
