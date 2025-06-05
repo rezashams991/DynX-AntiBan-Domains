@@ -34,15 +34,6 @@ jobs:
           git commit -m "Update AdguardHomeReWrite-Tunnel2 with latest domains"
           git push
 
-      - name: Generate DynX List and Update Adguard File for antiban server
-        run: |
-          awk -F'\\^' '{print "||"$1"^$dnsrewrite=104.237.250.13"}' DynX-AntiBan-list.lst > other/AdguardHomeReWrite.txt
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add other/AdguardHomeReWrite.txt
-          git commit -m "Update AdguardHomeReWrite.txt with latest domains"
-          git push
-
       - name: Generate allowed_domains.conf from DynX-AntiBan-list.lst For NginX
         run: |
           echo "map \$ssl_preread_server_name \$allowed_domain {" > other/allowed_domains.conf
