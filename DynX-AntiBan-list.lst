@@ -58,7 +58,6 @@ payments.google.com
 play.google.com
 research.google.com
 services.google.com
-cloud.google.com
 surveys.google.com
 tagmanager.google.com
 time.google.com
@@ -77,7 +76,6 @@ imgur.com
 i.stack.imgur.com
 medium.com
 arcgis.com
-salesforce.com
 gravatar.com
 webex.com
 apache.org
@@ -1605,7 +1603,6 @@ yarnpkg.com
 battlecode.org
 vuetifyjs.com
 deployer.org
-fedoraproject.org
 alpinelinux.org
 yajrabox.com
 webcatalog.app
@@ -3989,7 +3986,6 @@ a2z.com
 gemini.google
 netify.ai
 pxf.io
-softether-download.com
 framer.com
 bestofai.com
 discord.gg
@@ -4003,3 +3999,4 @@ gpuopen.com
 windsurf.com
 cursor.com
 app.cline.bot
+idx.google.com
