@@ -4000,3 +4000,6 @@
 ||bnetdocs.org^$dnsrewrite=104.237.250.13
 ||datastudios.org^$dnsrewrite=104.237.250.13
 ||gpuopen.com^$dnsrewrite=104.237.250.13
+||windsurf.com^$dnsrewrite=104.237.250.13
+||cursor.com^$dnsrewrite=104.237.250.13
+||app.cline.bot^$dnsrewrite=104.237.250.13
