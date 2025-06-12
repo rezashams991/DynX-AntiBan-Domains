@@ -1978,8 +1978,7 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?steamstatic.com $ssl_preread_server_name;
     ~^(.*\.)?steampowered.com $ssl_preread_server_name;
     ~^(.*\.)?steamcommunity.com $ssl_preread_server_name;
-    ~^(.*\.)?myteamspeak.com $ssl_preread_server_name;
-    ~^(.*\.)?teamspeak.com $ssl_preread_server_name;
+    ~^(.*\.)?www.teamspeak.com $ssl_preread_server_name;
     ~^(.*\.)?battleye.com $ssl_preread_server_name;
     ~^(.*\.)?riotgames.com $ssl_preread_server_name;
     ~^(.*\.)?riotcdn.net $ssl_preread_server_name;
