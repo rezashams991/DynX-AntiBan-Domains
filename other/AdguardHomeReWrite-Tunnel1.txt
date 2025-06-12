@@ -4000,3 +4000,7 @@
 ||cursor.com^$dnsrewrite=10.70.95.162
 ||idx.google.com^$dnsrewrite=10.70.95.162
 ||app.cline.bot^$dnsrewrite=10.70.95.162
+||codeassist.google^$dnsrewrite=10.70.95.162
+||qodana.cloud^$dnsrewrite=10.70.95.162
+||continue.dev^$dnsrewrite=10.70.95.162
+||jules.google^$dnsrewrite=10.70.95.162
