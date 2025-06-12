@@ -155,7 +155,6 @@ map $host $allowed_host {
     ~^(.*\.)?mailchimp.com$ 1;
     ~^(.*\.)?constantcontact.com$ 1;
     ~^(.*\.)?figma.com$ 1;
-    ~^(.*\.)?mi.com$ 1;
     ~^(.*\.)?grammarly.com$ 1;
     ~^(.*\.)?cpanel.net$ 1;
     ~^(.*\.)?forums.cpanel.net$ 1;
