@@ -155,7 +155,6 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?mailchimp.com $ssl_preread_server_name;
     ~^(.*\.)?constantcontact.com $ssl_preread_server_name;
     ~^(.*\.)?figma.com $ssl_preread_server_name;
-    ~^(.*\.)?mi.com $ssl_preread_server_name;
     ~^(.*\.)?grammarly.com $ssl_preread_server_name;
     ~^(.*\.)?cpanel.net $ssl_preread_server_name;
     ~^(.*\.)?forums.cpanel.net $ssl_preread_server_name;
