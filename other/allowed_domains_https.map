@@ -4001,4 +4001,8 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?windsurf.com $ssl_preread_server_name;
     ~^(.*\.)?cursor.com $ssl_preread_server_name;
     ~^(.*\.)?idx.google.com $ssl_preread_server_name;
+    ~^(.*\.)?app.cline.bot $ssl_preread_server_name;
+    ~^(.*\.)?codeassist.google $ssl_preread_server_name;
+    ~^(.*\.)?qodana.cloud $ssl_preread_server_name;
+    ~^(.*\.)?continue.dev $ssl_preread_server_name;
 }
