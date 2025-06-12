@@ -153,7 +153,6 @@
 ||mailchimp.com^$dnsrewrite=10.70.95.162
 ||constantcontact.com^$dnsrewrite=10.70.95.162
 ||figma.com^$dnsrewrite=10.70.95.162
-||mi.com^$dnsrewrite=10.70.95.162
 ||grammarly.com^$dnsrewrite=10.70.95.162
 ||cpanel.net^$dnsrewrite=10.70.95.162
 ||forums.cpanel.net^$dnsrewrite=10.70.95.162
