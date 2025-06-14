@@ -1978,8 +1978,7 @@ map $host $allowed_host {
     ~^(.*\.)?steamstatic.com$ 1;
     ~^(.*\.)?steampowered.com$ 1;
     ~^(.*\.)?steamcommunity.com$ 1;
-    ~^(.*\.)?myteamspeak.com$ 1;
-    ~^(.*\.)?teamspeak.com$ 1;
+    ~^(.*\.)?www.teamspeak.com$ 1;
     ~^(.*\.)?battleye.com$ 1;
     ~^(.*\.)?riotgames.com$ 1;
     ~^(.*\.)?riotcdn.net$ 1;

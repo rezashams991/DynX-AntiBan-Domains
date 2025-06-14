@@ -1976,8 +1976,7 @@
 ||steamstatic.com^$dnsrewrite=10.70.95.162
 ||steampowered.com^$dnsrewrite=10.70.95.162
 ||steamcommunity.com^$dnsrewrite=10.70.95.162
-||myteamspeak.com^$dnsrewrite=10.70.95.162
-||teamspeak.com^$dnsrewrite=10.70.95.162
+||www.teamspeak.com^$dnsrewrite=10.70.95.162
 ||battleye.com^$dnsrewrite=10.70.95.162
 ||riotgames.com^$dnsrewrite=10.70.95.162
 ||riotcdn.net^$dnsrewrite=10.70.95.162
