@@ -1646,7 +1646,6 @@ map $host $allowed_host {
     ~^(.*\.)?buf.build$ 1;
     ~^(.*\.)?pkg.jenkins.io$ 1;
     ~^(.*\.)?downloads.arduino.cc$ 1;
-    ~^(.*\.)?askubuntu.com$ 1;
     ~^(.*\.)?a2zupload.com$ 1;
     ~^(.*\.)?abuse.ch$ 1;
     ~^(.*\.)?addthis.com$ 1;
@@ -1854,7 +1853,6 @@ map $host $allowed_host {
     ~^(.*\.)?tvcdn.de$ 1;
     ~^(.*\.)?twimg.com$ 1;
     ~^(.*\.)?typekit.net$ 1;
-    ~^(.*\.)?connectivity-check.ubuntu.com$ 1;
     ~^(.*\.)?vaultproject.io$ 1;
     ~^(.*\.)?vidyard.com$ 1;
     ~^(.*\.)?vjudge.net$ 1;
