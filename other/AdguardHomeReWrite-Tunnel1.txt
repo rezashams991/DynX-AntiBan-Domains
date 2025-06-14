@@ -1644,7 +1644,6 @@
 ||buf.build^$dnsrewrite=10.70.95.162
 ||pkg.jenkins.io^$dnsrewrite=10.70.95.162
 ||downloads.arduino.cc^$dnsrewrite=10.70.95.162
-||askubuntu.com^$dnsrewrite=10.70.95.162
 ||a2zupload.com^$dnsrewrite=10.70.95.162
 ||abuse.ch^$dnsrewrite=10.70.95.162
 ||addthis.com^$dnsrewrite=10.70.95.162
@@ -1852,7 +1851,6 @@
 ||tvcdn.de^$dnsrewrite=10.70.95.162
 ||twimg.com^$dnsrewrite=10.70.95.162
 ||typekit.net^$dnsrewrite=10.70.95.162
-||connectivity-check.ubuntu.com^$dnsrewrite=10.70.95.162
 ||vaultproject.io^$dnsrewrite=10.70.95.162
 ||vidyard.com^$dnsrewrite=10.70.95.162
 ||vjudge.net^$dnsrewrite=10.70.95.162
