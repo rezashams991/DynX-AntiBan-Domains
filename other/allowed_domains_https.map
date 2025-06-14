@@ -1646,7 +1646,6 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?buf.build $ssl_preread_server_name;
     ~^(.*\.)?pkg.jenkins.io $ssl_preread_server_name;
     ~^(.*\.)?downloads.arduino.cc $ssl_preread_server_name;
-    ~^(.*\.)?askubuntu.com $ssl_preread_server_name;
     ~^(.*\.)?a2zupload.com $ssl_preread_server_name;
     ~^(.*\.)?abuse.ch $ssl_preread_server_name;
     ~^(.*\.)?addthis.com $ssl_preread_server_name;
@@ -1854,7 +1853,6 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?tvcdn.de $ssl_preread_server_name;
     ~^(.*\.)?twimg.com $ssl_preread_server_name;
     ~^(.*\.)?typekit.net $ssl_preread_server_name;
-    ~^(.*\.)?connectivity-check.ubuntu.com $ssl_preread_server_name;
     ~^(.*\.)?vaultproject.io $ssl_preread_server_name;
     ~^(.*\.)?vidyard.com $ssl_preread_server_name;
     ~^(.*\.)?vjudge.net $ssl_preread_server_name;
