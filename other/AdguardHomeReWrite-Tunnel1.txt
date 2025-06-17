@@ -1,4 +1,5 @@
 ||raw.githubusercontent.com^$dnsrewrite=10.70.95.162
+||github.com^$dnsrewrite=10.70.95.162
 ||llama.com^$dnsrewrite=10.70.95.162
 ||galxe.com^$dnsrewrite=10.70.95.162
 ||checks.google.com^$dnsrewrite=10.70.95.162
