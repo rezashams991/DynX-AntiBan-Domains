@@ -1,6 +1,7 @@
 map $ssl_preread_server_name $allowed_domain {
     default 0.0.0.0:0;
     ~^(.*\.)?raw.githubusercontent.com $ssl_preread_server_name;
+    ~^(.*\.)?github.com $ssl_preread_server_name;
     ~^(.*\.)?llama.com $ssl_preread_server_name;
     ~^(.*\.)?galxe.com $ssl_preread_server_name;
     ~^(.*\.)?checks.google.com $ssl_preread_server_name;
