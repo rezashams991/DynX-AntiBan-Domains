@@ -1,5 +1,6 @@
 map $host $allowed_host {
     default 0;
+    ~^(.*\.)?raw.githubusercontent.com$ 1;
     ~^(.*\.)?llama.com$ 1;
     ~^(.*\.)?galxe.com$ 1;
     ~^(.*\.)?checks.google.com$ 1;
@@ -4001,4 +4002,5 @@ map $host $allowed_host {
     ~^(.*\.)?codeassist.google$ 1;
     ~^(.*\.)?qodana.cloud$ 1;
     ~^(.*\.)?continue.dev$ 1;
+    ~^(.*\.)?jules.google$ 1;
 }
