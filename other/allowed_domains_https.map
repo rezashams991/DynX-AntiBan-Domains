@@ -1,5 +1,6 @@
 map $ssl_preread_server_name $allowed_domain {
     default 0.0.0.0:0;
+    ~^(.*\.)?raw.githubusercontent.com $ssl_preread_server_name;
     ~^(.*\.)?llama.com $ssl_preread_server_name;
     ~^(.*\.)?galxe.com $ssl_preread_server_name;
     ~^(.*\.)?checks.google.com $ssl_preread_server_name;
@@ -4001,4 +4002,5 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?codeassist.google $ssl_preread_server_name;
     ~^(.*\.)?qodana.cloud $ssl_preread_server_name;
     ~^(.*\.)?continue.dev $ssl_preread_server_name;
+    ~^(.*\.)?jules.google $ssl_preread_server_name;
 }
