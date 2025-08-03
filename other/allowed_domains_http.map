@@ -1,5 +1,6 @@
 map $host $allowed_host {
     default 0;
+    ~^(.*\.)?langchain.com$ 1;
     ~^(.*\.)?remotedesktop.google.com$ 1;
     ~^(.*\.)?mariadb.com$ 1;
     ~^(.*\.)?llama.com$ 1;
