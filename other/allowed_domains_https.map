@@ -1,5 +1,6 @@
 map $ssl_preread_server_name $allowed_domain {
     default 0.0.0.0:0;
+    ~^(.*\.)?langchain.com $ssl_preread_server_name;
     ~^(.*\.)?remotedesktop.google.com $ssl_preread_server_name;
     ~^(.*\.)?mariadb.com $ssl_preread_server_name;
     ~^(.*\.)?llama.com $ssl_preread_server_name;
