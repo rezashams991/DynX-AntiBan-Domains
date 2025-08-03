@@ -473,7 +473,6 @@
 ||warframe.com^$dnsrewrite=10.70.95.162
 ||paessler.com^$dnsrewrite=10.70.95.162
 ||material.io^$dnsrewrite=10.70.95.162
-||mariadb.com^$dnsrewrite=10.70.95.162
 ||rapidapi.com^$dnsrewrite=10.70.95.162
 ||monsterinsights.com^$dnsrewrite=10.70.95.162
 ||paddle.com^$dnsrewrite=10.70.95.162
@@ -4004,3 +4003,4 @@
 ||qodana.cloud^$dnsrewrite=10.70.95.162
 ||continue.dev^$dnsrewrite=10.70.95.162
 ||jules.google^$dnsrewrite=10.70.95.162
+||tutorialspoint.com^$dnsrewrite=10.70.95.162
