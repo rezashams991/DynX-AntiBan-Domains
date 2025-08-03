@@ -475,7 +475,6 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?warframe.com $ssl_preread_server_name;
     ~^(.*\.)?paessler.com $ssl_preread_server_name;
     ~^(.*\.)?material.io $ssl_preread_server_name;
-    ~^(.*\.)?mariadb.com $ssl_preread_server_name;
     ~^(.*\.)?rapidapi.com $ssl_preread_server_name;
     ~^(.*\.)?monsterinsights.com $ssl_preread_server_name;
     ~^(.*\.)?paddle.com $ssl_preread_server_name;
