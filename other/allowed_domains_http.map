@@ -475,7 +475,6 @@ map $host $allowed_host {
     ~^(.*\.)?warframe.com$ 1;
     ~^(.*\.)?paessler.com$ 1;
     ~^(.*\.)?material.io$ 1;
-    ~^(.*\.)?mariadb.com$ 1;
     ~^(.*\.)?rapidapi.com$ 1;
     ~^(.*\.)?monsterinsights.com$ 1;
     ~^(.*\.)?paddle.com$ 1;
