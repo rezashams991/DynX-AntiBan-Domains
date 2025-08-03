@@ -1,5 +1,6 @@
 map $host $allowed_host {
     default 0;
+    ~^(.*\.)?cachyos.org$ 1;
     ~^(.*\.)?langchain.com$ 1;
     ~^(.*\.)?remotedesktop.google.com$ 1;
     ~^(.*\.)?mariadb.com$ 1;
