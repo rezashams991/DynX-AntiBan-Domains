@@ -15,7 +15,7 @@
 ||Beatport.com^$dnsrewrite=10.70.95.150
 ||fedoraproject.org^$dnsrewrite=10.70.95.150
 ||discordapp.com^$dnsrewrite=10.70.95.150
-||discord.media ^$dnsrewrite=10.70.95.150
+||discord.media^$dnsrewrite=10.70.95.150
 ||sourcegraph.com^$dnsrewrite=10.70.95.150
 ||exaloop.io^$dnsrewrite=10.70.95.150
 ||softether-download.com^$dnsrewrite=10.70.95.150
