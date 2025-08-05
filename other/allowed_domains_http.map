@@ -17,7 +17,7 @@ map $host $allowed_host {
     ~^(.*\.)?Beatport.com$ 1;
     ~^(.*\.)?fedoraproject.org$ 1;
     ~^(.*\.)?discordapp.com$ 1;
-    ~^(.*\.)?discord.media $ 1;
+    ~^(.*\.)?discord.media$ 1;
     ~^(.*\.)?sourcegraph.com$ 1;
     ~^(.*\.)?exaloop.io$ 1;
     ~^(.*\.)?softether-download.com$ 1;
