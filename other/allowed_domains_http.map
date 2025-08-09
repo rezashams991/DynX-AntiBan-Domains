@@ -1,5 +1,6 @@
 map $host $allowed_host {
     default 0;
+    ~^(.*\.)?genspark.ai$ 1;
     ~^(.*\.)?cachyos.org$ 1;
     ~^(.*\.)?langchain.com$ 1;
     ~^(.*\.)?remotedesktop.google.com$ 1;
@@ -4046,4 +4047,5 @@ map $host $allowed_host {
     ~^(.*\.)?arkoselabs.com$ 1;
     ~^(.*\.)?msedge.net$ 1;
     ~^(.*\.)?windows.com$ 1;
+    ~^(.*\.)?radiojavan.com$ 1;
 }
