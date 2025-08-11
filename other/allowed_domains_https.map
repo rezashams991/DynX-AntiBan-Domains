@@ -1,5 +1,6 @@
 map $ssl_preread_server_name $allowed_domain {
     default 0.0.0.0:0;
+    ~^(.*\.)?report.ml.youngjoygame.com $ssl_preread_server_name;
     ~^(.*\.)?genspark.ai $ssl_preread_server_name;
     ~^(.*\.)?cachyos.org $ssl_preread_server_name;
     ~^(.*\.)?langchain.com $ssl_preread_server_name;
