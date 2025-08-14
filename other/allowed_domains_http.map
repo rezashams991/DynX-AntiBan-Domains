@@ -1,6 +1,7 @@
 map $host $allowed_host {
     default 0;
     ~^(.*\.)?report.ml.youngjoygame.com$ 1;
+    ~^(.*\.)?login.ml.youngjoygame.com$ 1;
     ~^(.*\.)?genspark.ai$ 1;
     ~^(.*\.)?cachyos.org$ 1;
     ~^(.*\.)?langchain.com$ 1;
