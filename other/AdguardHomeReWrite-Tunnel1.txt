@@ -1,4 +1,5 @@
 ||report.ml.youngjoygame.com^$dnsrewrite=10.70.95.162
+||login.ml.youngjoygame.com^$dnsrewrite=10.70.95.162
 ||genspark.ai^$dnsrewrite=10.70.95.162
 ||cachyos.org^$dnsrewrite=10.70.95.162
 ||langchain.com^$dnsrewrite=10.70.95.162
