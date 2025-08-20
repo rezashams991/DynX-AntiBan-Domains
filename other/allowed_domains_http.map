@@ -5243,4 +5243,5 @@ map $host $allowed_host {
     ~^(.*\.)?lencr.org$ 1;
     ~^(.*\.)?akamai.net$ 1;
     ~^(.*\.)?edgekey.net$ 1;
+    ~^(.*\.)?github.dev$ 1;
 }
