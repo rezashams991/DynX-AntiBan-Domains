@@ -4029,7 +4029,7 @@ map $host $allowed_host {
     ~^(.*\.)?steam-api.com$ 1;
     ~^(.*\.)?steam-chat.com$ 1;
     ~^(.*\.)?steam.tv$ 1;
-    ~^(.*\.)?ssteamgames.com$ 1;
+    ~^(.*\.)?steamgames.com$ 1;
     ~^(.*\.)?steamstat.us$ 1;
     ~^(.*\.)?steamusercontent.com$ 1;
     ~^(.*\.)?underlords.com$ 1;
@@ -5237,4 +5237,10 @@ map $host $allowed_host {
     ~^(.*\.)?xyacs.dnet.xboxlive.com$ 1;
     ~^(.*\.)?xyacs.xboxlive.com$ 1;
     ~^(.*\.)?xyacsnext.dnet.xboxlive.com$ 1;
+    ~^(.*\.)?denon.com$ 1;
+    ~^(.*\.)?akamaiedge.net$ 1;
+    ~^(.*\.)?letsencrypt.org$ 1;
+    ~^(.*\.)?lencr.org$ 1;
+    ~^(.*\.)?akamai.net$ 1;
+    ~^(.*\.)?edgekey.net$ 1;
 }
