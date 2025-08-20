@@ -4051,4 +4051,7 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?msedge.net $ssl_preread_server_name;
     ~^(.*\.)?windows.com $ssl_preread_server_name;
     ~^(.*\.)?radiojavan.com $ssl_preread_server_name;
+    ~^(.*\.)?socialchain.app $ssl_preread_server_name;
+    ~^(.*\.)?api.onesignal.com $ssl_preread_server_name;
+    ~^(.*\.)?cdn-app.minepi.com $ssl_preread_server_name;
 }
