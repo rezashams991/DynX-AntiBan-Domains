@@ -5242,3 +5242,4 @@
 ||akamai.net^$dnsrewrite=10.70.95.162
 ||edgekey.net^$dnsrewrite=10.70.95.162
 ||github.dev^$dnsrewrite=10.70.95.162
+||photoroom.com^$dnsrewrite=10.70.95.162
