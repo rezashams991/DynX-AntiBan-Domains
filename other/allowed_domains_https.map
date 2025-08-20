@@ -4029,7 +4029,7 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?steam-api.com $ssl_preread_server_name;
     ~^(.*\.)?steam-chat.com $ssl_preread_server_name;
     ~^(.*\.)?steam.tv $ssl_preread_server_name;
-    ~^(.*\.)?ssteamgames.com $ssl_preread_server_name;
+    ~^(.*\.)?steamgames.com $ssl_preread_server_name;
     ~^(.*\.)?steamstat.us $ssl_preread_server_name;
     ~^(.*\.)?steamusercontent.com $ssl_preread_server_name;
     ~^(.*\.)?underlords.com $ssl_preread_server_name;
@@ -5237,4 +5237,10 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?xyacs.dnet.xboxlive.com $ssl_preread_server_name;
     ~^(.*\.)?xyacs.xboxlive.com $ssl_preread_server_name;
     ~^(.*\.)?xyacsnext.dnet.xboxlive.com $ssl_preread_server_name;
+    ~^(.*\.)?denon.com $ssl_preread_server_name;
+    ~^(.*\.)?akamaiedge.net $ssl_preread_server_name;
+    ~^(.*\.)?letsencrypt.org $ssl_preread_server_name;
+    ~^(.*\.)?lencr.org $ssl_preread_server_name;
+    ~^(.*\.)?akamai.net $ssl_preread_server_name;
+    ~^(.*\.)?edgekey.net $ssl_preread_server_name;
 }
