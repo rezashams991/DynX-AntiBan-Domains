@@ -5243,4 +5243,5 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?lencr.org $ssl_preread_server_name;
     ~^(.*\.)?akamai.net $ssl_preread_server_name;
     ~^(.*\.)?edgekey.net $ssl_preread_server_name;
+    ~^(.*\.)?github.dev $ssl_preread_server_name;
 }
