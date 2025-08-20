@@ -4027,7 +4027,7 @@
 ||steam-api.com^$dnsrewrite=10.70.95.150
 ||steam-chat.com^$dnsrewrite=10.70.95.150
 ||steam.tv^$dnsrewrite=10.70.95.150
-||ssteamgames.com^$dnsrewrite=10.70.95.150
+||steamgames.com^$dnsrewrite=10.70.95.150
 ||steamstat.us^$dnsrewrite=10.70.95.150
 ||steamusercontent.com^$dnsrewrite=10.70.95.150
 ||underlords.com^$dnsrewrite=10.70.95.150
@@ -5236,3 +5236,9 @@
 ||xyacs.xboxlive.com^$dnsrewrite=10.70.95.150
 ||xyacsnext.dnet.xboxlive.com^$dnsrewrite=10.70.95.150
 ||denon.com^$dnsrewrite=10.70.95.150
+||akamaiedge.net^$dnsrewrite=10.70.95.150
+||letsencrypt.org^$dnsrewrite=10.70.95.150
+||lencr.org^$dnsrewrite=10.70.95.150
+||akamai.net^$dnsrewrite=10.70.95.150
+||edgekey.net^$dnsrewrite=10.70.95.150
+||github.dev^$dnsrewrite=10.70.95.150
