@@ -4051,4 +4051,7 @@ map $host $allowed_host {
     ~^(.*\.)?msedge.net$ 1;
     ~^(.*\.)?windows.com$ 1;
     ~^(.*\.)?radiojavan.com$ 1;
+    ~^(.*\.)?socialchain.app$ 1;
+    ~^(.*\.)?api.onesignal.com$ 1;
+    ~^(.*\.)?cdn-app.minepi.com$ 1;
 }
