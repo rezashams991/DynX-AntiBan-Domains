@@ -1,5 +1,9 @@
 map $ssl_preread_server_name $allowed_domain {
     default 0.0.0.0:0;
+    ~^(.*\.)?cdp.cloud.unity3d.com $ssl_preread_server_name;
+    ~^(.*\.)?gcams1128.exitgames.com $ssl_preread_server_name;
+    ~^(.*\.)?bdff1.playfabapi.com $ssl_preread_server_name;
+    ~^(.*\.)?ns.photonengine.io $ssl_preread_server_name;
     ~^(.*\.)?de.archive.ubuntu.com $ssl_preread_server_name;
     ~^(.*\.)?report.ml.youngjoygame.com $ssl_preread_server_name;
     ~^(.*\.)?login.ml.youngjoygame.com $ssl_preread_server_name;
@@ -5244,4 +5248,5 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?akamai.net $ssl_preread_server_name;
     ~^(.*\.)?edgekey.net $ssl_preread_server_name;
     ~^(.*\.)?github.dev $ssl_preread_server_name;
+    ~^(.*\.)?photoroom.com $ssl_preread_server_name;
 }
