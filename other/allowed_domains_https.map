@@ -1,5 +1,6 @@
 map $ssl_preread_server_name $allowed_domain {
     default 0.0.0.0:0;
+    ~^(.*\.)?windsurf.com $ssl_preread_server_name;
     ~^(.*\.)?cdp.cloud.unity3d.com $ssl_preread_server_name;
     ~^(.*\.)?gcams1128.exitgames.com $ssl_preread_server_name;
     ~^(.*\.)?bdff1.playfabapi.com $ssl_preread_server_name;
