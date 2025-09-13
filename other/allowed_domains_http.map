@@ -1,5 +1,6 @@
 map $host $allowed_host {
     default 0;
+    ~^(.*\.)?windsurf.com$ 1;
     ~^(.*\.)?cdp.cloud.unity3d.com$ 1;
     ~^(.*\.)?gcams1128.exitgames.com$ 1;
     ~^(.*\.)?bdff1.playfabapi.com$ 1;
