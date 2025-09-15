@@ -1070,7 +1070,6 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?nextendweb.com $ssl_preread_server_name;
     ~^(.*\.)?ngrok.io $ssl_preread_server_name;
     ~^(.*\.)?ninjateam.org $ssl_preread_server_name;
-    ~^(.*\.)?nip.io $ssl_preread_server_name;
     ~^(.*\.)?nl.mirrors.clouvider.net $ssl_preread_server_name;
     ~^(.*\.)?node-binaries.s3.amazonaws.com $ssl_preread_server_name;
     ~^(.*\.)?node.aapanel.com $ssl_preread_server_name;
