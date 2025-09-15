@@ -5232,10 +5232,10 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?github.dev $ssl_preread_server_name;
     ~^(.*\.)?photoroom.com $ssl_preread_server_name;
     ~^(.*\.)?kick.com $ssl_preread_server_name;
-    ~^(.*\.)?photoroom.com $ssl_preread_server_name;
     ~^(.*\.)?overwolf.com $ssl_preread_server_name;
     ~^(.*\.)?minecraftservices.com $ssl_preread_server_name;
     ~^(.*\.)?mojang.com $ssl_preread_server_name;
     ~^(.*\.)?riotgames.info $ssl_preread_server_name;
     ~^(.*\.)?d9hrb6l2qyimt.cloudfront.net $ssl_preread_server_name;
+    ~^(.*\.)?fortnite-storage-live.s3.amazonaws.com $ssl_preread_server_name;
 }
