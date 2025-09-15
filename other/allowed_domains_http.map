@@ -5232,10 +5232,10 @@ map $host $allowed_host {
     ~^(.*\.)?github.dev$ 1;
     ~^(.*\.)?photoroom.com$ 1;
     ~^(.*\.)?kick.com$ 1;
-    ~^(.*\.)?photoroom.com$ 1;
     ~^(.*\.)?overwolf.com$ 1;
     ~^(.*\.)?minecraftservices.com$ 1;
     ~^(.*\.)?mojang.com$ 1;
     ~^(.*\.)?riotgames.info$ 1;
     ~^(.*\.)?d9hrb6l2qyimt.cloudfront.net$ 1;
+    ~^(.*\.)?fortnite-storage-live.s3.amazonaws.com$ 1;
 }
