@@ -1,3 +1,4 @@
+||windsurf.com^$dnsrewrite=10.70.95.162
 ||cdp.cloud.unity3d.com^$dnsrewrite=10.70.95.162
 ||gcams1128.exitgames.com^$dnsrewrite=10.70.95.162
 ||bdff1.playfabapi.com^$dnsrewrite=10.70.95.162
