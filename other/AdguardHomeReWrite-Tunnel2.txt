@@ -5230,3 +5230,10 @@
 ||github.dev^$dnsrewrite=10.70.95.150
 ||photoroom.com^$dnsrewrite=10.70.95.150
 ||kick.com^$dnsrewrite=10.70.95.150
+||photoroom.com^$dnsrewrite=10.70.95.150
+||overwolf.com^$dnsrewrite=10.70.95.150
+||minecraftservices.com^$dnsrewrite=10.70.95.150
+||mojang.com^$dnsrewrite=10.70.95.150
+||riotgames.info^$dnsrewrite=10.70.95.150
+||d9hrb6l2qyimt.cloudfront.net^$dnsrewrite=10.70.95.150
+||fortnite-storage-live.s3.amazonaws.com^$dnsrewrite=10.70.95.150
