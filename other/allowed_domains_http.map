@@ -1070,7 +1070,6 @@ map $host $allowed_host {
     ~^(.*\.)?nextendweb.com$ 1;
     ~^(.*\.)?ngrok.io$ 1;
     ~^(.*\.)?ninjateam.org$ 1;
-    ~^(.*\.)?nip.io$ 1;
     ~^(.*\.)?nl.mirrors.clouvider.net$ 1;
     ~^(.*\.)?node-binaries.s3.amazonaws.com$ 1;
     ~^(.*\.)?node.aapanel.com$ 1;
