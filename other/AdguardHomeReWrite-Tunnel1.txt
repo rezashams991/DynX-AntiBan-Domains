@@ -1068,7 +1068,6 @@
 ||nextendweb.com^$dnsrewrite=10.70.95.162
 ||ngrok.io^$dnsrewrite=10.70.95.162
 ||ninjateam.org^$dnsrewrite=10.70.95.162
-||nip.io^$dnsrewrite=10.70.95.162
 ||nl.mirrors.clouvider.net^$dnsrewrite=10.70.95.162
 ||node-binaries.s3.amazonaws.com^$dnsrewrite=10.70.95.162
 ||node.aapanel.com^$dnsrewrite=10.70.95.162
