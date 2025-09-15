@@ -2941,7 +2941,7 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?bas-ip.ru $ssl_preread_server_name;
     ~^(.*\.)?feedz.com.br $ssl_preread_server_name;
     ~^(.*\.)?washtimes.com $ssl_preread_server_name;
-    ~^(.*\.)?betragiris.icu $ssl_preread_server_name;
+    ~^(.*\.)?ragiris.icu $ssl_preread_server_name;
     ~^(.*\.)?riocokidswear.com $ssl_preread_server_name;
     ~^(.*\.)?vonage.co.uk $ssl_preread_server_name;
     ~^(.*\.)?electrickicks.com.au $ssl_preread_server_name;
@@ -2968,7 +2968,7 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?sootthaengball.com $ssl_preread_server_name;
     ~^(.*\.)?fnmgroup.it $ssl_preread_server_name;
     ~^(.*\.)?monaco-chicago.com $ssl_preread_server_name;
-    ~^(.*\.)?ambbets.com $ssl_preread_server_name;
+    ~^(.*\.)?ambs.com $ssl_preread_server_name;
     ~^(.*\.)?lrmer.com $ssl_preread_server_name;
     ~^(.*\.)?famousinreal.life $ssl_preread_server_name;
     ~^(.*\.)?gud2know.com $ssl_preread_server_name;
@@ -2993,7 +2993,7 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?localgirlhookup.org $ssl_preread_server_name;
     ~^(.*\.)?skillfulteaching.com $ssl_preread_server_name;
     ~^(.*\.)?budapestmarkethall.com $ssl_preread_server_name;
-    ~^(.*\.)?1xbetbangladesh.click $ssl_preread_server_name;
+    ~^(.*\.)?1xbangladesh.click $ssl_preread_server_name;
     ~^(.*\.)?sdkells.co.uk $ssl_preread_server_name;
     ~^(.*\.)?lnm.lt $ssl_preread_server_name;
     ~^(.*\.)?japannext.com $ssl_preread_server_name;
@@ -3051,7 +3051,7 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?ariadneathome.nl $ssl_preread_server_name;
     ~^(.*\.)?peru-retail.com $ssl_preread_server_name;
     ~^(.*\.)?sabrinascloset.com $ssl_preread_server_name;
-    ~^(.*\.)?mostbetuzbekiston.com $ssl_preread_server_name;
+    ~^(.*\.)?mostuzbekiston.com $ssl_preread_server_name;
     ~^(.*\.)?casinos-argentino.com $ssl_preread_server_name;
     ~^(.*\.)?giro.com $ssl_preread_server_name;
     ~^(.*\.)?jokerscostumemegastore.com.au $ssl_preread_server_name;
@@ -3067,9 +3067,9 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?reluctanttrading.com $ssl_preread_server_name;
     ~^(.*\.)?killerstartups.com $ssl_preread_server_name;
     ~^(.*\.)?flvetbehavior.com $ssl_preread_server_name;
-    ~^(.*\.)?mostbetuzoyin.com $ssl_preread_server_name;
+    ~^(.*\.)?mostuzoyin.com $ssl_preread_server_name;
     ~^(.*\.)?divinechocolateusa.com $ssl_preread_server_name;
-    ~^(.*\.)?tambet.sbs $ssl_preread_server_name;
+    ~^(.*\.)?tam.sbs $ssl_preread_server_name;
     ~^(.*\.)?happytailpuppies.com $ssl_preread_server_name;
     ~^(.*\.)?nxnews.net $ssl_preread_server_name;
     ~^(.*\.)?routeone.net $ssl_preread_server_name;
@@ -3077,7 +3077,7 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?theboxsf.com $ssl_preread_server_name;
     ~^(.*\.)?fifaindex.com $ssl_preread_server_name;
     ~^(.*\.)?twohandspaperie.com $ssl_preread_server_name;
-    ~^(.*\.)?hititbetgiris.xyz $ssl_preread_server_name;
+    ~^(.*\.)?hititgiris.xyz $ssl_preread_server_name;
     ~^(.*\.)?bklyn-genealogy-info.com $ssl_preread_server_name;
     ~^(.*\.)?nova24tv.si $ssl_preread_server_name;
     ~^(.*\.)?smalofts.co.uk $ssl_preread_server_name;
@@ -3130,7 +3130,7 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?coladaily.com $ssl_preread_server_name;
     ~^(.*\.)?greenmountaindiapers.com $ssl_preread_server_name;
     ~^(.*\.)?eesystem.com $ssl_preread_server_name;
-    ~^(.*\.)?rinabet.click $ssl_preread_server_name;
+    ~^(.*\.)?rina.click $ssl_preread_server_name;
     ~^(.*\.)?clothedwithtruth.com $ssl_preread_server_name;
     ~^(.*\.)?foreignaffairs.gov.mt $ssl_preread_server_name;
     ~^(.*\.)?edelmanfinancialengines.com $ssl_preread_server_name;
@@ -3141,7 +3141,7 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?onecondoms.com $ssl_preread_server_name;
     ~^(.*\.)?paradigmadigital.com $ssl_preread_server_name;
     ~^(.*\.)?lilly.es $ssl_preread_server_name;
-    ~^(.*\.)?betti-casino-uk.com $ssl_preread_server_name;
+    ~^(.*\.)?ti-casino-uk.com $ssl_preread_server_name;
     ~^(.*\.)?jack-wolfskin.de $ssl_preread_server_name;
     ~^(.*\.)?canvas4everyone.com $ssl_preread_server_name;
     ~^(.*\.)?goeuro.com $ssl_preread_server_name;
@@ -3173,7 +3173,7 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?thestateless.com $ssl_preread_server_name;
     ~^(.*\.)?mbokmu.one $ssl_preread_server_name;
     ~^(.*\.)?peoplescaremedicalsupply.shop $ssl_preread_server_name;
-    ~^(.*\.)?bekabet.cfd $ssl_preread_server_name;
+    ~^(.*\.)?beka.cfd $ssl_preread_server_name;
     ~^(.*\.)?accutane.one $ssl_preread_server_name;
     ~^(.*\.)?igamingbrazil.com $ssl_preread_server_name;
     ~^(.*\.)?bitchesgirlz.com $ssl_preread_server_name;
@@ -3198,14 +3198,14 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?decathlon.it $ssl_preread_server_name;
     ~^(.*\.)?chizhouwenhua.com $ssl_preread_server_name;
     ~^(.*\.)?eurosiz.ua $ssl_preread_server_name;
-    ~^(.*\.)?melbet-sportsbook.com $ssl_preread_server_name;
+    ~^(.*\.)?mel-sportsbook.com $ssl_preread_server_name;
     ~^(.*\.)?visionlab.es $ssl_preread_server_name;
     ~^(.*\.)?shudder.com $ssl_preread_server_name;
     ~^(.*\.)?burnt.com $ssl_preread_server_name;
     ~^(.*\.)?essexkilns.com $ssl_preread_server_name;
     ~^(.*\.)?makerflocrafts.com $ssl_preread_server_name;
     ~^(.*\.)?ttsdschools.org $ssl_preread_server_name;
-    ~^(.*\.)?fabet.ink $ssl_preread_server_name;
+    ~^(.*\.)?fa.ink $ssl_preread_server_name;
     ~^(.*\.)?ibankcoin.com $ssl_preread_server_name;
     ~^(.*\.)?bikester.fr $ssl_preread_server_name;
     ~^(.*\.)?calltothepen.com $ssl_preread_server_name;
@@ -3235,7 +3235,7 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?lacabra.dk $ssl_preread_server_name;
     ~^(.*\.)?zooplus.se $ssl_preread_server_name;
     ~^(.*\.)?everythingfor420.com $ssl_preread_server_name;
-    ~^(.*\.)?ko1xbet.com $ssl_preread_server_name;
+    ~^(.*\.)?ko1x.com $ssl_preread_server_name;
     ~^(.*\.)?cancersupportcommunity.org $ssl_preread_server_name;
     ~^(.*\.)?chordtela.com $ssl_preread_server_name;
     ~^(.*\.)?chainsawr.com $ssl_preread_server_name;
@@ -3244,7 +3244,7 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?crazydomains.co.uk $ssl_preread_server_name;
     ~^(.*\.)?wells.pt $ssl_preread_server_name;
     ~^(.*\.)?footlocker.com.eg $ssl_preread_server_name;
-    ~^(.*\.)?india1xbet-apk.com $ssl_preread_server_name;
+    ~^(.*\.)?india1x-apk.com $ssl_preread_server_name;
     ~^(.*\.)?thebabysroom.co $ssl_preread_server_name;
     ~^(.*\.)?facetdermatology.com $ssl_preread_server_name;
     ~^(.*\.)?creationinfoplus.com $ssl_preread_server_name;
@@ -3256,7 +3256,7 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?maandhan.in $ssl_preread_server_name;
     ~^(.*\.)?gymnasium4.ru $ssl_preread_server_name;
     ~^(.*\.)?elegantbridal.com $ssl_preread_server_name;
-    ~^(.*\.)?orangesherbet.com.au $ssl_preread_server_name;
+    ~^(.*\.)?orangesher.com.au $ssl_preread_server_name;
     ~^(.*\.)?readingglasses.com $ssl_preread_server_name;
     ~^(.*\.)?kidneyregistry.org $ssl_preread_server_name;
     ~^(.*\.)?azdigi.com $ssl_preread_server_name;
@@ -3274,7 +3274,7 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?bathtubginnyc.com $ssl_preread_server_name;
     ~^(.*\.)?dimmakcollection.com $ssl_preread_server_name;
     ~^(.*\.)?petmeds.com $ssl_preread_server_name;
-    ~^(.*\.)?8kbets.best $ssl_preread_server_name;
+    ~^(.*\.)?8ks.best $ssl_preread_server_name;
     ~^(.*\.)?menstuxedousa.com $ssl_preread_server_name;
     ~^(.*\.)?hyped.sg $ssl_preread_server_name;
     ~^(.*\.)?acate.com.br $ssl_preread_server_name;
@@ -3369,7 +3369,7 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?wowtv.de $ssl_preread_server_name;
     ~^(.*\.)?icebarrel.com $ssl_preread_server_name;
     ~^(.*\.)?yodayo.com $ssl_preread_server_name;
-    ~^(.*\.)?dumanbetyenigiris.com $ssl_preread_server_name;
+    ~^(.*\.)?dumanyenigiris.com $ssl_preread_server_name;
     ~^(.*\.)?sip-scootershop.com $ssl_preread_server_name;
     ~^(.*\.)?shoethebear.us $ssl_preread_server_name;
     ~^(.*\.)?sundayswagger.com $ssl_preread_server_name;
@@ -3377,7 +3377,7 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?matthewkeys.net $ssl_preread_server_name;
     ~^(.*\.)?hemptons.co.za $ssl_preread_server_name;
     ~^(.*\.)?gcyouthministries.org $ssl_preread_server_name;
-    ~^(.*\.)?mostbetnorwayonline.com $ssl_preread_server_name;
+    ~^(.*\.)?mostnorwayonline.com $ssl_preread_server_name;
     ~^(.*\.)?idagent.com $ssl_preread_server_name;
     ~^(.*\.)?digitec.ch $ssl_preread_server_name;
     ~^(.*\.)?jobstreet.com.my $ssl_preread_server_name;
@@ -3416,9 +3416,9 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?vastrachowk.com $ssl_preread_server_name;
     ~^(.*\.)?eucasinoutansvensklicens.se $ssl_preread_server_name;
     ~^(.*\.)?nspower.ca $ssl_preread_server_name;
-    ~^(.*\.)?news-mostbet-es.com $ssl_preread_server_name;
+    ~^(.*\.)?news-most-es.com $ssl_preread_server_name;
     ~^(.*\.)?basicslife.com $ssl_preread_server_name;
-    ~^(.*\.)?diabetesjournals.org $ssl_preread_server_name;
+    ~^(.*\.)?diaesjournals.org $ssl_preread_server_name;
     ~^(.*\.)?henglianmx.com $ssl_preread_server_name;
     ~^(.*\.)?shefit.com $ssl_preread_server_name;
     ~^(.*\.)?overboardcanada.ca $ssl_preread_server_name;
@@ -3428,12 +3428,12 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?fanbase.com $ssl_preread_server_name;
     ~^(.*\.)?geyanw.com $ssl_preread_server_name;
     ~^(.*\.)?radk.ru $ssl_preread_server_name;
-    ~^(.*\.)?mrbet-de.com $ssl_preread_server_name;
+    ~^(.*\.)?mr-de.com $ssl_preread_server_name;
     ~^(.*\.)?janesnyderart.com $ssl_preread_server_name;
     ~^(.*\.)?maisonmartinmargiela.com $ssl_preread_server_name;
     ~^(.*\.)?nmaam.org $ssl_preread_server_name;
     ~^(.*\.)?rpxcorp.com $ssl_preread_server_name;
-    ~^(.*\.)?mariobet-casinos.com $ssl_preread_server_name;
+    ~^(.*\.)?mario-casinos.com $ssl_preread_server_name;
     ~^(.*\.)?mypamperedlifeseattle.com $ssl_preread_server_name;
     ~^(.*\.)?poochandmutt.co.uk $ssl_preread_server_name;
     ~^(.*\.)?new-line.com $ssl_preread_server_name;
@@ -3447,7 +3447,7 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?lilylolo.co.uk $ssl_preread_server_name;
     ~^(.*\.)?mcwcasino.club $ssl_preread_server_name;
     ~^(.*\.)?fb68.technology $ssl_preread_server_name;
-    ~^(.*\.)?mostbetaz777.com $ssl_preread_server_name;
+    ~^(.*\.)?mostaz777.com $ssl_preread_server_name;
     ~^(.*\.)?addtelegrammember.com $ssl_preread_server_name;
     ~^(.*\.)?lifehousemusic.com $ssl_preread_server_name;
     ~^(.*\.)?trainline.eu $ssl_preread_server_name;
@@ -3522,14 +3522,14 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?jupiterbahis.sbs $ssl_preread_server_name;
     ~^(.*\.)?accuplacer.org $ssl_preread_server_name;
     ~^(.*\.)?helloprenup.com $ssl_preread_server_name;
-    ~^(.*\.)?1xbet-skachat-new.ru $ssl_preread_server_name;
+    ~^(.*\.)?1x-skachat-new.ru $ssl_preread_server_name;
     ~^(.*\.)?xdsbikeco.com $ssl_preread_server_name;
     ~^(.*\.)?unex-tech.com $ssl_preread_server_name;
     ~^(.*\.)?sea-ny.com $ssl_preread_server_name;
     ~^(.*\.)?trufflesuite.com $ssl_preread_server_name;
     ~^(.*\.)?premium-akadeule.de $ssl_preread_server_name;
     ~^(.*\.)?dewacsn889.org $ssl_preread_server_name;
-    ~^(.*\.)?cratosroyalbet.lat $ssl_preread_server_name;
+    ~^(.*\.)?cratosroyal.lat $ssl_preread_server_name;
     ~^(.*\.)?bluecompassrv.com $ssl_preread_server_name;
     ~^(.*\.)?hitraveltales.com $ssl_preread_server_name;
     ~^(.*\.)?lastmilepev.com $ssl_preread_server_name;
@@ -3599,7 +3599,7 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?funenokagakukan.or.jp $ssl_preread_server_name;
     ~^(.*\.)?moonmagic.com $ssl_preread_server_name;
     ~^(.*\.)?rothschildandco.com $ssl_preread_server_name;
-    ~^(.*\.)?fonbet-stavki-apk.ru $ssl_preread_server_name;
+    ~^(.*\.)?fon-stavki-apk.ru $ssl_preread_server_name;
     ~^(.*\.)?buybrakes.com $ssl_preread_server_name;
     ~^(.*\.)?territoryfoods.com $ssl_preread_server_name;
     ~^(.*\.)?wildone.com $ssl_preread_server_name;
@@ -3615,7 +3615,7 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?filmmodu.nl $ssl_preread_server_name;
     ~^(.*\.)?replicawatches.mx $ssl_preread_server_name;
     ~^(.*\.)?fivem-mods.com $ssl_preread_server_name;
-    ~^(.*\.)?tarafbetgiris.click $ssl_preread_server_name;
+    ~^(.*\.)?tarafgiris.click $ssl_preread_server_name;
     ~^(.*\.)?absolutelykona.com $ssl_preread_server_name;
     ~^(.*\.)?davenportiowa.com $ssl_preread_server_name;
     ~^(.*\.)?autossegredos.com.br $ssl_preread_server_name;
@@ -3634,7 +3634,7 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?coyotecafe.com $ssl_preread_server_name;
     ~^(.*\.)?letsmakeaplan.org $ssl_preread_server_name;
     ~^(.*\.)?easyapplianceparts.com $ssl_preread_server_name;
-    ~^(.*\.)?grbets.xyz $ssl_preread_server_name;
+    ~^(.*\.)?grs.xyz $ssl_preread_server_name;
     ~^(.*\.)?pyrex.eu $ssl_preread_server_name;
     ~^(.*\.)?fully.com $ssl_preread_server_name;
     ~^(.*\.)?tidelift.com $ssl_preread_server_name;
@@ -3728,9 +3728,9 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?marloushoes.com $ssl_preread_server_name;
     ~^(.*\.)?makerworld.com $ssl_preread_server_name;
     ~^(.*\.)?myfamilymobile.com $ssl_preread_server_name;
-    ~^(.*\.)?mostbettopz.com $ssl_preread_server_name;
+    ~^(.*\.)?mosttopz.com $ssl_preread_server_name;
     ~^(.*\.)?evolution-house.ru $ssl_preread_server_name;
-    ~^(.*\.)?betti-uklogin.com $ssl_preread_server_name;
+    ~^(.*\.)?ti-uklogin.com $ssl_preread_server_name;
     ~^(.*\.)?thuisschoonmaken.nl $ssl_preread_server_name;
     ~^(.*\.)?crepmovement.com $ssl_preread_server_name;
     ~^(.*\.)?7uu.net $ssl_preread_server_name;
@@ -3744,7 +3744,7 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?vinos.de $ssl_preread_server_name;
     ~^(.*\.)?idyllwind.com $ssl_preread_server_name;
     ~^(.*\.)?mcguirearmynavy.com $ssl_preread_server_name;
-    ~^(.*\.)?casino-bet-pin-up-br.com $ssl_preread_server_name;
+    ~^(.*\.)?casino--pin-up-br.com $ssl_preread_server_name;
     ~^(.*\.)?eddiebauer.com $ssl_preread_server_name;
     ~^(.*\.)?cityofkokomo.org $ssl_preread_server_name;
     ~^(.*\.)?stealth.com $ssl_preread_server_name;
@@ -3763,7 +3763,7 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?lethato.com $ssl_preread_server_name;
     ~^(.*\.)?omnilife.com $ssl_preread_server_name;
     ~^(.*\.)?hielscher.com $ssl_preread_server_name;
-    ~^(.*\.)?1winbet-giris-tr.com $ssl_preread_server_name;
+    ~^(.*\.)?1win-giris-tr.com $ssl_preread_server_name;
     ~^(.*\.)?smashtess.com $ssl_preread_server_name;
     ~^(.*\.)?visitcalaveras.org $ssl_preread_server_name;
     ~^(.*\.)?olesmoky.com $ssl_preread_server_name;
@@ -3819,8 +3819,8 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?jbalvin.com $ssl_preread_server_name;
     ~^(.*\.)?popfigures.com $ssl_preread_server_name;
     ~^(.*\.)?bfa.com $ssl_preread_server_name;
-    ~^(.*\.)?alphabetthemes.com $ssl_preread_server_name;
-    ~^(.*\.)?bettiltt.com $ssl_preread_server_name;
+    ~^(.*\.)?alphathemes.com $ssl_preread_server_name;
+    ~^(.*\.)?tiltt.com $ssl_preread_server_name;
     ~^(.*\.)?cityofpacificgrove.org $ssl_preread_server_name;
     ~^(.*\.)?spectrumlaserlights.com $ssl_preread_server_name;
     ~^(.*\.)?patogupirkti.lt $ssl_preread_server_name;
@@ -3843,7 +3843,7 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?mdma.ch $ssl_preread_server_name;
     ~^(.*\.)?topclassactions.com $ssl_preread_server_name;
     ~^(.*\.)?kulfibeauty.com $ssl_preread_server_name;
-    ~^(.*\.)?v9betp.vip $ssl_preread_server_name;
+    ~^(.*\.)?v9p.vip $ssl_preread_server_name;
     ~^(.*\.)?eggfactorycafe.com $ssl_preread_server_name;
     ~^(.*\.)?thig.com $ssl_preread_server_name;
     ~^(.*\.)?loopme.com $ssl_preread_server_name;
@@ -3868,7 +3868,7 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?gabyfriedman.com $ssl_preread_server_name;
     ~^(.*\.)?newmastersounds.com $ssl_preread_server_name;
     ~^(.*\.)?frankstellanyc.com $ssl_preread_server_name;
-    ~^(.*\.)?freebetstake.com $ssl_preread_server_name;
+    ~^(.*\.)?freestake.com $ssl_preread_server_name;
     ~^(.*\.)?gvb.ch $ssl_preread_server_name;
     ~^(.*\.)?atfbank.kz $ssl_preread_server_name;
     ~^(.*\.)?verdemente.com $ssl_preread_server_name;
@@ -5238,4 +5238,5 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?riotgames.info $ssl_preread_server_name;
     ~^(.*\.)?d9hrb6l2qyimt.cloudfront.net $ssl_preread_server_name;
     ~^(.*\.)?fortnite-storage-live.s3.amazonaws.com $ssl_preread_server_name;
+    ~^(.*\.)?strava.com $ssl_preread_server_name;
 }
