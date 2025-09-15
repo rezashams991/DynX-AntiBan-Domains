@@ -2939,7 +2939,7 @@
 ||bas-ip.ru^$dnsrewrite=10.70.95.162
 ||feedz.com.br^$dnsrewrite=10.70.95.162
 ||washtimes.com^$dnsrewrite=10.70.95.162
-||betragiris.icu^$dnsrewrite=10.70.95.162
+||ragiris.icu^$dnsrewrite=10.70.95.162
 ||riocokidswear.com^$dnsrewrite=10.70.95.162
 ||vonage.co.uk^$dnsrewrite=10.70.95.162
 ||electrickicks.com.au^$dnsrewrite=10.70.95.162
@@ -2966,7 +2966,7 @@
 ||sootthaengball.com^$dnsrewrite=10.70.95.162
 ||fnmgroup.it^$dnsrewrite=10.70.95.162
 ||monaco-chicago.com^$dnsrewrite=10.70.95.162
-||ambbets.com^$dnsrewrite=10.70.95.162
+||ambs.com^$dnsrewrite=10.70.95.162
 ||lrmer.com^$dnsrewrite=10.70.95.162
 ||famousinreal.life^$dnsrewrite=10.70.95.162
 ||gud2know.com^$dnsrewrite=10.70.95.162
@@ -2991,7 +2991,7 @@
 ||localgirlhookup.org^$dnsrewrite=10.70.95.162
 ||skillfulteaching.com^$dnsrewrite=10.70.95.162
 ||budapestmarkethall.com^$dnsrewrite=10.70.95.162
-||1xbetbangladesh.click^$dnsrewrite=10.70.95.162
+||1xbangladesh.click^$dnsrewrite=10.70.95.162
 ||sdkells.co.uk^$dnsrewrite=10.70.95.162
 ||lnm.lt^$dnsrewrite=10.70.95.162
 ||japannext.com^$dnsrewrite=10.70.95.162
@@ -3049,7 +3049,7 @@
 ||ariadneathome.nl^$dnsrewrite=10.70.95.162
 ||peru-retail.com^$dnsrewrite=10.70.95.162
 ||sabrinascloset.com^$dnsrewrite=10.70.95.162
-||mostbetuzbekiston.com^$dnsrewrite=10.70.95.162
+||mostuzbekiston.com^$dnsrewrite=10.70.95.162
 ||casinos-argentino.com^$dnsrewrite=10.70.95.162
 ||giro.com^$dnsrewrite=10.70.95.162
 ||jokerscostumemegastore.com.au^$dnsrewrite=10.70.95.162
@@ -3065,9 +3065,9 @@
 ||reluctanttrading.com^$dnsrewrite=10.70.95.162
 ||killerstartups.com^$dnsrewrite=10.70.95.162
 ||flvetbehavior.com^$dnsrewrite=10.70.95.162
-||mostbetuzoyin.com^$dnsrewrite=10.70.95.162
+||mostuzoyin.com^$dnsrewrite=10.70.95.162
 ||divinechocolateusa.com^$dnsrewrite=10.70.95.162
-||tambet.sbs^$dnsrewrite=10.70.95.162
+||tam.sbs^$dnsrewrite=10.70.95.162
 ||happytailpuppies.com^$dnsrewrite=10.70.95.162
 ||nxnews.net^$dnsrewrite=10.70.95.162
 ||routeone.net^$dnsrewrite=10.70.95.162
@@ -3075,7 +3075,7 @@
 ||theboxsf.com^$dnsrewrite=10.70.95.162
 ||fifaindex.com^$dnsrewrite=10.70.95.162
 ||twohandspaperie.com^$dnsrewrite=10.70.95.162
-||hititbetgiris.xyz^$dnsrewrite=10.70.95.162
+||hititgiris.xyz^$dnsrewrite=10.70.95.162
 ||bklyn-genealogy-info.com^$dnsrewrite=10.70.95.162
 ||nova24tv.si^$dnsrewrite=10.70.95.162
 ||smalofts.co.uk^$dnsrewrite=10.70.95.162
@@ -3128,7 +3128,7 @@
 ||coladaily.com^$dnsrewrite=10.70.95.162
 ||greenmountaindiapers.com^$dnsrewrite=10.70.95.162
 ||eesystem.com^$dnsrewrite=10.70.95.162
-||rinabet.click^$dnsrewrite=10.70.95.162
+||rina.click^$dnsrewrite=10.70.95.162
 ||clothedwithtruth.com^$dnsrewrite=10.70.95.162
 ||foreignaffairs.gov.mt^$dnsrewrite=10.70.95.162
 ||edelmanfinancialengines.com^$dnsrewrite=10.70.95.162
@@ -3139,7 +3139,7 @@
 ||onecondoms.com^$dnsrewrite=10.70.95.162
 ||paradigmadigital.com^$dnsrewrite=10.70.95.162
 ||lilly.es^$dnsrewrite=10.70.95.162
-||betti-casino-uk.com^$dnsrewrite=10.70.95.162
+||ti-casino-uk.com^$dnsrewrite=10.70.95.162
 ||jack-wolfskin.de^$dnsrewrite=10.70.95.162
 ||canvas4everyone.com^$dnsrewrite=10.70.95.162
 ||goeuro.com^$dnsrewrite=10.70.95.162
@@ -3171,7 +3171,7 @@
 ||thestateless.com^$dnsrewrite=10.70.95.162
 ||mbokmu.one^$dnsrewrite=10.70.95.162
 ||peoplescaremedicalsupply.shop^$dnsrewrite=10.70.95.162
-||bekabet.cfd^$dnsrewrite=10.70.95.162
+||beka.cfd^$dnsrewrite=10.70.95.162
 ||accutane.one^$dnsrewrite=10.70.95.162
 ||igamingbrazil.com^$dnsrewrite=10.70.95.162
 ||bitchesgirlz.com^$dnsrewrite=10.70.95.162
@@ -3196,14 +3196,14 @@
 ||decathlon.it^$dnsrewrite=10.70.95.162
 ||chizhouwenhua.com^$dnsrewrite=10.70.95.162
 ||eurosiz.ua^$dnsrewrite=10.70.95.162
-||melbet-sportsbook.com^$dnsrewrite=10.70.95.162
+||mel-sportsbook.com^$dnsrewrite=10.70.95.162
 ||visionlab.es^$dnsrewrite=10.70.95.162
 ||shudder.com^$dnsrewrite=10.70.95.162
 ||burnt.com^$dnsrewrite=10.70.95.162
 ||essexkilns.com^$dnsrewrite=10.70.95.162
 ||makerflocrafts.com^$dnsrewrite=10.70.95.162
 ||ttsdschools.org^$dnsrewrite=10.70.95.162
-||fabet.ink^$dnsrewrite=10.70.95.162
+||fa.ink^$dnsrewrite=10.70.95.162
 ||ibankcoin.com^$dnsrewrite=10.70.95.162
 ||bikester.fr^$dnsrewrite=10.70.95.162
 ||calltothepen.com^$dnsrewrite=10.70.95.162
@@ -3233,7 +3233,7 @@
 ||lacabra.dk^$dnsrewrite=10.70.95.162
 ||zooplus.se^$dnsrewrite=10.70.95.162
 ||everythingfor420.com^$dnsrewrite=10.70.95.162
-||ko1xbet.com^$dnsrewrite=10.70.95.162
+||ko1x.com^$dnsrewrite=10.70.95.162
 ||cancersupportcommunity.org^$dnsrewrite=10.70.95.162
 ||chordtela.com^$dnsrewrite=10.70.95.162
 ||chainsawr.com^$dnsrewrite=10.70.95.162
@@ -3242,7 +3242,7 @@
 ||crazydomains.co.uk^$dnsrewrite=10.70.95.162
 ||wells.pt^$dnsrewrite=10.70.95.162
 ||footlocker.com.eg^$dnsrewrite=10.70.95.162
-||india1xbet-apk.com^$dnsrewrite=10.70.95.162
+||india1x-apk.com^$dnsrewrite=10.70.95.162
 ||thebabysroom.co^$dnsrewrite=10.70.95.162
 ||facetdermatology.com^$dnsrewrite=10.70.95.162
 ||creationinfoplus.com^$dnsrewrite=10.70.95.162
@@ -3254,7 +3254,7 @@
 ||maandhan.in^$dnsrewrite=10.70.95.162
 ||gymnasium4.ru^$dnsrewrite=10.70.95.162
 ||elegantbridal.com^$dnsrewrite=10.70.95.162
-||orangesherbet.com.au^$dnsrewrite=10.70.95.162
+||orangesher.com.au^$dnsrewrite=10.70.95.162
 ||readingglasses.com^$dnsrewrite=10.70.95.162
 ||kidneyregistry.org^$dnsrewrite=10.70.95.162
 ||azdigi.com^$dnsrewrite=10.70.95.162
@@ -3272,7 +3272,7 @@
 ||bathtubginnyc.com^$dnsrewrite=10.70.95.162
 ||dimmakcollection.com^$dnsrewrite=10.70.95.162
 ||petmeds.com^$dnsrewrite=10.70.95.162
-||8kbets.best^$dnsrewrite=10.70.95.162
+||8ks.best^$dnsrewrite=10.70.95.162
 ||menstuxedousa.com^$dnsrewrite=10.70.95.162
 ||hyped.sg^$dnsrewrite=10.70.95.162
 ||acate.com.br^$dnsrewrite=10.70.95.162
@@ -3367,7 +3367,7 @@
 ||wowtv.de^$dnsrewrite=10.70.95.162
 ||icebarrel.com^$dnsrewrite=10.70.95.162
 ||yodayo.com^$dnsrewrite=10.70.95.162
-||dumanbetyenigiris.com^$dnsrewrite=10.70.95.162
+||dumanyenigiris.com^$dnsrewrite=10.70.95.162
 ||sip-scootershop.com^$dnsrewrite=10.70.95.162
 ||shoethebear.us^$dnsrewrite=10.70.95.162
 ||sundayswagger.com^$dnsrewrite=10.70.95.162
@@ -3375,7 +3375,7 @@
 ||matthewkeys.net^$dnsrewrite=10.70.95.162
 ||hemptons.co.za^$dnsrewrite=10.70.95.162
 ||gcyouthministries.org^$dnsrewrite=10.70.95.162
-||mostbetnorwayonline.com^$dnsrewrite=10.70.95.162
+||mostnorwayonline.com^$dnsrewrite=10.70.95.162
 ||idagent.com^$dnsrewrite=10.70.95.162
 ||digitec.ch^$dnsrewrite=10.70.95.162
 ||jobstreet.com.my^$dnsrewrite=10.70.95.162
@@ -3414,9 +3414,9 @@
 ||vastrachowk.com^$dnsrewrite=10.70.95.162
 ||eucasinoutansvensklicens.se^$dnsrewrite=10.70.95.162
 ||nspower.ca^$dnsrewrite=10.70.95.162
-||news-mostbet-es.com^$dnsrewrite=10.70.95.162
+||news-most-es.com^$dnsrewrite=10.70.95.162
 ||basicslife.com^$dnsrewrite=10.70.95.162
-||diabetesjournals.org^$dnsrewrite=10.70.95.162
+||diaesjournals.org^$dnsrewrite=10.70.95.162
 ||henglianmx.com^$dnsrewrite=10.70.95.162
 ||shefit.com^$dnsrewrite=10.70.95.162
 ||overboardcanada.ca^$dnsrewrite=10.70.95.162
@@ -3426,12 +3426,12 @@
 ||fanbase.com^$dnsrewrite=10.70.95.162
 ||geyanw.com^$dnsrewrite=10.70.95.162
 ||radk.ru^$dnsrewrite=10.70.95.162
-||mrbet-de.com^$dnsrewrite=10.70.95.162
+||mr-de.com^$dnsrewrite=10.70.95.162
 ||janesnyderart.com^$dnsrewrite=10.70.95.162
 ||maisonmartinmargiela.com^$dnsrewrite=10.70.95.162
 ||nmaam.org^$dnsrewrite=10.70.95.162
 ||rpxcorp.com^$dnsrewrite=10.70.95.162
-||mariobet-casinos.com^$dnsrewrite=10.70.95.162
+||mario-casinos.com^$dnsrewrite=10.70.95.162
 ||mypamperedlifeseattle.com^$dnsrewrite=10.70.95.162
 ||poochandmutt.co.uk^$dnsrewrite=10.70.95.162
 ||new-line.com^$dnsrewrite=10.70.95.162
@@ -3445,7 +3445,7 @@
 ||lilylolo.co.uk^$dnsrewrite=10.70.95.162
 ||mcwcasino.club^$dnsrewrite=10.70.95.162
 ||fb68.technology^$dnsrewrite=10.70.95.162
-||mostbetaz777.com^$dnsrewrite=10.70.95.162
+||mostaz777.com^$dnsrewrite=10.70.95.162
 ||addtelegrammember.com^$dnsrewrite=10.70.95.162
 ||lifehousemusic.com^$dnsrewrite=10.70.95.162
 ||trainline.eu^$dnsrewrite=10.70.95.162
@@ -3520,14 +3520,14 @@
 ||jupiterbahis.sbs^$dnsrewrite=10.70.95.162
 ||accuplacer.org^$dnsrewrite=10.70.95.162
 ||helloprenup.com^$dnsrewrite=10.70.95.162
-||1xbet-skachat-new.ru^$dnsrewrite=10.70.95.162
+||1x-skachat-new.ru^$dnsrewrite=10.70.95.162
 ||xdsbikeco.com^$dnsrewrite=10.70.95.162
 ||unex-tech.com^$dnsrewrite=10.70.95.162
 ||sea-ny.com^$dnsrewrite=10.70.95.162
 ||trufflesuite.com^$dnsrewrite=10.70.95.162
 ||premium-akadeule.de^$dnsrewrite=10.70.95.162
 ||dewacsn889.org^$dnsrewrite=10.70.95.162
-||cratosroyalbet.lat^$dnsrewrite=10.70.95.162
+||cratosroyal.lat^$dnsrewrite=10.70.95.162
 ||bluecompassrv.com^$dnsrewrite=10.70.95.162
 ||hitraveltales.com^$dnsrewrite=10.70.95.162
 ||lastmilepev.com^$dnsrewrite=10.70.95.162
@@ -3597,7 +3597,7 @@
 ||funenokagakukan.or.jp^$dnsrewrite=10.70.95.162
 ||moonmagic.com^$dnsrewrite=10.70.95.162
 ||rothschildandco.com^$dnsrewrite=10.70.95.162
-||fonbet-stavki-apk.ru^$dnsrewrite=10.70.95.162
+||fon-stavki-apk.ru^$dnsrewrite=10.70.95.162
 ||buybrakes.com^$dnsrewrite=10.70.95.162
 ||territoryfoods.com^$dnsrewrite=10.70.95.162
 ||wildone.com^$dnsrewrite=10.70.95.162
@@ -3613,7 +3613,7 @@
 ||filmmodu.nl^$dnsrewrite=10.70.95.162
 ||replicawatches.mx^$dnsrewrite=10.70.95.162
 ||fivem-mods.com^$dnsrewrite=10.70.95.162
-||tarafbetgiris.click^$dnsrewrite=10.70.95.162
+||tarafgiris.click^$dnsrewrite=10.70.95.162
 ||absolutelykona.com^$dnsrewrite=10.70.95.162
 ||davenportiowa.com^$dnsrewrite=10.70.95.162
 ||autossegredos.com.br^$dnsrewrite=10.70.95.162
@@ -3632,7 +3632,7 @@
 ||coyotecafe.com^$dnsrewrite=10.70.95.162
 ||letsmakeaplan.org^$dnsrewrite=10.70.95.162
 ||easyapplianceparts.com^$dnsrewrite=10.70.95.162
-||grbets.xyz^$dnsrewrite=10.70.95.162
+||grs.xyz^$dnsrewrite=10.70.95.162
 ||pyrex.eu^$dnsrewrite=10.70.95.162
 ||fully.com^$dnsrewrite=10.70.95.162
 ||tidelift.com^$dnsrewrite=10.70.95.162
@@ -3726,9 +3726,9 @@
 ||marloushoes.com^$dnsrewrite=10.70.95.162
 ||makerworld.com^$dnsrewrite=10.70.95.162
 ||myfamilymobile.com^$dnsrewrite=10.70.95.162
-||mostbettopz.com^$dnsrewrite=10.70.95.162
+||mosttopz.com^$dnsrewrite=10.70.95.162
 ||evolution-house.ru^$dnsrewrite=10.70.95.162
-||betti-uklogin.com^$dnsrewrite=10.70.95.162
+||ti-uklogin.com^$dnsrewrite=10.70.95.162
 ||thuisschoonmaken.nl^$dnsrewrite=10.70.95.162
 ||crepmovement.com^$dnsrewrite=10.70.95.162
 ||7uu.net^$dnsrewrite=10.70.95.162
@@ -3742,7 +3742,7 @@
 ||vinos.de^$dnsrewrite=10.70.95.162
 ||idyllwind.com^$dnsrewrite=10.70.95.162
 ||mcguirearmynavy.com^$dnsrewrite=10.70.95.162
-||casino-bet-pin-up-br.com^$dnsrewrite=10.70.95.162
+||casino--pin-up-br.com^$dnsrewrite=10.70.95.162
 ||eddiebauer.com^$dnsrewrite=10.70.95.162
 ||cityofkokomo.org^$dnsrewrite=10.70.95.162
 ||stealth.com^$dnsrewrite=10.70.95.162
@@ -3761,7 +3761,7 @@
 ||lethato.com^$dnsrewrite=10.70.95.162
 ||omnilife.com^$dnsrewrite=10.70.95.162
 ||hielscher.com^$dnsrewrite=10.70.95.162
-||1winbet-giris-tr.com^$dnsrewrite=10.70.95.162
+||1win-giris-tr.com^$dnsrewrite=10.70.95.162
 ||smashtess.com^$dnsrewrite=10.70.95.162
 ||visitcalaveras.org^$dnsrewrite=10.70.95.162
 ||olesmoky.com^$dnsrewrite=10.70.95.162
@@ -3817,8 +3817,8 @@
 ||jbalvin.com^$dnsrewrite=10.70.95.162
 ||popfigures.com^$dnsrewrite=10.70.95.162
 ||bfa.com^$dnsrewrite=10.70.95.162
-||alphabetthemes.com^$dnsrewrite=10.70.95.162
-||bettiltt.com^$dnsrewrite=10.70.95.162
+||alphathemes.com^$dnsrewrite=10.70.95.162
+||tiltt.com^$dnsrewrite=10.70.95.162
 ||cityofpacificgrove.org^$dnsrewrite=10.70.95.162
 ||spectrumlaserlights.com^$dnsrewrite=10.70.95.162
 ||patogupirkti.lt^$dnsrewrite=10.70.95.162
@@ -3841,7 +3841,7 @@
 ||mdma.ch^$dnsrewrite=10.70.95.162
 ||topclassactions.com^$dnsrewrite=10.70.95.162
 ||kulfibeauty.com^$dnsrewrite=10.70.95.162
-||v9betp.vip^$dnsrewrite=10.70.95.162
+||v9p.vip^$dnsrewrite=10.70.95.162
 ||eggfactorycafe.com^$dnsrewrite=10.70.95.162
 ||thig.com^$dnsrewrite=10.70.95.162
 ||loopme.com^$dnsrewrite=10.70.95.162
@@ -3866,7 +3866,7 @@
 ||gabyfriedman.com^$dnsrewrite=10.70.95.162
 ||newmastersounds.com^$dnsrewrite=10.70.95.162
 ||frankstellanyc.com^$dnsrewrite=10.70.95.162
-||freebetstake.com^$dnsrewrite=10.70.95.162
+||freestake.com^$dnsrewrite=10.70.95.162
 ||gvb.ch^$dnsrewrite=10.70.95.162
 ||atfbank.kz^$dnsrewrite=10.70.95.162
 ||verdemente.com^$dnsrewrite=10.70.95.162
@@ -5237,3 +5237,4 @@
 ||d9hrb6l2qyimt.cloudfront.net^$dnsrewrite=10.70.95.162
 ||fortnite-storage-live.s3.amazonaws.com^$dnsrewrite=10.70.95.162
 ||strava.com^$dnsrewrite=10.70.95.162
+||sevalla.com^$dnsrewrite=10.70.95.162
