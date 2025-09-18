@@ -24,7 +24,6 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?salesforce.com $ssl_preread_server_name;
     ~^(.*\.)?microsoft.com $ssl_preread_server_name;
     ~^(.*\.)?hostinger.com $ssl_preread_server_name;
-    ~^(.*\.)?githubusercontent.com $ssl_preread_server_name;
     ~^(.*\.)?Beatport.com $ssl_preread_server_name;
     ~^(.*\.)?fedoraproject.org $ssl_preread_server_name;
     ~^(.*\.)?discordapp.com $ssl_preread_server_name;
@@ -5204,5 +5203,4 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?riotgames.info $ssl_preread_server_name;
     ~^(.*\.)?fortnite-storage-live.s3.amazonaws.com $ssl_preread_server_name;
     ~^(.*\.)?strava.com $ssl_preread_server_name;
-    ~^(.*\.)?sevalla.com $ssl_preread_server_name;
 }
