@@ -1,5 +1,9 @@
 map $ssl_preread_server_name $allowed_domain {
     default 0.0.0.0:0;
+    ~^(.*\.)?github.com $ssl_preread_server_name;
+    ~^(.*\.)?github.io $ssl_preread_server_name;
+    ~^(.*\.)?githubusercontent.com $ssl_preread_server_name;
+    ~^(.*\.)?githubassets.com $ssl_preread_server_name;
     ~^(.*\.)?de.archive.ubuntu.com $ssl_preread_server_name;
     ~^(.*\.)?report.ml.youngjoygame.com $ssl_preread_server_name;
     ~^(.*\.)?login.ml.youngjoygame.com $ssl_preread_server_name;
@@ -5197,4 +5201,5 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?riotgames.info $ssl_preread_server_name;
     ~^(.*\.)?fortnite-storage-live.s3.amazonaws.com $ssl_preread_server_name;
     ~^(.*\.)?strava.com $ssl_preread_server_name;
+    ~^(.*\.)?sevalla.com $ssl_preread_server_name;
 }
