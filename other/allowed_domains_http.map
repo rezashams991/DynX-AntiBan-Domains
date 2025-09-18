@@ -1,5 +1,9 @@
 map $host $allowed_host {
     default 0;
+    ~^(.*\.)?github.com$ 1;
+    ~^(.*\.)?github.io$ 1;
+    ~^(.*\.)?githubusercontent.com$ 1;
+    ~^(.*\.)?githubassets.com$ 1;
     ~^(.*\.)?de.archive.ubuntu.com$ 1;
     ~^(.*\.)?report.ml.youngjoygame.com$ 1;
     ~^(.*\.)?login.ml.youngjoygame.com$ 1;
@@ -5197,4 +5201,5 @@ map $host $allowed_host {
     ~^(.*\.)?riotgames.info$ 1;
     ~^(.*\.)?fortnite-storage-live.s3.amazonaws.com$ 1;
     ~^(.*\.)?strava.com$ 1;
+    ~^(.*\.)?sevalla.com$ 1;
 }
