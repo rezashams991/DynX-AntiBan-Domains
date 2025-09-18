@@ -1,3 +1,7 @@
+||github.com^$dnsrewrite=10.70.95.162
+||github.io^$dnsrewrite=10.70.95.162
+||githubusercontent.com^$dnsrewrite=10.70.95.162
+||githubassets.com^$dnsrewrite=10.70.95.162
 ||de.archive.ubuntu.com^$dnsrewrite=10.70.95.162
 ||report.ml.youngjoygame.com^$dnsrewrite=10.70.95.162
 ||login.ml.youngjoygame.com^$dnsrewrite=10.70.95.162
