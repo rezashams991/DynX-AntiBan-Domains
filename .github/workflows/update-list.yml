@@ -79,5 +79,4 @@ jobs:
 
       - name: Update list and clear cache in AdguardHome
         run: |
-          sleep 5
           ${{ secrets.CMD }}
