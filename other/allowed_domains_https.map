@@ -1,5 +1,8 @@
 map $ssl_preread_server_name $allowed_domain {
     default 0.0.0.0:0;
+    ~^(.*\.)?play.ht $ssl_preread_server_name;
+    ~^(.*\.)?replit.com $ssl_preread_server_name;
+    ~^(.*\.)?sesame.com $ssl_preread_server_name;
     ~^(.*\.)?github.com $ssl_preread_server_name;
     ~^(.*\.)?github.io $ssl_preread_server_name;
     ~^(.*\.)?githubusercontent.com $ssl_preread_server_name;
