@@ -5696,3 +5696,4 @@
 ||fonts.googleapis.com^$dnsrewrite=10.70.95.162
 ||fonts.gstatic.com^$dnsrewrite=10.70.95.162
 ||ssl.gstatic.com^$dnsrewrite=10.70.95.162
+||americanexpress.com^$dnsrewrite=10.70.95.162
