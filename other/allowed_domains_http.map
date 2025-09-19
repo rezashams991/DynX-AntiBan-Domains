@@ -1560,7 +1560,11 @@ map $host $allowed_host {
     ~^(.*\.)?cs50.dev$ 1;
     ~^(.*\.)?vscode.dev$ 1;
     ~^(.*\.)?sites.google.com$ 1;
+    ~^(.*\.)?safebrowsing.google.com$ 1;
+    ~^(.*\.)?erith-6-uk.tlsext.com$ 1;
+    ~^(.*\.)?tools.google.com$ 1;
     ~^(.*\.)?gvt1.com$ 1;
+    ~^(.*\.)?gvt2.com$ 1;
     ~^(.*\.)?pdf2go.com$ 1;
     ~^(.*\.)?netdevgroup.com$ 1;
     ~^(.*\.)?reality.ai$ 1;
