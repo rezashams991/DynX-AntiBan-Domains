@@ -1560,7 +1560,11 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?cs50.dev $ssl_preread_server_name;
     ~^(.*\.)?vscode.dev $ssl_preread_server_name;
     ~^(.*\.)?sites.google.com $ssl_preread_server_name;
+    ~^(.*\.)?safebrowsing.google.com $ssl_preread_server_name;
+    ~^(.*\.)?erith-6-uk.tlsext.com $ssl_preread_server_name;
+    ~^(.*\.)?tools.google.com $ssl_preread_server_name;
     ~^(.*\.)?gvt1.com $ssl_preread_server_name;
+    ~^(.*\.)?gvt2.com $ssl_preread_server_name;
     ~^(.*\.)?pdf2go.com $ssl_preread_server_name;
     ~^(.*\.)?netdevgroup.com $ssl_preread_server_name;
     ~^(.*\.)?reality.ai $ssl_preread_server_name;
