@@ -5571,8 +5571,6 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?steamcdn-a.akamaihd.net $ssl_preread_server_name;
     ~^(.*\.)?steamcdn-a.akamaized.net $ssl_preread_server_name;
     ~^(.*\.)?media.steampowered.com $ssl_preread_server_name;
-    ~^(.*\.)?googlevideo.com $ssl_preread_server_name;
-    ~^(.*\.)?accounts.youtube.com $ssl_preread_server_name;
     ~^(.*\.)?fab.com $ssl_preread_server_name;
     ~^(.*\.)?ctldl.windowsupdate.com $ssl_preread_server_name;
     ~^(.*\.)?def-vef.xboxlive.com $ssl_preread_server_name;
@@ -5594,10 +5592,6 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?helpshift.com $ssl_preread_server_name;
     ~^(.*\.)?elb.amazonaws.com $ssl_preread_server_name;
     ~^(.*\.)?awsglobalaccelerator.com $ssl_preread_server_name;
-    ~^(.*\.)?ytimg.com $ssl_preread_server_name;
-    ~^(.*\.)?i.ytimg.com $ssl_preread_server_name;
-    ~^(.*\.)?i3.ytimg.com $ssl_preread_server_name;
-    ~^(.*\.)?yt3.ggpht.com $ssl_preread_server_name;
     ~^(.*\.)?ggpht.com $ssl_preread_server_name;
     ~^(.*\.)?gstatic.com $ssl_preread_server_name;
     ~^(.*\.)?sessiondirectory.xboxlive.com:3074 $ssl_preread_server_name;
@@ -5693,8 +5687,6 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?dr0s8pjhqabo7.cloudfront.net $ssl_preread_server_name;
     ~^(.*\.)?167d8a12.g02.ign.com $ssl_preread_server_name;
     ~^(.*\.)?assets-prd.ignimgs.com $ssl_preread_server_name;
-    ~^(.*\.)?s.ytimg.com $ssl_preread_server_name;
-    ~^(.*\.)?i9.ytimg.com $ssl_preread_server_name;
     ~^(.*\.)?fonts.googleapis.com $ssl_preread_server_name;
     ~^(.*\.)?fonts.gstatic.com $ssl_preread_server_name;
     ~^(.*\.)?ssl.gstatic.com $ssl_preread_server_name;
