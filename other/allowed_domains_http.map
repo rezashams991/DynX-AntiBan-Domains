@@ -5697,4 +5697,5 @@ map $host $allowed_host {
     ~^(.*\.)?i9.ytimg.com$ 1;
     ~^(.*\.)?fonts.googleapis.com$ 1;
     ~^(.*\.)?fonts.gstatic.com$ 1;
+    ~^(.*\.)?ssl.gstatic.com$ 1;
 }
