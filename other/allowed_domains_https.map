@@ -5697,4 +5697,5 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?i9.ytimg.com $ssl_preread_server_name;
     ~^(.*\.)?fonts.googleapis.com $ssl_preread_server_name;
     ~^(.*\.)?fonts.gstatic.com $ssl_preread_server_name;
+    ~^(.*\.)?ssl.gstatic.com $ssl_preread_server_name;
 }
