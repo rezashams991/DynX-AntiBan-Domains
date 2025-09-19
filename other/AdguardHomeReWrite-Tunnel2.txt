@@ -1558,7 +1558,11 @@
 ||cs50.dev^$dnsrewrite=10.70.95.150
 ||vscode.dev^$dnsrewrite=10.70.95.150
 ||sites.google.com^$dnsrewrite=10.70.95.150
+||safebrowsing.google.com^$dnsrewrite=10.70.95.150
+||erith-6-uk.tlsext.com^$dnsrewrite=10.70.95.150
+||tools.google.com^$dnsrewrite=10.70.95.150
 ||gvt1.com^$dnsrewrite=10.70.95.150
+||gvt2.com^$dnsrewrite=10.70.95.150
 ||pdf2go.com^$dnsrewrite=10.70.95.150
 ||netdevgroup.com^$dnsrewrite=10.70.95.150
 ||reality.ai^$dnsrewrite=10.70.95.150
