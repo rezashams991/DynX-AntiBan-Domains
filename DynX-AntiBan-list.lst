@@ -5569,8 +5569,6 @@ store.steampowered.com
 steamcdn-a.akamaihd.net
 steamcdn-a.akamaized.net
 media.steampowered.com
-googlevideo.com
-accounts.youtube.com
 fab.com
 ctldl.windowsupdate.com
 def-vef.xboxlive.com
@@ -5592,10 +5590,6 @@ rovio.com
 helpshift.com
 elb.amazonaws.com
 awsglobalaccelerator.com
-ytimg.com
-i.ytimg.com
-i3.ytimg.com
-yt3.ggpht.com
 ggpht.com
 gstatic.com
 sessiondirectory.xboxlive.com:3074
@@ -5691,8 +5685,6 @@ www.ign.com.edgesuite.net
 dr0s8pjhqabo7.cloudfront.net
 167d8a12.g02.ign.com
 assets-prd.ignimgs.com
-s.ytimg.com
-i9.ytimg.com
 fonts.googleapis.com
 fonts.gstatic.com
 ssl.gstatic.com
