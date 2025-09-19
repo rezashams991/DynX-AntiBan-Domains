@@ -1979,7 +1979,6 @@ map $host $allowed_host {
     ~^(.*\.)?api.github.com$ 1;
     ~^(.*\.)?education.github.com$ 1;
     ~^(.*\.)?run.app$ 1;
-    ~^(.*\.)?googleapis.com$ 1;
     ~^(.*\.)?playstation.com$ 1;
     ~^(.*\.)?online-fix.me$ 1;
     ~^(.*\.)?githubcopilot.com$ 1;
