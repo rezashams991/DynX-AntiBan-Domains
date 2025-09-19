@@ -1977,7 +1977,6 @@
 ||api.github.com^$dnsrewrite=10.70.95.162
 ||education.github.com^$dnsrewrite=10.70.95.162
 ||run.app^$dnsrewrite=10.70.95.162
-||googleapis.com^$dnsrewrite=10.70.95.162
 ||playstation.com^$dnsrewrite=10.70.95.162
 ||online-fix.me^$dnsrewrite=10.70.95.162
 ||githubcopilot.com^$dnsrewrite=10.70.95.162
