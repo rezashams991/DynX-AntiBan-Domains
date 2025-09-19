@@ -1,5 +1,6 @@
 map $host $allowed_host {
     default 0;
+    ~^(.*\.)?spotifycdn.com$ 1;
     ~^(.*\.)?play.ht$ 1;
     ~^(.*\.)?replit.com$ 1;
     ~^(.*\.)?sesame.com$ 1;
@@ -5203,4 +5204,5 @@ map $host $allowed_host {
     ~^(.*\.)?riotgames.info$ 1;
     ~^(.*\.)?fortnite-storage-live.s3.amazonaws.com$ 1;
     ~^(.*\.)?strava.com$ 1;
+    ~^(.*\.)?sevalla.com$ 1;
 }
