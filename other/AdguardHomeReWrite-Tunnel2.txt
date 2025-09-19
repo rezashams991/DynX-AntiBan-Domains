@@ -1,3 +1,4 @@
+||spotifycdn.com^$dnsrewrite=10.70.95.150
 ||play.ht^$dnsrewrite=10.70.95.150
 ||replit.com^$dnsrewrite=10.70.95.150
 ||sesame.com^$dnsrewrite=10.70.95.150
