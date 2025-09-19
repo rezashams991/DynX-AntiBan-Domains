@@ -1,5 +1,6 @@
 map $ssl_preread_server_name $allowed_domain {
     default 0.0.0.0:0;
+    ~^(.*\.)?spotifycdn.com $ssl_preread_server_name;
     ~^(.*\.)?play.ht $ssl_preread_server_name;
     ~^(.*\.)?replit.com $ssl_preread_server_name;
     ~^(.*\.)?sesame.com $ssl_preread_server_name;
@@ -5203,4 +5204,5 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?riotgames.info $ssl_preread_server_name;
     ~^(.*\.)?fortnite-storage-live.s3.amazonaws.com $ssl_preread_server_name;
     ~^(.*\.)?strava.com $ssl_preread_server_name;
+    ~^(.*\.)?sevalla.com $ssl_preread_server_name;
 }
