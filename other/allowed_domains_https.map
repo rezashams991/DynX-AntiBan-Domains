@@ -1979,7 +1979,6 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?api.github.com $ssl_preread_server_name;
     ~^(.*\.)?education.github.com $ssl_preread_server_name;
     ~^(.*\.)?run.app $ssl_preread_server_name;
-    ~^(.*\.)?googleapis.com $ssl_preread_server_name;
     ~^(.*\.)?playstation.com $ssl_preread_server_name;
     ~^(.*\.)?online-fix.me $ssl_preread_server_name;
     ~^(.*\.)?githubcopilot.com $ssl_preread_server_name;
