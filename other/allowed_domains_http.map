@@ -5571,8 +5571,6 @@ map $host $allowed_host {
     ~^(.*\.)?steamcdn-a.akamaihd.net$ 1;
     ~^(.*\.)?steamcdn-a.akamaized.net$ 1;
     ~^(.*\.)?media.steampowered.com$ 1;
-    ~^(.*\.)?googlevideo.com$ 1;
-    ~^(.*\.)?accounts.youtube.com$ 1;
     ~^(.*\.)?fab.com$ 1;
     ~^(.*\.)?ctldl.windowsupdate.com$ 1;
     ~^(.*\.)?def-vef.xboxlive.com$ 1;
@@ -5594,10 +5592,6 @@ map $host $allowed_host {
     ~^(.*\.)?helpshift.com$ 1;
     ~^(.*\.)?elb.amazonaws.com$ 1;
     ~^(.*\.)?awsglobalaccelerator.com$ 1;
-    ~^(.*\.)?ytimg.com$ 1;
-    ~^(.*\.)?i.ytimg.com$ 1;
-    ~^(.*\.)?i3.ytimg.com$ 1;
-    ~^(.*\.)?yt3.ggpht.com$ 1;
     ~^(.*\.)?ggpht.com$ 1;
     ~^(.*\.)?gstatic.com$ 1;
     ~^(.*\.)?sessiondirectory.xboxlive.com:3074$ 1;
@@ -5693,8 +5687,6 @@ map $host $allowed_host {
     ~^(.*\.)?dr0s8pjhqabo7.cloudfront.net$ 1;
     ~^(.*\.)?167d8a12.g02.ign.com$ 1;
     ~^(.*\.)?assets-prd.ignimgs.com$ 1;
-    ~^(.*\.)?s.ytimg.com$ 1;
-    ~^(.*\.)?i9.ytimg.com$ 1;
     ~^(.*\.)?fonts.googleapis.com$ 1;
     ~^(.*\.)?fonts.gstatic.com$ 1;
     ~^(.*\.)?ssl.gstatic.com$ 1;
