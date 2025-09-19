@@ -5569,8 +5569,6 @@
 ||steamcdn-a.akamaihd.net^$dnsrewrite=10.70.95.150
 ||steamcdn-a.akamaized.net^$dnsrewrite=10.70.95.150
 ||media.steampowered.com^$dnsrewrite=10.70.95.150
-||googlevideo.com^$dnsrewrite=10.70.95.150
-||accounts.youtube.com^$dnsrewrite=10.70.95.150
 ||fab.com^$dnsrewrite=10.70.95.150
 ||ctldl.windowsupdate.com^$dnsrewrite=10.70.95.150
 ||def-vef.xboxlive.com^$dnsrewrite=10.70.95.150
@@ -5592,10 +5590,6 @@
 ||helpshift.com^$dnsrewrite=10.70.95.150
 ||elb.amazonaws.com^$dnsrewrite=10.70.95.150
 ||awsglobalaccelerator.com^$dnsrewrite=10.70.95.150
-||ytimg.com^$dnsrewrite=10.70.95.150
-||i.ytimg.com^$dnsrewrite=10.70.95.150
-||i3.ytimg.com^$dnsrewrite=10.70.95.150
-||yt3.ggpht.com^$dnsrewrite=10.70.95.150
 ||ggpht.com^$dnsrewrite=10.70.95.150
 ||gstatic.com^$dnsrewrite=10.70.95.150
 ||sessiondirectory.xboxlive.com:3074^$dnsrewrite=10.70.95.150
@@ -5691,8 +5685,6 @@
 ||dr0s8pjhqabo7.cloudfront.net^$dnsrewrite=10.70.95.150
 ||167d8a12.g02.ign.com^$dnsrewrite=10.70.95.150
 ||assets-prd.ignimgs.com^$dnsrewrite=10.70.95.150
-||s.ytimg.com^$dnsrewrite=10.70.95.150
-||i9.ytimg.com^$dnsrewrite=10.70.95.150
 ||fonts.googleapis.com^$dnsrewrite=10.70.95.150
 ||fonts.gstatic.com^$dnsrewrite=10.70.95.150
 ||ssl.gstatic.com^$dnsrewrite=10.70.95.150
