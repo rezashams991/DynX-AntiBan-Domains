@@ -891,7 +891,6 @@ social.xboxlive.com
 streaming.xboxlive.com
 title.mgt.xboxlive.com
 titlehub.xboxlive.com
-titlestorage.xboxlive.com
 user.auth.xboxlive.com
 userpresence.xboxlive.com
 userstats.xboxlive.com
@@ -1490,12 +1489,10 @@ gpubgm.com
 amsoveasea.com
 pubgmobile.com
 ip.sb
-xboxservices.com
 vscode-cdn.net
 msn.com
 msftncsi.com
 dockerstatic.com
-windowsupdate.com
 asus.com.cn
 amazontrust.com
 gamesplanet.com
@@ -4155,14 +4152,8 @@ accountstroubleshooter-origin.xboxlive.com
 accountstroubleshooter.dnet.xboxlive.com
 accountstroubleshooter.xboxlive.com
 accountstroubleshooterppe.xboxlive.com
-achievements-origin.xboxlive.com
-achievements-ppe.xboxlive.com
-achievements.xboxlive.com
 activeauth.xboxlive.com
 activity.family.dnet.xboxlive.com
-activityhub-origin.xboxlive.com
-activityhub-ppe.xboxlive.com
-activityhub.xboxlive.com
 afdverifyavatarservices.xboxlive.com
 alt-keys-accessory.auth.dnet.xboxlive.com
 americas.gssv-auth-int.xboxlive.com
@@ -4238,8 +4229,6 @@ americas.xplt-xcad-test.xboxlive.com
 ap.canary.xccs.xboxlive.com
 ap.packages.xboxlive.com
 ap.packagespc.xboxlive.com
-ap.update.xboxlive.com
-ap.updatepc.xboxlive.com
 ap.xccs.xboxlive.com
 api.test.soteria.xboxlive.com
 asiapacific.gssv-auth-prod.xboxlive.com
@@ -4347,7 +4336,6 @@ beta2-sisu.xboxlive.com
 bff.test.soteria.xboxlive.com
 borg.dnet.xboxlive.com
 borg.xboxlive.com
-bundleupdate.support.xboxlive.com
 canadacentral-gamingconsent.xboxlive.com
 canary.xccs.xboxlive.com
 careerreader-cy2.xboxlive.com
@@ -4917,8 +4905,6 @@ titlereco.xboxlive.com
 titlerecords.xboxlive.com
 titlesfriendsplayed-ppe.xboxlive.com
 titlesfriendsplayed.xboxlive.com
-titlestorage-origin.xboxlive.com
-titlestorage.dnet.xboxlive.com
 tokenminting-gw.xboxlive.com
 tokenstate-gw.xboxlive.com
 tokenstate-gwppe.xboxlive.com
@@ -4928,11 +4914,6 @@ transporter-ppe.xboxlive.com
 transporter.xboxlive.com
 trendingtv-acc-ppe.xboxlive.com
 trendingtv-acc.xboxlive.com
-update-cdn.xboxlive.com
-update-next.xboxlive.com
-update-origin.xboxlive.com
-update.dnet.xboxlive.com
-update.xboxlive.com
 updatepc-next.xboxlive.com
 updatepc.dnet.xboxlive.com
 updatepc.xboxlive.com
