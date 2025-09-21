@@ -5489,3 +5489,12 @@ youtube.com
 accounts.youtube.com
 account.microsoft.com
 account.live.com
+servicebus.windows.net
+queue.core.windows.net
+table.core.windows.net
+management.windows.net
+database.windows.net
+login.windows.net
+auth.services.adobe.com
+account.adobe.com
+services.adobe.com
