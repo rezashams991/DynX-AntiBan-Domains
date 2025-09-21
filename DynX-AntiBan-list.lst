@@ -334,7 +334,6 @@ curl.haxx.se
 wpastra.com
 imgix.net
 brightcove.com
-akamai.com
 broadcom.com
 themoviedb.org
 tinypng.com
@@ -347,7 +346,6 @@ edx.org
 sc-static.net
 segment.io
 usertesting.com
-edgecastcdn.net
 reactjs.org
 laravel.com
 cloudflareinsights.com
@@ -866,19 +864,16 @@ att.com
 accounts.xboxlive.com
 adept-server-prod-uodmhebufa-ue.a.run.app
 arc.msn.com
-assets.xboxservices.com
 avatarv3.xboxlive.com
 c.pki.goog
 catalog.gamepass.com
 clubhub.xboxlive.com
 comments.xboxlive.com
 consent.config.office.com
-dlassets-ssl.xboxlive.com
 dns.msftncsi.com
 editorial.xboxlive.com
 eplists.xboxlive.com
 gosca18.ea.com
-images-eds-ssl.xboxlive.com
 in.appcenter.ms
 insights-collector.newrelic.com
 instance.mgt.xboxlive.com
@@ -897,7 +892,6 @@ streaming.xboxlive.com
 title.mgt.xboxlive.com
 titlehub.xboxlive.com
 titlestorage.xboxlive.com
-titlestoragescus0102.blob.core.windows.net
 user.auth.xboxlive.com
 userpresence.xboxlive.com
 userstats.xboxlive.com
@@ -905,7 +899,6 @@ usertitles.xboxlive.com
 utas.prd.s5.prd.futc-ext.gcp.ea.com
 msftconnecttest.com
 www.msftncsi.com
-www.xboxab.com
 www.xboxlive.com
 xblmessaging.xboxlive.com
 xgrant.xboxlive.com
@@ -1493,7 +1486,6 @@ auth.uber.com
 registry.redhat.io
 aistudio.google.com
 dnsv1.com
-edgesuite.net
 gpubgm.com
 amsoveasea.com
 pubgmobile.com
@@ -1525,10 +1517,8 @@ jsdelivr.net
 jquery.com
 unpkg.com
 exp-tas.com
-msecnd.net
 uxcam.com
 gamepass.com
-xboxab.com
 myget.org
 chatgptonline.net
 awsstatic.com
