@@ -896,8 +896,6 @@ userpresence.xboxlive.com
 userstats.xboxlive.com
 usertitles.xboxlive.com
 utas.prd.s5.prd.futc-ext.gcp.ea.com
-msftconnecttest.com
-www.msftncsi.com
 www.xboxlive.com
 xblmessaging.xboxlive.com
 xgrant.xboxlive.com
@@ -1882,7 +1880,6 @@ sysinternals.com
 generativeai.google
 makersuite.google.com
 api.snapcraft.io
-vsdebugger.azureedge.net
 electron.build
 cloudconvert.com
 gradio.app
@@ -4301,7 +4298,6 @@ beta-title.auth.dnet.xboxlive.com
 beta-title.auth.xboxlive.com
 beta-title.mgt.dnet.xboxlive.com
 beta-title.mgt.xboxlive.com
-beta-titlestorage.xboxlive.com
 beta-user.auth.dnet.xboxlive.com
 beta-user.auth.xboxlive.com
 beta-user.mgt.dnet.xboxlive.com
@@ -4933,8 +4929,6 @@ userconsolestoretitles-ppe.xboxlive.com
 userconsolestoretitles.xboxlive.com
 usergamepasspicksforyou-ppe.xboxlive.com
 usergamepasspicksforyou.xboxlive.com
-userposts-ppe.xboxlive.com
-userposts.xboxlive.com
 userpresence-ppe.xboxlive.com
 userpresence.dnet.xboxlive.com
 usersearch-ppe.xboxlive.com
