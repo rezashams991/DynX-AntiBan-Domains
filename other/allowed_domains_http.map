@@ -5686,7 +5686,9 @@ map $host $allowed_host {
     ~^(.*\.)?dr0s8pjhqabo7.cloudfront.net$ 1;
     ~^(.*\.)?167d8a12.g02.ign.com$ 1;
     ~^(.*\.)?assets-prd.ignimgs.com$ 1;
-    ~^(.*\.)?fonts.googleapis.com$ 1;
     ~^(.*\.)?fonts.gstatic.com$ 1;
     ~^(.*\.)?ssl.gstatic.com$ 1;
+    ~^(.*\.)?americanexpress.com$ 1;
+    ~^(.*\.)?googleapis.com$ 1;
+    ~^(.*\.)?iask.ai$ 1;
 }

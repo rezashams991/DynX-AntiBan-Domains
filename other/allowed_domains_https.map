@@ -5686,7 +5686,9 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?dr0s8pjhqabo7.cloudfront.net $ssl_preread_server_name;
     ~^(.*\.)?167d8a12.g02.ign.com $ssl_preread_server_name;
     ~^(.*\.)?assets-prd.ignimgs.com $ssl_preread_server_name;
-    ~^(.*\.)?fonts.googleapis.com $ssl_preread_server_name;
     ~^(.*\.)?fonts.gstatic.com $ssl_preread_server_name;
     ~^(.*\.)?ssl.gstatic.com $ssl_preread_server_name;
+    ~^(.*\.)?americanexpress.com $ssl_preread_server_name;
+    ~^(.*\.)?googleapis.com $ssl_preread_server_name;
+    ~^(.*\.)?iask.ai $ssl_preread_server_name;
 }

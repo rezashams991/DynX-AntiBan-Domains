@@ -5684,7 +5684,9 @@
 ||dr0s8pjhqabo7.cloudfront.net^$dnsrewrite=10.70.95.162
 ||167d8a12.g02.ign.com^$dnsrewrite=10.70.95.162
 ||assets-prd.ignimgs.com^$dnsrewrite=10.70.95.162
-||fonts.googleapis.com^$dnsrewrite=10.70.95.162
 ||fonts.gstatic.com^$dnsrewrite=10.70.95.162
 ||ssl.gstatic.com^$dnsrewrite=10.70.95.162
 ||americanexpress.com^$dnsrewrite=10.70.95.162
+||googleapis.com^$dnsrewrite=10.70.95.162
+||iask.ai^$dnsrewrite=10.70.95.162
+||msi.com^$dnsrewrite=10.70.95.162
