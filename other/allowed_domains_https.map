@@ -5471,4 +5471,6 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?msi.com $ssl_preread_server_name;
     ~^(.*\.)?nvidia.com $ssl_preread_server_name;
     ~^(.*\.)?open-vsx.org $ssl_preread_server_name;
+    ~^(.*\.)?deepl.com $ssl_preread_server_name;
+    ~^(.*\.)?googlevideo.com $ssl_preread_server_name;
 }
