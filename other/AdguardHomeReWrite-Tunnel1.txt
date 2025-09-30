@@ -5470,3 +5470,5 @@
 ||nvidia.com^$dnsrewrite=10.70.95.162
 ||open-vsx.org^$dnsrewrite=10.70.95.162
 ||deepl.com^$dnsrewrite=10.70.95.162
+||googlevideo.com^$dnsrewrite=10.70.95.162
+||ytimg.com^$dnsrewrite=10.70.95.162
