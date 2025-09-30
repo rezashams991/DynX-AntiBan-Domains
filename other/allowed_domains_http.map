@@ -139,7 +139,6 @@ map $host $allowed_host {
     ~^(.*\.)?linuxhostsupport.com$ 1;
     ~^(.*\.)?motorola.com$ 1;
     ~^(.*\.)?mysql.com$ 1;
-    ~^(.*\.)?nvidia.com$ 1;
     ~^(.*\.)?notion.so$ 1;
     ~^(.*\.)?solarwinds.com$ 1;
     ~^(.*\.)?spiceworks.com$ 1;
@@ -5339,9 +5338,7 @@ map $host $allowed_host {
     ~^(.*\.)?zaffre-staging.xboxservices.com$ 1;
     ~^(.*\.)?zaffre.xboxservices.com$ 1;
     ~^(.*\.)?g.live.com$ 1;
-    ~^(.*\.)?xbox.com:3074$ 1;
-    ~^(.*\.)?xboxlive.com:3074$ 1;
-    ~^(.*\.)?xboxservices.com:3074$ 1;
+    ~^(.*\.)?xboxservices.com$ 1;
     ~^(.*\.)?sisu.xboxlive.com$ 1;
     ~^(.*\.)?sisu.xbox.com$ 1;
     ~^(.*\.)?rewards.bing.com$ 1;
@@ -5354,10 +5351,6 @@ map $host $allowed_host {
     ~^(.*\.)?drops-register.ubi.com$ 1;
     ~^(.*\.)?www.rockstargames.com$ 1;
     ~^(.*\.)?launcher.rockstargames.net$ 1;
-    ~^(.*\.)?rockstargames.com:6672$ 1;
-    ~^(.*\.)?rockstargames.com:61455$ 1;
-    ~^(.*\.)?rockstargames.com:61458$ 1;
-    ~^(.*\.)?socialclub.rockstargames.com:6672$ 1;
     ~^(.*\.)?s.rsg.sc$ 1;
     ~^(.*\.)?a.rsg.sc$ 1;
     ~^(.*\.)?rsg.sc$ 1;
@@ -5426,15 +5419,6 @@ map $host $allowed_host {
     ~^(.*\.)?angrybirds.com$ 1;
     ~^(.*\.)?rovio.com$ 1;
     ~^(.*\.)?helpshift.com$ 1;
-    ~^(.*\.)?xboxlive.com:88$ 1;
-    ~^(.*\.)?xboxlive.com:3544$ 1;
-    ~^(.*\.)?xboxlive.com:500$ 1;
-    ~^(.*\.)?xboxlive.com:4500$ 1;
-    ~^(.*\.)?xbox.com:88$ 1;
-    ~^(.*\.)?xbox.com:3544$ 1;
-    ~^(.*\.)?xbox.com:500$ 1;
-    ~^(.*\.)?xbox.com:4500$ 1;
-    ~^(.*\.)?microsoft.com:3074$ 1;
     ~^(.*\.)?firebaseapp.com$ 1;
     ~^(.*\.)?gmtreks.com$ 1;
     ~^(.*\.)?oauth.battle.net$ 1;
@@ -5482,12 +5466,10 @@ map $host $allowed_host {
     ~^(.*\.)?services.adobe.com$ 1;
     ~^(.*\.)?producer.ai$ 1;
     ~^(.*\.)?playground.com$ 1;
-    ~^(.*\.)?fonts.gstatic.com$ 1;
-    ~^(.*\.)?ssl.gstatic.com$ 1;
+    ~^(.*\.)?gstatic.com$ 1;
     ~^(.*\.)?googleapis.com$ 1;
     ~^(.*\.)?iask.ai$ 1;
     ~^(.*\.)?msi.com$ 1;
-    ~^(.*\.)?nvgs.nvidia.com$ 1;
-    ~^(.*\.)?brev.nvidia.com$ 1;
-    ~^(.*\.)?ngc.nvidia.com$ 1;
+    ~^(.*\.)?nvidia.com$ 1;
+    ~^(.*\.)?open-vsx.org$ 1;
 }
