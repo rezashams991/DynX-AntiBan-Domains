@@ -139,7 +139,6 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?linuxhostsupport.com $ssl_preread_server_name;
     ~^(.*\.)?motorola.com $ssl_preread_server_name;
     ~^(.*\.)?mysql.com $ssl_preread_server_name;
-    ~^(.*\.)?nvidia.com $ssl_preread_server_name;
     ~^(.*\.)?notion.so $ssl_preread_server_name;
     ~^(.*\.)?solarwinds.com $ssl_preread_server_name;
     ~^(.*\.)?spiceworks.com $ssl_preread_server_name;
@@ -5339,9 +5338,7 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?zaffre-staging.xboxservices.com $ssl_preread_server_name;
     ~^(.*\.)?zaffre.xboxservices.com $ssl_preread_server_name;
     ~^(.*\.)?g.live.com $ssl_preread_server_name;
-    ~^(.*\.)?xbox.com:3074 $ssl_preread_server_name;
-    ~^(.*\.)?xboxlive.com:3074 $ssl_preread_server_name;
-    ~^(.*\.)?xboxservices.com:3074 $ssl_preread_server_name;
+    ~^(.*\.)?xboxservices.com $ssl_preread_server_name;
     ~^(.*\.)?sisu.xboxlive.com $ssl_preread_server_name;
     ~^(.*\.)?sisu.xbox.com $ssl_preread_server_name;
     ~^(.*\.)?rewards.bing.com $ssl_preread_server_name;
@@ -5354,10 +5351,6 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?drops-register.ubi.com $ssl_preread_server_name;
     ~^(.*\.)?www.rockstargames.com $ssl_preread_server_name;
     ~^(.*\.)?launcher.rockstargames.net $ssl_preread_server_name;
-    ~^(.*\.)?rockstargames.com:6672 $ssl_preread_server_name;
-    ~^(.*\.)?rockstargames.com:61455 $ssl_preread_server_name;
-    ~^(.*\.)?rockstargames.com:61458 $ssl_preread_server_name;
-    ~^(.*\.)?socialclub.rockstargames.com:6672 $ssl_preread_server_name;
     ~^(.*\.)?s.rsg.sc $ssl_preread_server_name;
     ~^(.*\.)?a.rsg.sc $ssl_preread_server_name;
     ~^(.*\.)?rsg.sc $ssl_preread_server_name;
@@ -5426,15 +5419,6 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?angrybirds.com $ssl_preread_server_name;
     ~^(.*\.)?rovio.com $ssl_preread_server_name;
     ~^(.*\.)?helpshift.com $ssl_preread_server_name;
-    ~^(.*\.)?xboxlive.com:88 $ssl_preread_server_name;
-    ~^(.*\.)?xboxlive.com:3544 $ssl_preread_server_name;
-    ~^(.*\.)?xboxlive.com:500 $ssl_preread_server_name;
-    ~^(.*\.)?xboxlive.com:4500 $ssl_preread_server_name;
-    ~^(.*\.)?xbox.com:88 $ssl_preread_server_name;
-    ~^(.*\.)?xbox.com:3544 $ssl_preread_server_name;
-    ~^(.*\.)?xbox.com:500 $ssl_preread_server_name;
-    ~^(.*\.)?xbox.com:4500 $ssl_preread_server_name;
-    ~^(.*\.)?microsoft.com:3074 $ssl_preread_server_name;
     ~^(.*\.)?firebaseapp.com $ssl_preread_server_name;
     ~^(.*\.)?gmtreks.com $ssl_preread_server_name;
     ~^(.*\.)?oauth.battle.net $ssl_preread_server_name;
@@ -5482,12 +5466,10 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?services.adobe.com $ssl_preread_server_name;
     ~^(.*\.)?producer.ai $ssl_preread_server_name;
     ~^(.*\.)?playground.com $ssl_preread_server_name;
-    ~^(.*\.)?fonts.gstatic.com $ssl_preread_server_name;
-    ~^(.*\.)?ssl.gstatic.com $ssl_preread_server_name;
+    ~^(.*\.)?gstatic.com $ssl_preread_server_name;
     ~^(.*\.)?googleapis.com $ssl_preread_server_name;
     ~^(.*\.)?iask.ai $ssl_preread_server_name;
     ~^(.*\.)?msi.com $ssl_preread_server_name;
-    ~^(.*\.)?nvgs.nvidia.com $ssl_preread_server_name;
-    ~^(.*\.)?brev.nvidia.com $ssl_preread_server_name;
-    ~^(.*\.)?ngc.nvidia.com $ssl_preread_server_name;
+    ~^(.*\.)?nvidia.com $ssl_preread_server_name;
+    ~^(.*\.)?open-vsx.org $ssl_preread_server_name;
 }
