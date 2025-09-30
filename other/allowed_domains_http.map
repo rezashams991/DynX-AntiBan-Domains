@@ -5452,7 +5452,6 @@ map $host $allowed_host {
     ~^(.*\.)?americanexpress.com$ 1;
     ~^(.*\.)?extensions.sketchup.com$ 1;
     ~^(.*\.)?youtube.com$ 1;
-    ~^(.*\.)?accounts.youtube.com$ 1;
     ~^(.*\.)?account.microsoft.com$ 1;
     ~^(.*\.)?account.live.com$ 1;
     ~^(.*\.)?servicebus.windows.net$ 1;
