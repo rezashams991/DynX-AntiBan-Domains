@@ -5471,4 +5471,6 @@ map $host $allowed_host {
     ~^(.*\.)?msi.com$ 1;
     ~^(.*\.)?nvidia.com$ 1;
     ~^(.*\.)?open-vsx.org$ 1;
+    ~^(.*\.)?deepl.com$ 1;
+    ~^(.*\.)?googlevideo.com$ 1;
 }
