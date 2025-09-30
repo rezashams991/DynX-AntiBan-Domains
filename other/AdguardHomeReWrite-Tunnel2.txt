@@ -5450,7 +5450,6 @@
 ||americanexpress.com^$dnsrewrite=10.70.95.150
 ||extensions.sketchup.com^$dnsrewrite=10.70.95.150
 ||youtube.com^$dnsrewrite=10.70.95.150
-||accounts.youtube.com^$dnsrewrite=10.70.95.150
 ||account.microsoft.com^$dnsrewrite=10.70.95.150
 ||account.live.com^$dnsrewrite=10.70.95.150
 ||servicebus.windows.net^$dnsrewrite=10.70.95.150
