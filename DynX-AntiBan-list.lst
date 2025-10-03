@@ -5450,7 +5450,6 @@ backend.cdprojektred.com
 services.cdprojektred.com
 auth.cdprojektred.com
 account.cdprojektred.com
-dev.cdprojektred.com
 staging.cdprojektred.com
 test.cdprojektred.com
 api-dev.cdprojektred.com
@@ -5478,3 +5477,4 @@ playables.youtube.com
 in-game.cdprojekt.com
 www.cdprojekt.com
 cdprojekt.com
+voice.google.com
