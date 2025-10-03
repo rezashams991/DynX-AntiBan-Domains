@@ -5506,9 +5506,6 @@ api.legacy-services.wbgames.com
 hl-api.wbgames.com
 hogwarts-api.wbgames.com
 wizardingworld-api.wbgames.com
-analytics.wbgames.com
-telemetry.wbgames.com
-metrics.wbgames.com
 status.wbgames.com
 monitoring.wbgames.com
 wbd.com
@@ -5518,3 +5515,4 @@ account.wbd.com
 www.rovio.com
 ‏angrybirds2.com
 odin.adobe.com
+playables.youtube.com
