@@ -1,3 +1,4 @@
+||xt.com^$dnsrewrite=10.70.95.162
 ||spotifycdn.com^$dnsrewrite=10.70.95.162
 ||play.ht^$dnsrewrite=10.70.95.162
 ||replit.com^$dnsrewrite=10.70.95.162
