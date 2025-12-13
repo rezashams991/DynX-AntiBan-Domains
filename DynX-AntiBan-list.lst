@@ -5496,7 +5496,6 @@ eu.shop.battle.net
 eu.battle.net
 classic.battle.net
 account.battle.net
-msn.com
 www.msn.com
 myaccount.nvidia.com
 profile.nvgs.nvidia.com
@@ -5508,7 +5507,6 @@ distrokid.com
 copilot.microsoft.com
 tile-service.weather.microsoft.com
 evoke-windowsservices-tas.msedge.net
-ocsp.digicert.com
 business.bing.com
 dmd.metaservices.microsoft.com
 functional.events.data.microsoft.com
@@ -5539,8 +5537,6 @@ manage.devcenter.microsoft.com
 displaycatalog.mp.microsoft.com
 share.microsoft.com
 to-do.microsoft.com
-www.msftconnecttest.com
-ipv6.msftconnecttest.com
 www.office.com
 officeclient.microsoft.com
 ecs.nel.measure.office.net
@@ -5555,7 +5551,6 @@ config.edge.skype.com
 config.teams.microsoft.com
 teams.live.com
 teams.events.data.microsoft.com
-arc.msn.com
 ris.api.iris.microsoft.com
 api.msn.com
 ntp.msn.com
