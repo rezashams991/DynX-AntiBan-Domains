@@ -1,5 +1,5 @@
-||spotifycdn.com^$dnsrewrite=10.139.177.18
 ||xt.com^$dnsrewrite=10.139.177.18
+||spotifycdn.com^$dnsrewrite=10.139.177.18
 ||play.ht^$dnsrewrite=10.139.177.18
 ||replit.com^$dnsrewrite=10.139.177.18
 ||sesame.com^$dnsrewrite=10.139.177.18
