@@ -10,11 +10,11 @@
 ||de.archive.ubuntu.com^$dnsrewrite=193.24.103.2
 ||report.ml.youngjoygame.com^$dnsrewrite=193.24.103.2
 ||login.ml.youngjoygame.com^$dnsrewrite=193.24.103.2
-||genspark.ai^$dnsrewrite=193.24.103.2
 ||cachyos.org^$dnsrewrite=193.24.103.2
 ||langchain.com^$dnsrewrite=193.24.103.2
 ||remotedesktop.google.com^$dnsrewrite=193.24.103.2
 ||mariadb.com^$dnsrewrite=193.24.103.2
+||genspark.ai^$dnsrewrite=193.24.103.2
 ||llama.com^$dnsrewrite=193.24.103.2
 ||galxe.com^$dnsrewrite=193.24.103.2
 ||checks.google.com^$dnsrewrite=193.24.103.2
