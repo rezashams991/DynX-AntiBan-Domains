@@ -1,7 +1,7 @@
 map $ssl_preread_server_name $allowed_domain {
     default 0.0.0.0:0;
-    ~^(.*\.)?spotifycdn.com $ssl_preread_server_name;
     ~^(.*\.)?xt.com $ssl_preread_server_name;
+    ~^(.*\.)?spotifycdn.com $ssl_preread_server_name;
     ~^(.*\.)?play.ht $ssl_preread_server_name;
     ~^(.*\.)?replit.com $ssl_preread_server_name;
     ~^(.*\.)?sesame.com $ssl_preread_server_name;
@@ -5470,4 +5470,5 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?msi.com $ssl_preread_server_name;
     ~^(.*\.)?nvidia.com $ssl_preread_server_name;
     ~^(.*\.)?open-vsx.org $ssl_preread_server_name;
+    ~^(.*\.)?deepl.com $ssl_preread_server_name;
 }
