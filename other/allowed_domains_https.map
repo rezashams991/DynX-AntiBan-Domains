@@ -12,11 +12,11 @@ map $ssl_preread_server_name $allowed_domain {
     ~^(.*\.)?de.archive.ubuntu.com $ssl_preread_server_name;
     ~^(.*\.)?report.ml.youngjoygame.com $ssl_preread_server_name;
     ~^(.*\.)?login.ml.youngjoygame.com $ssl_preread_server_name;
-    ~^(.*\.)?genspark.ai $ssl_preread_server_name;
     ~^(.*\.)?cachyos.org $ssl_preread_server_name;
     ~^(.*\.)?langchain.com $ssl_preread_server_name;
     ~^(.*\.)?remotedesktop.google.com $ssl_preread_server_name;
     ~^(.*\.)?mariadb.com $ssl_preread_server_name;
+    ~^(.*\.)?genspark.ai $ssl_preread_server_name;
     ~^(.*\.)?llama.com $ssl_preread_server_name;
     ~^(.*\.)?galxe.com $ssl_preread_server_name;
     ~^(.*\.)?checks.google.com $ssl_preread_server_name;
